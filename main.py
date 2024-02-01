@@ -50,8 +50,6 @@ read_laters = []
 id_ = 1
 if all_read_laters:
     id_ = int(all_read_laters[-1][KEY_ID]) + 1
-read = False
-read_at = None
 create_at = get_now_jst()
 
 for text in texts:
@@ -80,7 +78,7 @@ for text in texts:
         continue
 
     read_later = {}
-    values = [id_, title, url, read, read_at, create_at]
+    values = [id_, title, url, create_at]
     for key, val in zip(HEADER, values):
         read_later.update({key: val})
     read_laters.append(read_later)
