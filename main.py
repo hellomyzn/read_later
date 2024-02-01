@@ -20,11 +20,9 @@ def write_header():
 KEY_ID = "id"
 KEY_TITLE = "title"
 KEY_URL = "url"
-KEY_READ = "read"
-KEY_READ_AT = "read_at"
 KEY_CREATE_AT = "create_at"
 
-HEADER = [KEY_ID, KEY_TITLE, KEY_URL, KEY_READ, KEY_READ_AT, KEY_CREATE_AT]
+HEADER = [KEY_ID, KEY_TITLE, KEY_URL, KEY_CREATE_AT]
 
 # get all onetab links
 onetab_file_path = "./onetab.txt"
@@ -66,10 +64,11 @@ for text in texts:
     title = "".join(splitted_text[1:]).replace("\n", "").lstrip()
 
     # sometimes title is error_title which is not legit
-    error_title = "400 Request Header Or Cookie Too Large"
-    has_error_text = error_title in title
-    if has_error_text:
-        print(f"some titles are not legit. find out some 404 errors({error_title})")
+    error_texts = ["400 Request Header Or Cookie Too Large",
+     "The page you were looking for doesn't exist",
+     "404 Not Found - Qiita"]
+    if any(error_text in title for error_text in error_texts):
+        print(f"has error texts in title. title: {title}, url: {url}")
         sys.exit(1)
 
     # skip if duplicated data with onetab
@@ -97,3 +96,6 @@ with open(csv_file_path, encoding="utf-8", mode="a") as f:
     writer = csv.DictWriter(f, fieldnames = HEADER)
     writer.writerows(read_laters)
 
+
+
+# TODO: reads csvを用意して、google spread sheetからデータを取得し、ローカルcsv に同期して、githubで管理する
