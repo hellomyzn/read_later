@@ -19,6 +19,10 @@ class ReadLaterController(object):
     """onetab controller"""
 
     def add(self):
+        # TODO:
+        # check csv file
+        # check one tab file
+
         service = OnetabService()
         onetabs = service.get_new_data()
         if not onetabs:

@@ -21,6 +21,7 @@ def main():
     initialize_logger()
     controller = ReadLaterController()
     controller.add()
+    # TODO: reads csvを用意して、google spread sheetからデータを取得し、ローカルcsv に同期して、githubで管理する
 
 
 if __name__ == "__main__":
