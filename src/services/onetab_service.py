@@ -81,7 +81,7 @@ class OnetabService(object):
                 self.csv_repo.KEY_CREATE_AT: create_at}
             new_onetabs.append(read_later)
 
-        print("new onetabs: {0}", len(new_onetabs))
+        info("new onetabs: {0}", len(new_onetabs))
         return new_onetabs
 
     @classmethod
