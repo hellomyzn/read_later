@@ -42,6 +42,7 @@ class OnetabService(object):
         try:
             id_ = int(read_laters[-1][self.csv_repo.KEY_ID])
         except IndexError:
+            # if there is no data in repo, id is 0
             id_ = 0
         create_at = get_now_jst()
 
@@ -78,7 +79,6 @@ class OnetabService(object):
             new_onetabs.append(read_later)
 
         print("new onetabs: {0}", len(new_onetabs))
-
         return new_onetabs
 
     @classmethod
