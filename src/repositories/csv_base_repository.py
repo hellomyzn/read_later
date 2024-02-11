@@ -15,6 +15,11 @@ from dataclasses import dataclass, field
 #########################################################
 # Own packages
 #########################################################
+from common.log import (
+    error,
+    warn,
+    info
+)
 from repositories import BaseRepositoryInterface
 
 
@@ -59,7 +64,7 @@ class CsvBaseRepository(BaseRepositoryInterface):
             writer = csv.DictWriter(f, fieldnames=self.header)
             writer.writerow(data)
 
-        print(f"added data in the csv file({self.path}).")
+        info("added data in the csv file({0}).", self.path)
 
     def delete_by_id(self, id_: int) -> None:
         pass
@@ -75,9 +80,10 @@ class CsvBaseRepository(BaseRepositoryInterface):
 
             header = reader.fieldnames
             if header is None:
-                print(f"header is None in the csv file({self.path}).")
+                warn("header is None in the csv file({0}).", self.path)
             elif header != self.header:
-                print(f"invalid header in the csv file({self.path}): {header}, expected header: {self.header}")
+                error("invalid header in the csv file({0}): {1}, expected header: {2}",
+                      self.path, header, self.header)
                 sys.exit(1)
 
         return bool(header)
@@ -88,4 +94,5 @@ class CsvBaseRepository(BaseRepositoryInterface):
         with open(self.path, encoding="utf-8", mode="w") as file:
             writer_ = csv.DictWriter(file, fieldnames=self.header)
             writer_.writeheader()
-            print(f"write header in the csv file({self.path}). header: {self.header}")
+            info(f"write header in the csv file({0}). header: {1}",
+                 self.path, self.header)
