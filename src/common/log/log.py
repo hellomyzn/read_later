@@ -23,7 +23,7 @@ from common.log.custom_formatter import CustomFormatter
 
 
 # Log format
-LOG_FORMAT = "%(asctime)s %(levelname)-7s [%(process)d] [%(thread)d] [%(filename)s:%(funcName)s:%(lineno)d] [%(name)s] %(message)s"
+LOG_FORMAT = "%(asctime)s %(levelname)-7s [%(process)d] [%(thread)d] [%(name)s] %(message)s [%(filename)s:%(funcName)s:%(lineno)d]"
 
 LOG_DATE_FORMAT = None
 
