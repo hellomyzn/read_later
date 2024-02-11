@@ -14,6 +14,9 @@ import sys
 #########################################################
 # Own packages
 #########################################################
+from common.log import (
+    info
+)
 from repositories.read_laters import CsvReadLaterRepository
 from repositories.read_laters import GssReadLaterRepository
 from utils import get_now_jst
@@ -98,6 +101,6 @@ class OnetabService(object):
         """_summary_
         """
         for onetab in onetabs:
-            print("add onetab: {0}", onetab)
+            info("add onetab: {0}", onetab)
             self.csv_repo.add(onetab)
             self.gss_repo.add(onetab)
