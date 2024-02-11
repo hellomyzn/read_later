@@ -3,7 +3,12 @@
 *poetry.lock
 *.bash_history
 
-/src/src/**
-!/src/src/**/
+/src/src/csv/*
+!/src/src/csv/read_laters.csv
+/src/src/json/*
+/src/src/logs/*
+/src/src/text/*
+
+
 !/src/src/**/.gitkeep
 src/common/config/config.ini
