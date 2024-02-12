@@ -9388,3 +9388,644 @@ id,title,url,create_at
 9387,「ふつうのエンジニア」になるための、ちょっとした発想の転換 #初心者 - Qiita,https://qiita.com/kobori_akira/items/02d9808af29a70068d87?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/01 22:17:15
 9388,技術的スキル以上に重要なこと？新人エンジニアが身につけるべきソフトスキル #新卒エンジニア - Qiita,https://qiita.com/guo-xiaoai/items/0f70ea188b8d7fe76f26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/01 22:17:15
 9389,再帰処理の良さ？すごさ？を再度実感した1週間があった #React - Qiita,https://qiita.com/eno49conan/items/5e767889ef47ecbf92cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/01 22:17:15
+9390,オブジェクト指向の複雑性を軽減する、データ指向プログラミング入門,https://zenn.dev/chillnn_tech/articles/e78a76f94ad45a ,2024/02/12 02:23:39
+9391,HTTPを手で書いて学ぶ ファイルアップロードの仕組み - Speaker Deck,https://speakerdeck.com/ikumatadokoro/httpwoshou-deshu-itexue-bu-huairuatupurodonoshi-zu-mi ,2024/02/12 02:23:39
+9392,実践：はじめてのWebAPI設計 #Python - Qiita,https://qiita.com/kazuki_tachikawa/items/7dab01ac2ea08b85fb15 ,2024/02/12 02:23:39
+9393,「アジャイルソフトウェア開発という概念」の源流は日本なのか 〜『日本企業はなぜ「強み」を捨てるのか 』を読んで〜 - bonotakeの日記,https://bonotake.hatenablog.com/entry/2023/10/24/055537 ,2024/02/12 02:23:39
+9394,複数プロジェクトのカニバリを避け成果を最大化するために “プログラムマネジメント” を導入した話 - MonotaRO Tech Blog,https://tech-blog.monotaro.com/entry/2023/10/24/090000 ,2024/02/12 02:23:39
+9395,エンジニアを目指す君たちはどう生きるか　～ソフトウェアアーキテクトのすゝめ～ - Speaker Deck,https://speakerdeck.com/rhumie/enziniawomu-zhi-sujun-tatihadousheng-kiruka ,2024/02/12 02:23:39
+9396,スケールするというのはどういうことなのか - Speaker Deck,https://speakerdeck.com/kurochan/what-does-it-mean-to-scalability ,2024/02/12 02:23:39
+9397,フリーランスエンジニアの成長戦略とスキルアップの方法を紹介 - みんなのシステム企画,https://ripurun.com/media/engineer/freelance-skill/ ,2024/02/12 02:23:39
+9398,DDDやってみたら 実装以前の領域での学びが深かった話 - Speaker Deck,https://speakerdeck.com/kumagoro95/dddyatutemitenoxue-biqi-duki ,2024/02/12 02:23:39
+9399,プロダクトマネージャーと画家 - Repro Tech Blog,https://tech.repro.io/entry/2023/10/23/112830 ,2024/02/12 02:23:39
+9400,私がエンジニアをイラっとさせてきた質問時の態度5選 #初心者 - Qiita,https://qiita.com/haihaikazuma/items/f2940008a50084030096 ,2024/02/12 02:23:39
+9401,キャッチアップ速度が速い #とは - Speaker Deck,https://speakerdeck.com/nrryuya/kiyatutiatuhusu-du-kasu-i-number-toha ,2024/02/12 02:23:39
+9402,スキル管理チームの「入社半年〜ズ」が感じる、仕事と成長をドライブするSmartHRの文化 - SmartHR Tech Blog,https://tech.smarthr.jp/entry/2023/10/18/193036 ,2024/02/12 02:23:39
+9403,過去・現在・未来に起きるあらゆる出来事はすべてあらかじめ決まっているのか？ - GIGAZINE,https://gigazine.net/news/20240131-paradox-of-time/ ,2024/02/12 02:23:39
+9404,20歳のウォーレン・バフェット、転機となった片道4時間の旅。そこにみる「3つの資質」とは？  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2401-warren-buffett-says-these-3-key-personal-traits-separate-successful-people-from-everyone-else/ ,2024/02/12 02:23:39
+9405,デスクを片付けたいなら...山崎実業のスッキリ片付く収納グッズがセール中【Amazon事前セール】  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/amazon-timesale-2024-0131-2/ ,2024/02/12 02:23:39
+9406,Ultimate Collection of 60 YouTube Courses for 21 Programming Languages [MEGA LIST] 🔥🌟 - DEV Community,https://dev.to/arjuncodess/ultimate-collection-of-60-youtube-courses-for-21-programming-languages-mega-list-47b5 ,2024/02/12 02:23:39
+9407,How to stay Motivated while Coding - DEV Community,https://dev.to/alteca/how-to-stay-motivated-while-coding-33ge ,2024/02/12 02:23:39
+9408,How to get a job as a web developer (no degree) - DEV Community,https://dev.to/codewithshahan/how-to-get-a-job-as-a-web-developer-1fo1 ,2024/02/12 02:23:39
+9409,Staying Consistent and Motivated as a Newbie in Coding and Tech 💻🚀 - DEV Community,https://dev.to/fonyuygita/staying-consistent-and-motivated-as-a-newbie-in-coding-and-tech-285n ,2024/02/12 02:23:39
+9410,Why working remotely improves productivity - DEV Community,https://dev.to/ashmeera/why-working-remotely-improves-productivity-3bhe ,2024/02/12 02:23:39
+9411,NeoVim CheatSheet - DEV Community,https://dev.to/workingpayload/neovim-cheatsheet-232g ,2024/02/12 02:23:39
+9412,Ensuring Uptime: A Pythonic Approach to Liveness Monitoring - DEV Community,https://dev.to/tjtanjin/ensuring-uptime-a-pythonic-approach-to-liveness-monitoring-lp8 ,2024/02/12 02:23:39
+9413,Elevate your Python Automation Testing expertise with key tips and tricks - DEV Community,https://dev.to/qablehq/elevate-your-python-automation-testing-expertise-with-key-tips-and-tricks-53pp ,2024/02/12 02:23:39
+9414,tmux 複数画面制御 #Linux - Qiita,https://qiita.com/Natukasi/items/831f12c670024c92cb4c ,2024/02/12 02:23:39
+9415,【個人開発】人と過ごすためのこれまでの活動振り返り #Python - Qiita,https://qiita.com/miyu1000waltz/items/0d6e8f3ce761e31593ca ,2024/02/12 02:23:39
+9416,１年育休をとったエンジニアの話,https://zenn.dev/soma3134/articles/a38f5af0839f67 ,2024/02/12 02:23:39
+9417,その13 キャッシュメモリの効果 - YouTube,https://www.youtube.com/watch?v=QZUiU3jg09Q&ab_channel=satlinuxtube ,2024/02/12 02:23:39
+9418,「全ては会社の競争力を生み出すために」アーキテクチャを刷新し、ドメインモデリングも組織再編もエンジニア教育も一つ一つ丁寧に積み上げてモダナイズを進めた話｜CTOロングインタビュー - MonotaRO Tech Blog,https://tech-blog.monotaro.com/entry/2024/02/01/090000 ,2024/02/12 02:23:39
+9419,freeeのエンジニア成果発表祭〜歴史と変遷〜 - freee Developers Hub,https://developers.freee.co.jp/entry/engineer-achievement-festival-202401 ,2024/02/12 02:23:39
+9420,話題のタフティングに挑戦してきました - 意匠部,https://designblog.kayac.com/entry/tufting-works ,2024/02/12 02:23:39
+9421,コード品質向上のテクニック: 第 11 回（関数にたこができる）,https://techblog.lycorp.co.jp/ja/20240201b ,2024/02/12 02:23:39
+9422,連休が明けて抜け殻になっているそこのあなたに。「やる気がしない」時にやるといいこと5つ教えます。  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2309-matome-what-to-do-when-you-dont-feel-motivated/ ,2024/02/12 02:23:39
+9423,行動科学者が説く。「良い習慣」を身につけるための5つの科学的アプローチ  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2309-steps-to-finally-making-changes-in-your-life/ ,2024/02/12 02:23:39
+9424,どうやってコード品質を測るのか？ ソースコード品質の測定指標とその活用 (1/5)CodeZine（コードジン）,https://codezine.jp/article/detail/18337 ,2024/02/12 02:23:39
+9425,FastAPIを用いたAPI開発テンプレート #Python - Qiita,https://qiita.com/abek21/items/7739163085899b257cb8 ,2024/02/12 02:23:39
+9426,コンテナのipアドレス #Docker - Qiita,https://qiita.com/u_89/items/1244c48934b1551cb23a ,2024/02/12 02:23:39
+9427,Goで学ぶGraphQLサーバーサイド（１） #Go - Qiita,https://qiita.com/kins/items/9809be9720c3b7aa2309 ,2024/02/12 02:23:39
+9428,【覚書き】topコマンドでcpu使用率を見る #Linux - Qiita,https://qiita.com/nnhkrnk/items/2ba86c0ac31420cbc108 ,2024/02/12 02:23:39
+9429,プロセス・ジョブを管理する #初心者 - Qiita,https://qiita.com/Misato0127/items/ce27c878ce738ca43e71 ,2024/02/12 02:23:39
+9430,面白そうなkindle unlimited作品の探し方 - まなめはうす,https://maname.hatenablog.com/entry/2023/10/28/073127 ,2024/02/12 02:23:39
+9431,「ChatGPT」で今すぐ使える25のプロンプト術（番外編、その1） - キーマンズネット,https://kn.itmedia.co.jp/kn/articles/2310/27/news089.html ,2024/02/12 02:23:39
+9432,IT勉強会に勉強以外の目的で来る人への考え  Fuya.info,https://fuya.info/diary/meetup-is-not-buffet-restaurant/ ,2024/02/12 02:23:39
+9433,マリオで学ぶSOLID原則,https://zenn.dev/keiichiro/articles/9397379ab638b1 ,2024/02/12 02:23:39
+9434,エンジニアが株式会社作ったログ,https://zenn.dev/beingish/articles/a7e4fe71b65ff5 ,2024/02/12 02:23:39
+9435,管理機能アーキテクチャパターンの考察と実践 / Learn Architecture through Admin - Speaker Deck,https://speakerdeck.com/ohbarye/learn-architecture-through-admin ,2024/02/12 02:23:39
+9436,(5ページ目)「怠惰であれ！」――“ガチ三流”エンジニアを生まれ変わらせた“誰でもできる生産性爆上げのスキル”  文春オンライン,https://bunshun.jp/articles/-/66499?page=5 ,2024/02/12 02:23:39
+9437,業務で使える一歩進んだPython使いになるために / To become an advanced user of Python that can be used at work - Speaker Deck,https://speakerdeck.com/yumechi/to-become-an-advanced-user-of-python-that-can-be-used-at-work ,2024/02/12 02:23:39
+9438,月10万円の売上を目指して、個人開発でやったこと全てを公開 #React - Qiita,https://qiita.com/AJCode/items/6659b8d21619ea4a8f5c ,2024/02/12 02:23:39
+9439,初めてのパフォーマンス改善 - Speaker Deck,https://speakerdeck.com/fugakkbn/chu-metenopahuomansugai-shan ,2024/02/12 02:23:39
+9440,「怠惰であれ！」――“ガチ三流”エンジニアを生まれ変わらせた“誰でもできる生産性爆上げのスキル”  文春オンライン,https://bunshun.jp/articles/-/66499 ,2024/02/12 02:23:39
+9441,ChatGPTが話題になって約1年。AI技術の発展による社会的インパクトはその後どうなったのか？ あるユーザーによる俯瞰的分析が興味深い - Togetter,https://togetter.com/li/2248084 ,2024/02/12 02:23:39
+9442,個人開発を加速させる効率アップ戦術 - Speaker Deck,https://speakerdeck.com/natsumican63/personal-dev-acceleration-tactics ,2024/02/12 02:23:39
+9443,自分が今開発チームを持つとしたらどういうチームを作るかまとめ #マネジメント - Qiita,https://qiita.com/yuya_sega/items/4362461a5defb567c7c7 ,2024/02/12 02:23:39
+9444,新卒向け「テストコード」の研修資料　Sansanが無料公開　Python上でのテスト方法を解説 - ITmedia NEWS,https://www.itmedia.co.jp/news/articles/2310/26/news122.html ,2024/02/12 02:23:39
+9445,ITエンジニアのフルリモートに憧れる人が多いと思うが経験すると結構なデメリットがあった「対面以上のコミュニケーションが必要」 - Togetter,https://togetter.com/li/2247213 ,2024/02/12 02:23:39
+9446,複雑なデータベースの知識は一切不要、気にするのはエンドポイントだけ　開発の生産性を高める「TiDB Serverless」の各種機能　 - ログミーTech,https://logmi.jp/tech/articles/329531 ,2024/02/12 02:23:39
+9447,2023年 研究開発部 新卒技術研修 ~ テストコード編 ~ - Sansan Tech Blog,https://buildersbox.corp-sansan.com/entry/2023/10/25/110000 ,2024/02/12 02:23:39
+9448,サーバー構築の練習ができるLinux学習サイトInfraAcademy(インフラアカデミー) #初心者 - Qiita,https://qiita.com/ryu235464345/items/54b29c56dd118d8ae4a0 ,2024/02/12 02:23:39
+9449,E2Eテストを導入した時に考えた設計と実装と運用について  Offers Tech Blog,https://zenn.dev/overflow_offers/articles/20231024design_impl_and_ops_guess_put_e2e_test ,2024/02/12 02:23:39
+9450,LINEヤフー株式会社が目指すエンジニア組織のビジョンとDevRelの役割 - Speaker Deck,https://speakerdeck.com/lycorptech_jp/the-role-of-devrel-at-ly-corporation ,2024/02/12 02:23:39
+9451,「世界一流エンジニアの思考法」は強いエンジニアの習慣がいい感じに言語化されていてよかった件 - Lean Baseball,https://shinyorke.hatenablog.com/entry/how-world-class-engineers-think ,2024/02/12 02:23:39
+9452,【JavaScript】読みやすいコードの書き方 #JavaScript - Qiita,https://qiita.com/ment_RE/items/7dd5c00ed5f83bf058fa ,2024/02/12 02:23:39
+9453,Webアプリケーションのパフォーマンス・チューニングの勘所 / web tuningperformance - Speaker Deck,https://speakerdeck.com/soudai/web-tuningperformance ,2024/02/12 02:23:39
+9454,いざという時に使える7つのHTML&CSS Tips集vol.2 - Build Journal  BUILD – Webサイト制作 / ホームページ制作,https://buildstd.com/html-css-tips02/ ,2024/02/12 02:23:39
+9455,運動後に疲れや筋肉痛が抜けない9つの理由  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2310-9-reasons-youre-tired-and-sore-all-the-time-after-worki/ ,2024/02/12 02:23:39
+9456,忙しいときほどきちんと身だしなみを整える。自分と向き合う時間のつくり方（京都 or 自宅で）  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2310_auger_ivent/ ,2024/02/12 02:23:39
+9457,仕事の効率も幸福度もUPする、たった2分のシンプルな習慣  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/productivity-gratitude-neil-pasricha-1/ ,2024/02/12 02:23:39
+9458,結果を出せる人の「PDCAサイクル」の回し方。改善につながらない悪循環を脱するには？  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2310-effective-pdca-cycle/ ,2024/02/12 02:23:39
+9459,あなたの疲れが続く本当の理由。実は疲労の原因になっている9つの習慣  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2310-9-mindless-habits-that-are-exhausting-you-and-how-to-fix-them/ ,2024/02/12 02:23:39
+9460,やっと走れる秋！初心者&ひさびさに走る人が知っておきたいランニングの基本と注意点10  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2310-matome-basics-and-notes-to-read-before-running-10/ ,2024/02/12 02:23:39
+9461,運動やトレーニングの習慣で「私が勘違いしていた」12の過ち  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2310-12-of-the-biggest-fitness-mistakes-ive-made/ ,2024/02/12 02:23:39
+9462,読書の学びを記録→実践につなげる新習慣！思考のインプットアプリ「biblog」【今日のライフハックツール】  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2310-lht-biblog/ ,2024/02/12 02:23:39
+9463,どのタスクから取り掛かるのが正解？すぐにできる仕事を効率的に進めるための「3-3-3メソッド」  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2309-get-more-done-with-the-3-3-3-method/ ,2024/02/12 02:23:39
+9464,ひとりが好きな内向型の人が職場で上手に自己主張をする5つの方法  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2310_book_to_read-1322/ ,2024/02/12 02:23:39
+9465,「頑張らない集中」教えます。無理せず作業に没頭するテクニック  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2310-matome-concentration/ ,2024/02/12 02:23:39
+9466,なぜ学習は静かな場所でやるべきなのか？研究結果と理想的な環境のつくり方  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2310-why-you-should-always-study-in-silence-according-to-sc/ ,2024/02/12 02:23:39
+9467,寝ても疲れがとれない4つの理由とその対策  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/229423the-science-behind-why-you-feel-tired-all-the-time-and-what-to-do-about-it-1/ ,2024/02/12 02:23:39
+9468,睡眠時の姿勢に適した枕を選ぶ方法  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/know-your-right-pillow-type-based-on-these-sleep-habits-1/ ,2024/02/12 02:23:39
+9469,積読書の解消に！本を取り出しやすく背表紙が見やすい本棚で読書習慣が加速【今日のライフハックツール】  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2309-lht-book-shelf/ ,2024/02/12 02:23:39
+9470,高い集中力を持続させたいなら、コーヒーを飲む時間帯を変えてみて！  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2207_tinyhack_coffee-1/ ,2024/02/12 02:23:39
+9471,仕事終わりにいつも体中がガチガチに凝り固まっている…そんな人は疲れをためない7つの習慣を試して  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2309-matome-habits-that-prevent-fatigue/ ,2024/02/12 02:23:39
+9472,睡眠だけでは足りない。｢7つの休養｣と効果的な休み方  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2309-the-7-types-of-rest/ ,2024/02/12 02:23:39
+9473,「やめるべき習慣」と「代わりに取り入れるべき習慣」6選  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2309habits-to-drop-for-2021-and-what-to-do-instead-1/ ,2024/02/12 02:23:39
+9474,偶然の早起きで人生が変わった！早起き習慣を身につけるいくつかのコツ  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2309_get_enough_sleep/ ,2024/02/12 02:23:39
+9475,思考の整理が加速する！Notion×GTDでタスク管理術とは？【今日のワークハック】  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2309-notion-tsuburaya-3/ ,2024/02/12 02:23:39
+9476,成功する人が目標のためにずっとがんばり続けられる秘訣  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2309-struggling-to-stick-to-your-long-term-goals-science-says-embrace-a-little-strategic-indulgence/ ,2024/02/12 02:23:39
+9477,早起きに挫折する人の多くがやっていることとは？生産性が劇的に上がる「朝時間」の活用法  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2210-tinyhack-perfect-morning-routine-1/ ,2024/02/12 02:23:39
+9478,学習が定着する人としない人の違い。やりがちな「時間の無駄」勉強法5つ  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2309-bad-study-habits-you-should-avoid-and-what-to-do-inste/ ,2024/02/12 02:23:39
+9479,適度な硬さでしっかり頭をほぐしてくれる！ マーナのヘッドスパグッズが最高でした  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/amazon-marna-atamasukkrina-2nd/ ,2024/02/12 02:23:39
+9480,“最高の睡眠”を実現する「ブレインスリープ ピロー」最新版は段違いの寝心地だった！【今日のライフハックツール】  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2309-lht-brain-sleep-pillow/ ,2024/02/12 02:23:39
+9481,自動翻訳や生成AIがあるのに、なぜ英語を学ぶ必要があるのか？Duolingo創業者の答えは  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2309-duolingo-ceo-interview/ ,2024/02/12 02:23:39
+9482,Amazon.co.jp: 神メンタル 「心が強い人」の人生は思い通り eBook : 星 渉: Kindle Store,https://www.amazon.co.jp/-/en/gp/product/B07F65XC8J?pf_rd_m=AN1VRQENFRJN5&storeType=ebooks&pageType=kindle&pf_rd_p=&pf_rd_r=8GRKEARZAHNMKRHNBCBQ&pf_rd_s=center-8&pf_rd_t=5601&ref_=dbs_r_shv_s8_2&pf_rd_i=bookshelf ,2024/02/12 02:23:39
+9483,"Amazon.co.jp: がんばらない戦略 99%のムダな努力を捨てて、大切な1%に集中する方法 eBook : 川下 和彦, たむら ようこ: Japanese Books",https://www.amazon.co.jp/%E3%81%8C%E3%82%93%E3%81%B0%E3%82%89%E3%81%AA%E3%81%84%E6%88%A6%E7%95%A5-99-%E3%81%AE%E3%83%A0%E3%83%80%E3%81%AA%E5%8A%AA%E5%8A%9B%E3%82%92%E6%8D%A8%E3%81%A6%E3%81%A6%E3%80%81%E5%A4%A7%E5%88%87%E3%81%AA1-%E3%81%AB%E9%9B%86%E4%B8%AD%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95-%E5%B7%9D%E4%B8%8B-%E5%92%8C%E5%BD%A6-ebook/dp/B08YYJ7PS6/ref=zg_bs_g_492116_d_sccl_4/356-9448913-0804769?psc=1 ,2024/02/12 02:23:39
+9484,リリース頻度を毎週から毎日にしてみた - NTT Communications Engineers' Blog,https://engineers.ntt.com/entry/2024/01/19/094639 ,2024/02/12 02:23:39
+9485,SOLID Principles: They're Rock-Solid for Good Reason! - DEV Community,https://dev.to/lukeskw/solid-principles-theyre-rock-solid-for-good-reason-31hn ,2024/02/12 02:23:39
+9486,Top 15 Essential Tools for macOS App Development: Unleashing Creativity and Efficiency - DEV Community,https://dev.to/happyer/top-15-essential-tools-for-macos-app-development-unleashing-creativity-and-efficiency-131k ,2024/02/12 02:23:39
+9487,What Is Really A Senior Developer: Core Principles - DEV Community,https://dev.to/dragosnedelcu/what-is-really-a-senior-developer-core-principles-2dgm ,2024/02/12 02:23:39
+9488,Supercharging React Performance: Best Tips and Tools - DEV Community,https://dev.to/ra1nbow1/supercharging-react-performance-best-tips-and-tools-4ff0 ,2024/02/12 02:23:39
+9489,Hello World in GitHub Actions: A Beginner's Guide to Your First Workflow - DEV Community,https://dev.to/sre_panchanan/hello-world-in-github-actions-a-beginners-guide-to-your-first-workflow-1mbh ,2024/02/12 02:23:39
+9490,Best Hacking Tools for Beginners 2024 - DEV Community,https://dev.to/scofieldidehen/best-hacking-tools-for-beginners-2024-a0 ,2024/02/12 02:23:39
+9491,Python Selenium Architecture - DEV Community,https://dev.to/thirunavukkarasu_arunagiri/python-selenium-architecture-oki ,2024/02/12 02:23:39
+9492,10 Python Packages to Simplify Your Coding Experience - DEV Community,https://dev.to/codingmadeeasy/10-python-packages-to-simplify-your-coding-experience-1lpn ,2024/02/12 02:23:39
+9493,Neovimをdockerで運用する #Docker - Qiita,https://qiita.com/krile136/items/ab3a75d759296f18b1a8 ,2024/02/12 02:23:39
+9494,[Python] 新卒エンジニアが人手不足の案件にぶち込まれて学んだこと・思ったこと #Python - Qiita,https://qiita.com/camino37/items/910e0bcaf4b75581592e ,2024/02/12 02:23:39
+9495,3年目に突入するエンジニアの目標 #Python - Qiita,https://qiita.com/asukitt/items/1eee0b9517e34a91d99e ,2024/02/12 02:23:39
+9496,"ドキュメント作成の手法について(図解作成) #ドキュメント作成,図解作成,見せ方 - Qiita",https://qiita.com/nkawasaki/items/0459f04217491681244d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/12 02:23:39
+9497,リファクタリングのハードル、自分で上げすぎてない？ #初心者 - Qiita,https://qiita.com/_mi/items/8df2638fafa6dd1c892d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/12 02:23:39
+9498,ぬるいエンジニアの生態 #キャリア - Qiita,https://qiita.com/NUNOGAWA/items/0ad9811f7ef7d9514c57?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/12 02:23:39
+9499,ロジカルな話し方 -超入門- #ロジカルシンキング - Qiita,https://qiita.com/RinK0124/items/db67e06e23024dc2b73f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/12 02:23:39
+9500,充実した研修体制！業界未経験者でもワクワクする研修とは #未経験エンジニア - Qiita,https://qiita.com/mayayan_ok/items/2acfe84e546d5dc6b2fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/12 02:23:39
+9501,【DX向上】VSCodeの設定のススメ【Mac】 #初心者 - Qiita,https://qiita.com/genimura/items/059c4f338f81e976117f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/12 02:23:39
+9502,駆け出し時代の自分に読ませたかった技術書18選　遠回りをしまくった自分に送りたい,https://zenn.dev/mesi/articles/671a08cabb4dfe ,2024/02/12 02:23:39
+9503,「僕の考えた最強のサービス」は本当に最強か？,https://zenn.dev/keiichiro/articles/e79cd9883ff4ba ,2024/02/12 02:23:39
+9504,Excelのルーティンワークを自動化して業務効率を向上する方法の解説書第2弾が発売 - Book Watch/ニュース - 窓の杜,https://forest.watch.impress.co.jp/docs/bookwatch/news/1564384.html ,2024/02/12 02:23:39
+9505,時間記録はいいぞ 〜Focus To-Doで充足感あふれる毎日を〜 - necco note｜necco inc.,https://necco.inc/note/33863 ,2024/02/12 02:23:39
+9506,より多く書き、より少なく話す：ドキュメンテーションとインナーソースで組織のレジリエンスを高める,https://www.infoq.com/jp/articles/organizational-resilience-documentation/ ,2024/02/12 02:23:39
+9507,2024年、ブックマークの時代が来た！：ネットがつまらなくなったんじゃない（と思う） - ＠IT,https://atmarkit.itmedia.co.jp/ait/articles/2402/01/news021.html ,2024/02/12 02:23:39
+9508,インフラマネージャー厳選！10年使える知識が身につくおすすめ書籍10選 - RAKUS Developers Blog  ラクス エンジニアブログ,https://tech-blog.rakus.co.jp/entry/20240201/infra_books ,2024/02/12 02:23:39
+9509,テストの学習へようこそ！    web.dev,https://web.dev/learn/testing/welcome?hl=ja ,2024/02/12 02:23:39
+9510,最近熟睡したのいつ？睡眠中に疲労・筋肉のコリをケアするTENTIALリカバリーウェア【Amazonタイムセール祭り】  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2402-amazon-timesale-tential-recovery-wear/ ,2024/02/12 02:23:39
+9511,Tableau Prepで自動化する楽しさを伝えたい｜分析屋,https://note.com/bunsekiya_tech/n/n3ce1ae350ee5 ,2024/02/12 02:23:39
+9512,2024年のPythonプログラミング - Uzabase for Engineers,https://tech.uzabase.com/entry/2024/02/02/120601 ,2024/02/12 02:23:39
+9513,なぜポモドーロテクニックが最強の集中法なのか - paiza times,https://paiza.hatenablog.com/entry/2024/02/02/130000 ,2024/02/12 02:23:39
+9514,学習サイクルを素早く回すために意識していること - dely Tech Blog,https://tech.dely.jp/entry/2024/02/02/150046 ,2024/02/12 02:23:39
+9515,可用性を上げる方法について考えてみた,https://zenn.dev/fdnsy/articles/381b93cd6a6654 ,2024/02/12 02:23:39
+9516,macOSのzshプロンプトをカスタマイズ #Mac - Qiita,https://qiita.com/harumaki-web/items/c0680d7cee0575c2de19 ,2024/02/12 02:23:39
+9517,CPUとメモリの動きを整理してみた #Linux - Qiita,https://qiita.com/musakamama3838/items/f1fc205b0a2cff574027 ,2024/02/12 02:23:39
+9518,話題の高コスパチェア『パームワークチェア』って実際どう？｜1ヶ月使用レビュー  LOPYLOG-ロピログ-,https://taotaoblog.net/palmwork/ ,2024/02/12 02:23:39
+9519,リモートでも快適作業環境。デスク周りの便利グッズ・おすすめガジェットまとめ  LOPYLOG-ロピログ-,https://taotaoblog.net/desk-work/ ,2024/02/12 02:23:39
+9520,入社してから3ヶ月が経って感じたこと  DevelopersIO,https://dev.classmethod.jp/articles/morimorikochan-in-three-month-ago/ ,2024/02/12 02:23:39
+9521,主にVSCodeではじめるPython開発環境構築ガイド  DevelopersIO,https://dev.classmethod.jp/articles/python-vscode-plugin/ ,2024/02/12 02:23:39
+9522,宇宙で生命はいかにして誕生したのか？ - GIGAZINE,https://gigazine.net/news/20231011-ancient-life-old-universe/ ,2024/02/12 02:23:39
+9523,なぜHTTP/3は急速に普及していったのか、その利点とは？ - GIGAZINE,https://gigazine.net/news/20231009-http-3-quic-eating-world/ ,2024/02/12 02:23:39
+9524,「見えない何かがそばにいる」という感覚に科学的説明はつくのか？ - GIGAZINE,https://gigazine.net/news/20231009-science-experience-of-unexplainable-presence/ ,2024/02/12 02:23:39
+9525,リモートワークは生産性を損なうのか？ - GIGAZINE,https://gigazine.net/news/20231003-remote-work-productivity/ ,2024/02/12 02:23:39
+9526,平日と休日で睡眠パターンがあまり変わらない人は生物学的な老化が遅いことが判明 - GIGAZINE,https://gigazine.net/news/20230928-consistent-sleep-slows-down-aging/ ,2024/02/12 02:23:39
+9527,Instagramはどうやって3人のエンジニアで1400万人にサービスを提供できるシステムを組み上げたのか - GIGAZINE,https://gigazine.net/news/20230925-how-instagram-scaled-to-14-million/ ,2024/02/12 02:23:39
+9528,賢い人はやっている「本に書き込む学習法」。効果的かつ見た目も綺麗に実践する4つのコツ  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2310-the-best-ways-to-annotate-when-reading/ ,2024/02/12 02:23:39
+9529,生産性アップとデスク整理の一石二鳥！ デザインも美しいデスクボードBOX「notera Wedge Lite」が登場  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/machi-ya-21rabroy-start-709069/ ,2024/02/12 02:23:39
+9530,朝のルーティンを「モチベーションの高低」で使い分けた結果、驚くほど作業スピードに変化が！  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2310-tinyhack-make-morning-routines-for-each-situation/ ,2024/02/12 02:23:39
+9531,季節の変わり目に風邪をひきやすい人必見。健康な体づくりのための「免疫力を高める」8つの習慣  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2310-matome-habits-that-boost-immunity/ ,2024/02/12 02:23:39
+9532,タスク管理が下手な人ほど見落としがち。超絶シンプルな手法「ABCメソッド」とは？  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2310-prioritize-your-to-dos-with-the-abc-method/ ,2024/02/12 02:23:39
+9533,脳が疲れて眠れない→熟睡に変える！5つの「睡眠改善」習慣  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2310_book_to_read-1327/ ,2024/02/12 02:23:39
+9534,どうにも元気が出ないとき。カフェインを効果的に活用するための豆知識10選  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/top-10-tricks-to-get-the-most-out-of-your-caffeine-hit-2/ ,2024/02/12 02:23:39
+9535,貧乏によるストレスは離婚や介護よりも強く健康状態の悪化に関連していることが判明 - GIGAZINE,https://gigazine.net/news/20240202-financial-stress-linked-worse-biological-health/ ,2024/02/12 02:23:39
+9536,14万円超のベーシックインカムを1年間毎月貧しい家庭に与えた結果何が起きたか？ - GIGAZINE,https://gigazine.net/news/20240202-poor-families-basic-income/ ,2024/02/12 02:23:39
+9537,人生には自分なりの「小さな答え」があればいい。僧侶が教える「悟り」の見つけ方  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2402-a-zen-approach-to-little-enlightenment/ ,2024/02/12 02:23:39
+9538,"毎日のコーヒー生活に彩りを。3,000円以下でアップデートしてくれるアイテム13選【Amazonタイムセール祭り】  ライフハッカー・ジャパン",https://www.lifehacker.jp/article/amazon-timesale-fes-2024-0202-5/ ,2024/02/12 02:23:39
+9539,使い始めたら、元には戻れない。SwitchBotのスマートホームアイテム15個【Amazonタイムセール祭り】  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/amazon-timesale-fes-2024-0202-2/ ,2024/02/12 02:23:39
+9540,【オススメ】初学者がAWS環境構築するときの最小構成 #AWS - Qiita,https://qiita.com/kyooooonaka/items/a20b2c61a19f2e4f337f ,2024/02/12 02:23:39
+9541,給料は日本の5倍で、世界から集まる優秀な人たちと働ける──日本のエンジニアがアメリカで働くルートとは？ (1/3)CodeZine（コードジン）,https://codezine.jp/article/detail/18867 ,2024/02/12 02:23:39
+9542,3つのターニングポイント、自分を超える「越境」の挑戦から学んだこと (1/3)CodeZine（コードジン）,https://codezine.jp/article/detail/18921 ,2024/02/12 02:23:39
+9543,Top 5 Productivity tools for 2024 for Developers - DEV Community,https://dev.to/durgesh4993/top-5-productivity-tools-for-2024-for-developers-2hhp ,2024/02/12 02:23:39
+9544,Tmux Held Me Hostage and I Got Stockholm Syndrome Instead - DEV Community,https://dev.to/dhupee/tmux-held-me-hostage-and-i-got-stockholm-syndrome-instead-119o ,2024/02/12 02:23:39
+9545,"Scalable E-Commerce Architecture - Part 1: Inventory, Product and Search - DEV Community",https://dev.to/savyjs/scalable-e-commerce-architecture-part-1-inventory-product-and-search-18p8 ,2024/02/12 02:23:39
+9546,gitの使い方しくじり先生~こんな使い方はするな~,https://zenn.dev/yasuda/articles/78d41ac7a881f2 ,2024/02/12 02:23:39
+9547,エンジニアが直接会う場の価値について - Speaker Deck,https://speakerdeck.com/jollyjoester/enziniagazhi-jie-hui-uchang-nojia-zhi-nituite ,2024/02/12 02:23:39
+9548,CHANGELOGの悩みを一発解決！git-cliffの使い方からカスタマイズまで📚,https://zenn.dev/atu4403/articles/howto-git-cliff ,2024/02/12 02:23:39
+9549,プログラマたちの業務外テック活動 – Spinach Forest,https://records.dodgson.org/2023/10/05/no-tech-after-work/ ,2024/02/12 02:23:39
+9550,"導入1ヵ月で、35,000行分のコーディング時間を削減　定量面・定性面から評価する「GitHub Copilot」 - ログミーTech",https://logmi.jp/tech/articles/329435 ,2024/02/12 02:23:39
+9551,開発チームにおけるバックエンドテストのガイドライン策定の軌跡をふりかえる,https://zenn.dev/mybest_dev/articles/619541f28de6d5 ,2024/02/12 02:23:39
+9552,【Ubuntu日和】【第36回】SSH使うなら、これだけは覚えておきたい話 - PC Watch,https://pc.watch.impress.co.jp/docs/column/ubuntu/1536955.html ,2024/02/12 02:23:39
+9553,ペペロンチーノで学ぶ非同期プログラミングによる並行処理 #Python - Qiita,https://qiita.com/hibit/items/a53ccb0c913b38155455 ,2024/02/12 02:23:39
+9554,共有している画面に写してはいけない通知が…「戦慄のSlack事故」は起こしたくないけど結構あるある？ - Togetter,https://togetter.com/li/2236392 ,2024/02/12 02:23:39
+9555,【永久保存版】0からReactを勉強するならこのロードマップに従え！ #JavaScript - Qiita,https://qiita.com/Sicut_study/items/78910cd8d103b8d45a73 ,2024/02/12 02:23:39
+9556,GraphQLはいつ使うか、RESTとの比較,https://zenn.dev/shunjuio/articles/e5515872871534?redirected=1 ,2024/02/12 02:23:39
+9557,2023年9月：デザインの参考にしたい魅力的なWebサイト12選  Web Design Trends,https://webdesign-trends.net/entry/16136 ,2024/02/12 02:23:39
+9558,Vimmer、Visual Studio Codeを使う - 詩と創作・思索のひろば,https://motemen.hatenablog.com/entry/202310/vim-to-vscode ,2024/02/12 02:23:39
+9559,古いリセットCSSからはもう卒業！ モダンブラウザに最適化された新しいリセットCSS -A (more) Modern CSS Reset  コリス,https://coliss.com/articles/build-websites/operation/css/a-more-modern-css-reset.html ,2024/02/12 02:23:39
+9560,続・変更に強いコンポーネント設計の方針と規約（Webフロントエンド） - Speaker Deck,https://speakerdeck.com/sansantech/sansan-20231004 ,2024/02/12 02:23:39
+9561,背伸びしないコンポーネントの始め方 - Speaker Deck,https://speakerdeck.com/yuneco/bei-shen-bisinaikonponentonoshi-mefang ,2024/02/12 02:23:39
+9562,超一流のプロダクトマネージャーへの道 - エムスリーテックブログ,https://www.m3tech.blog/entry/2023/10/03/110000 ,2024/02/12 02:23:39
+9563,徹底解説マイクロサービス 〜マイクロサービスのメリット、デメリット、なぜマイクロサービスを選択するのか〜 /why do you choose microservices architecture - Speaker Deck,https://speakerdeck.com/fatsushi/why-do-you-choose-microservices-architecture ,2024/02/12 02:23:39
+9564,本当にあった Web アプリケーションの脆弱性,https://zenn.dev/chot/articles/778eee835b2e16 ,2024/02/12 02:23:39
+9565,【初心者向け】はじめてのWebアプリケーション開発 設計 API設計 #初心者 - Qiita,https://qiita.com/bear05/items/9afd01fc0030e6977bc3 ,2024/02/12 02:23:39
+9566,[脱初級者]プログラミングの心得 #初心者 - Qiita,https://qiita.com/LowGuy/items/c03ae5ae2a1804c3be90 ,2024/02/12 02:23:39
+9567,[Log]転職3ヶ月目を終えて...新たな発見と挑戦の結果,https://zenn.dev/airiswim/articles/685e5cbaa2b7a5 ,2024/02/12 02:23:39
+9568,育児とプログラミングスクールの両立：効果的な学習時間の確保法,https://zenn.dev/ganmo3/articles/a830355e23039b ,2024/02/12 02:23:39
+9569,HCI研究者の心理統計ノート,https://zenn.dev/tmizuho/books/3d511e017bfd23 ,2024/02/12 02:23:39
+9570,Reactのテストをちょっとよくするかもしれない細いTips,https://zenn.dev/spacemarket/articles/jest-unit-testing-tips ,2024/02/12 02:23:39
+9571,状態管理を構成する 3 つの要素とそれらが解決したい状態管理の課題,https://zenn.dev/chooyan/articles/b943c6b6b0db6e ,2024/02/12 02:23:39
+9572,TCP / IP について理解しやすく解説＋カプセル化について,https://zenn.dev/airiswim/articles/d42c34f024955d ,2024/02/12 02:23:39
+9573,NTT退職エントリ　底辺子会社編,https://zenn.dev/sa_mon12/articles/ad388c78eb37ab ,2024/02/12 02:23:39
+9574,BunとNeovim,https://zenn.dev/vim_jp/articles/c097917f163431 ,2024/02/12 02:23:39
+9575,設計・ソフトウェアアーキテクチャを学べるGitHubリポジトリ 16選,https://zenn.dev/nameless_sn/articles/16_awesome_repos_for_system-design ,2024/02/12 02:23:39
+9576,【必見】プログラミングを学ぶ上で絶対に覚えておきたい原則10選,https://zenn.dev/lclco/articles/3d23a1032e1727 ,2024/02/12 02:23:39
+9577,サンプルコードを作例するときに気をつけている6つのこと #ドキュメント - Qiita,https://qiita.com/suin/items/ae863eb9d4c8abb4be2d ,2024/02/12 02:23:39
+9578,Zenn をやめることになったので、やったことを振り返ってみる - uttk's blog,https://uttk.dev/articles/bye-bye-zenn ,2024/02/12 02:23:39
+9579,“変化の拒絶”か“過剰な進化か”——求められるトレードオフ　ソフトウェアが進化し続けるために必要なこと　 - ログミーTech,https://logmi.jp/tech/articles/329325 ,2024/02/12 02:23:39
+9580,「要件定義をやめよう」の真意、普通にやると金と時間が無駄になるだけ  日経クロステック（xTECH）,https://xtech.nikkei.com/atcl/nxt/column/18/00166/091900134/ ,2024/02/12 02:23:39
+9581,個人開発が続かない理由は「時間」「戦略」「気力」「孤独」　4つの“つらみ”を解消するアジャイル開発・スクラム開発のエッセンス - ログミーTech,https://logmi.jp/tech/articles/329327 ,2024/02/12 02:23:39
+9582,マイクロサービスの効率的な監視〜不安定な依存先との闘い〜 - Speaker Deck,https://speakerdeck.com/taowata/maikurosabisunoxiao-lu-de-najian-shi-bu-an-ding-nayi-cun-xian-tonodou-i ,2024/02/12 02:23:39
+9583,CSSで実装できる、最新HTMLテクニック・スニペットまとめ 2023年9月版  PhotoshopVIP,https://photoshopvip.net/151016 ,2024/02/12 02:23:39
+9584,ソフトウェアを完成させるのは誰か,https://uzzu.co/post/completion-of-software.html ,2024/02/12 02:23:39
+9585,【レベル別】要件定義が学べるおすすめ本4選 - みんなのシステム企画,https://ripurun.com/media/requirement-specification/youkenteigi-books/ ,2024/02/12 02:23:39
+9586,ソフトウェアエンジニアにおすすめしたい本を100冊選んでみた  gennei's blog,https://blog.gennei.coffee/post/recommended-books-for-foftware-engineers/ ,2024/02/12 02:23:39
+9587,23新卒エンジニアがチーム開発研修で学んだこと - Cybozu Inside Out  サイボウズエンジニアのブログ,https://blog.cybozu.io/entry/2023/09/15/080000 ,2024/02/12 02:23:39
+9588,フロントエンドのディレクトリ構成を変えた 2023 - kobayang,https://scrapbox.io/kobayang/%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89%E3%81%AE%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%E6%A7%8B%E6%88%90%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F_2023 ,2024/02/12 02:23:39
+9589,オブジェクト指向UIデザインまとめ  ランサーズ（Lancers）エンジニアブログ,https://engineer.blog.lancers.jp/ui/oouidesign_matome/ ,2024/02/12 02:23:39
+9590,Kubernetesソースコードリーディング入門 - Speaker Deck,https://speakerdeck.com/bells17/kubernetessosukotoriteinkuru-men ,2024/02/12 02:23:39
+9591,【書評】新人プログラマーのためのエラーが怖くなくなる本 #新人プログラマ応援 - Qiita,https://qiita.com/makoto-ogata@github/items/3d62b31167d098c13767 ,2024/02/12 02:23:39
+9592,より良いコードコメントを書くためには #新人プログラマ応援 - Qiita,https://qiita.com/tomo-kn/items/9e1e0a094054a0b2d4c5 ,2024/02/12 02:23:39
+9593,未経験から自社開発企業に入社して1年経ったので振り返る【やって良かったこと／やれば良かったこと】 #ポエム - Qiita,https://qiita.com/Mayuko_Yamagishi/items/03196da1623fe4033ffc ,2024/02/12 02:23:39
+9594,手を動かしながら学ぶクリーンアーキテクチャ #Go - Qiita,https://qiita.com/JunNishimura/items/571f726a30ab43e34b71 ,2024/02/12 02:23:39
+9595,2022年に最も悪用された脆弱性12選 #Security - Qiita,https://qiita.com/rana_kualu/items/2c54e4b57c92f34b0011 ,2024/02/12 02:23:39
+9596,WebアプリケーションにGoの並行処理アーキテクチャを導入してSLOを改善し、WebAPIを100倍速くした話 - スタディサプリ Product Team Blog,https://blog.studysapuri.jp/entry/2023/10/10/090000 ,2024/02/12 02:23:39
+9597,ベストプラクティスとの付き合い方 #ポエム - Qiita,https://qiita.com/TairaNozawa/items/67cc34736b4a2dfc3c82 ,2024/02/12 02:23:39
+9598,“偽サイトを見分けよう”という行為自体がもう危ない：半径300メートルのIT - ITmedia エンタープライズ,https://www.itmedia.co.jp/enterprise/articles/2310/10/news048.html ,2024/02/12 02:23:39
+9599,昭和は死がもっと間近に感じられる時代だった  Books&Apps,https://blog.tinect.jp/?p=83631 ,2024/02/12 02:23:39
+9600,GoでSQLの複雑なクエリのテストを書いてみた - ZOZO TECH BLOG,https://techblog.zozo.com/entry/faans-golang-sql-test ,2024/02/12 02:23:39
+9601,CSSの新しいプロパティ「form-sizing: content;」が便利！ フォームのサイズを入力された文字量に合わせて自動変更  コリス,https://coliss.com/articles/build-websites/operation/css/auto-resizing-text-input-with-form-sizing.html ,2024/02/12 02:23:39
+9602,実践要件定義入門 - 勘と経験と読経,https://agnozingdays.hatenablog.com/entry/2023/10/09/080000 ,2024/02/12 02:23:39
+9603,コードを書くのは楽しいですか？ #初心者 - Qiita,https://qiita.com/monsoonTropicalBird/items/57ba7f175a8e77fa011a ,2024/02/12 02:23:39
+9604,2023 State of DevOps Reportを読んだ - 生涯未熟,https://syossan.hateblo.jp/entry/2023/10/08/171735 ,2024/02/12 02:23:39
+9605,エンジニアのための最強モチベーション大全 #ポエム - Qiita,https://qiita.com/Sicut_study/items/fe58bdfb70fe2424cc5f ,2024/02/12 02:23:39
+9606,【Pythonのパッケージ管理に悩む方へ】パッケージ管理ツールRyeを使ってみた  DevelopersIO,https://dev.classmethod.jp/articles/get-start-rye-python/ ,2024/02/12 02:23:39
+9607,コンテナ技術における最新の研究動向 - Speaker Deck,https://speakerdeck.com/mt2naoki/kontenaji-shu-niokeruzui-xin-noyan-jiu-dong-xiang ,2024/02/12 02:23:39
+9608,11 Best Free Software Testing Online Courses for Beginners - DEV Community,https://dev.to/lambdatest/11-best-free-software-testing-online-courses-for-beginners-77a ,2024/02/12 02:23:39
+9609,Software Engineer Roadmap - DEV Community,https://dev.to/canakyuz/software-engineer-roadmap-1co6 ,2024/02/12 02:23:39
+9610,🎙️ The Podcasts Top Developers In The World Are Listening To Right Now - DEV Community,https://dev.to/proxify_dev/the-podcasts-the-best-developers-in-the-world-are-listening-to-right-now-2gb8 ,2024/02/12 02:23:39
+9611,15 Developer Tools to Improve Your Workflow - DEV Community,https://dev.to/ronakmunjapara/15-developer-tools-to-improve-your-workflow-243 ,2024/02/12 02:23:39
+9612,10 quick tips to instantly improve API design - DEV Community,https://dev.to/s3an_0vert0n/10-quick-tips-to-instantly-improve-api-design-59mc ,2024/02/12 02:23:39
+9613,The 5 principles of Unit Testing - DEV Community,https://dev.to/one-beyond/the-5-principles-of-unit-testing-1p5f ,2024/02/12 02:23:39
+9614,The 10 tools I install on every new Mac I get - DEV Community,https://dev.to/codepo8/the-10-tools-i-install-on-every-new-mac-i-get-2l59 ,2024/02/12 02:23:39
+9615,Golang Road map in 2023. From beginner to Expert - DEV Community,https://dev.to/muhammedarifp/golang-road-map-in-2023-from-beginner-to-expert-2k6m ,2024/02/12 02:23:39
+9616,How to take Screenshot using Python - DEV Community,https://dev.to/max24816/how-to-take-screenshot-using-python-27i2 ,2024/02/12 02:23:39
+9617,【特集】メッシュWi-Fiルーターと中継器の違いは？何が速いの？バックホールでかなり変わるその実力、松竹梅の3機種で比較 - PC Watch,https://pc.watch.impress.co.jp/docs/topic/feature/1536116.html ,2024/02/12 02:23:39
+9618,筋肉ですべてを解決する人のプログラミング上達方法｜牛尾　剛,https://note.com/simplearchitect/n/n372de6190485 ,2024/02/12 02:23:39
+9619,E2Eテストの運用を属人化しないための3つの取り組み - ANDPAD Tech Blog,https://tech.andpad.co.jp/entry/2023/10/02/100000 ,2024/02/12 02:23:39
+9620,作業者じゃなく開発者でありたい - id:onk のはてなブログ,https://onk.hatenablog.jp/entry/2023/09/30/165714 ,2024/02/12 02:23:39
+9621,天才プログラマだと言われる人が書くコードは、どんな観点が天才的なんでしょうか？  mond,https://mond.how/ja/topics/321ri0klqtpcgd6/p1oaoabt32n8923 ,2024/02/12 02:23:39
+9622,初級者にとっては“補助輪”、中・上級者にとっては“ブースター”　自作ライブラリ開発のハードルをグッと下げてくれる「GitHub Copilot」の使い方 - ログミーTech,https://logmi.jp/tech/articles/329395 ,2024/02/12 02:23:39
+9623,ChatGPTの10ヶ月と開発トレンドの現在地 - Speaker Deck,https://speakerdeck.com/hirosatogamo/chatgptno10keyue-tokai-fa-torendonoxian-zai-di ,2024/02/12 02:23:39
+9624,【衝撃の罠】bashスクリプトのパフォーマンス測定は、対話シェルでやっても無意味だ！ #Linux - Qiita,https://qiita.com/ko1nksm/items/f6c033c194935b642a39 ,2024/02/12 02:23:39
+9625,人間が人間であることを出せ。表現しろ。それ以外は的確にプロンプトを書け。  Books&Apps,https://blog.tinect.jp/?p=83532 ,2024/02/12 02:23:39
+9626,「手を動かしたい」派の私が「EMもけっこうおもしろい」と思うようになった理由　“プロダクトの成長”から見てわかる、2つの役割のシームレスさ - ログミーTech,https://logmi.jp/tech/articles/329393 ,2024/02/12 02:23:39
+9627,SEOは時代遅れになり「AIエンジン最適化」が最重要に。ビル・ゲイツ氏も注目の変革 ｜ビジネス+IT,https://www.sbbit.jp/article/cont1/123646 ,2024/02/12 02:23:39
+9628,ちょっと毒を吐くけど”技は盗め”という人を淘汰したい「素晴らしい技術や経験は大衆化せんといかん。大衆化するためにはみんなが分かる理論がないといかん。」 - Togetter,https://togetter.com/li/2232343 ,2024/02/12 02:23:39
+9629,【CSS】レスポンシブなfont-size指定テクニック4選 #CSS - Qiita,https://qiita.com/suzoo/items/8f47eaf41c09ed94e712 ,2024/02/12 02:23:39
+9630,「開発者はユーザに言われた通りに修正するべきではない」についてのわかりやすい逸話……//「何故そのFBが来るのか」の原因に目を向ける - Togetter,https://togetter.com/li/2232083 ,2024/02/12 02:23:39
+9631,自宅ルータの脆弱性検知システムの開発 - Sansan Tech Blog,https://buildersbox.corp-sansan.com/entry/2023/09/28/110000 ,2024/02/12 02:23:39
+9632,CSSはこんなにも進化していたのか！ CSSのかなり高度なテクニック -Expert CSS: The CPU Hack  コリス,https://coliss.com/articles/build-websites/operation/css/expert-css-the-cpu-hack.html ,2024/02/12 02:23:39
+9633,監視とオブザーバビリティ 〜 悩む前に確認しておくべきこと / 20230926-ssmjp-monitoring-and-observability - Speaker Deck,https://speakerdeck.com/opelab/20230926-ssmjp-monitoring-and-observability ,2024/02/12 02:23:39
+9634,APIテスト アーキテクチャ,https://zenn.dev/sumiren/articles/aa0ba5ae12ad2e ,2024/02/12 02:23:39
+9635,テストは「確認」と「テスト」の二つでできている - Speaker Deck,https://speakerdeck.com/mineo_matsuya/tesutoha-que-ren-to-tesuto-noer-tudedekiteiru ,2024/02/12 02:23:39
+9636,ChatGPTにBlogを書かせる - ゆーすけべー日記,https://yusukebe.com/posts/2023/blogging-chatgpt-plugin/ ,2024/02/12 02:23:39
+9637,ソフトウェア開発の真の問題点は、コードを書くことではなく、問題の複雑さの管理にある - YAMDAS現更新履歴,https://yamdas.hatenablog.com/entry/20230925/the-real-problem-with-software-development ,2024/02/12 02:23:39
+9638,【緑色変】算数の教養がほとんどなかったプログラマがAtCoderを4年やって緑になれた話｜きりみんちゃんノート,https://note.com/kirimin_chan/n/n337f5bdf7e48 ,2024/02/12 02:23:39
+9639,学びも人間関係も「いい加減」でいい理由。毎日をもう少し生きやすくするヒント  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2309-do-everything-in-moderation/ ,2024/02/12 02:23:39
+9640,古いMacBookやiMacの動作速度を、最新モデルのようにする7つの方法  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/make-old-mac-feel-like-new-1/ ,2024/02/12 02:23:39
+9641,労力を無駄にしない。より多くのタスクが終わる「アクションメソッド」徹底活用法  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2308-use-the-action-method-to-get-more-done/ ,2024/02/12 02:23:39
+9642,考える力を伸ばすために求められる「問う力」。思考の質をあげる「問い」とはなにか？  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2308_book_to_read-1301/ ,2024/02/12 02:23:39
+9643,仕事のデキる人がやっている良質なインプット術。「情報収集力」を磨く5つのコツ  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2308-matome-how-to-input-efficiently/ ,2024/02/12 02:23:39
+9644,タスクを予定どおりこなしやすくする「タイムボックス」を使った時間管理術  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2308-better-organize-your-days-with-timeboxing/ ,2024/02/12 02:23:39
+9645,部屋に出しっぱなしでもダサくない。木目調のバランスボードは運動できるインテリアだ  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2308-costory-dasbrett/ ,2024/02/12 02:23:39
+9646,.bashrcカスタマイズ備忘録 #AWS - Qiita,https://qiita.com/NumLock7019/items/afcc42ac9b04aaada155 ,2024/02/12 02:23:39
+9647,Site is not secure,http://codezine.jp/article/detail/18271 ,2024/02/12 02:23:39
+9648,Site is not secure,http://codezine.jp/article/detail/18253 ,2024/02/12 02:23:39
+9649,Unveiling the essence of Clean Architectures 🫣 - DEV Community,https://dev.to/vickodev/unveiling-the-essence-of-clean-architectures-68h ,2024/02/12 02:23:39
+9650,Benefits of separating core code from infrastructure code - DEV Community,https://dev.to/shopware/benefits-of-separating-core-code-from-infrastructure-code-302j ,2024/02/12 02:23:39
+9651,How can I be a good developer? - DEV Community,https://dev.to/pheonix/how-can-i-be-a-good-developer-4g49 ,2024/02/12 02:23:39
+9652,Laravel Beyond Basics: Unleash Advanced Tips and Tricks - DEV Community,https://dev.to/shshank/laravel-beyond-basics-unleash-advanced-tips-and-tricks-55e6 ,2024/02/12 02:23:39
+9653,How to model a following system similar to Twitter and Instagram with Python and Django - DEV Community,https://dev.to/uhttred/how-to-model-a-following-system-similar-to-twitter-and-instagram-with-python-and-django-3d9h ,2024/02/12 02:23:39
+9654,How to Generate Fake Data in Python With Faker - DEV Community,https://dev.to/tech_plygrnd/how-to-generate-fake-data-in-python-with-faker-3d3i ,2024/02/12 02:23:39
+9655,Unleashing the Prototype Design Pattern in Python - DEV Community,https://dev.to/bshadmehr/unleashing-the-prototype-design-pattern-in-python-42dn ,2024/02/12 02:23:39
+9656,【読書】未経験エンジニア2年目が選ぶ！成長と学びを支える本5選 #Docker - Qiita,https://qiita.com/shimada_slj/items/f11d14b17df1acf3a77a ,2024/02/12 02:23:39
+9657,コンテナセキュリティ本の要約 #Docker - Qiita,https://qiita.com/empelt/items/05c4abb69dfc5522a9da ,2024/02/12 02:23:39
+9658,Discover the Best HTML Cheat Sheets - DEV Community,https://dev.to/shivabhusal/discover-the-best-html-cheat-sheets-4j45 ,2024/02/12 02:23:39
+9659,PHP Design Patterns: Active Record - DEV Community,https://dev.to/xxzeroxx/php-design-patterns-active-record-1i5 ,2024/02/12 02:23:39
+9660,PHP easy file handling - DEV Community,https://dev.to/domnyus/php-easy-file-handling-2fcf ,2024/02/12 02:23:39
+9661,Can Anyone Master Coding? - DEV Community,https://dev.to/codenewbieteam/can-anyone-master-coding-p1f ,2024/02/12 02:23:39
+9662,Best Practices in React Development - DEV Community,https://dev.to/arafatweb/best-practices-in-react-development-126c ,2024/02/12 02:23:39
+9663,Top 10 Hackers - DEV Community,https://dev.to/scofieldidehen/top-10-hackers-4c7m ,2024/02/12 02:23:39
+9664,"Don't Think, Just Do - DEV Community",https://dev.to/aliasad9/dont-think-just-do-51e0 ,2024/02/12 02:23:39
+9665,Mastering NGINX: A Comprehensive Guide to Web Server Configuration and Optimization - DEV Community,https://dev.to/codezera/mastering-nginx-a-comprehensive-guide-to-web-server-configuration-and-optimization-4359 ,2024/02/12 02:23:39
+9666,How To Use Instagram As a Developer - DEV Community,https://dev.to/eneaslari/how-to-use-instagram-as-a-developer-2adl ,2024/02/12 02:23:39
+9667,A Python script to see my most watched YouTube videos - DEV Community,https://dev.to/ubershmekel/what-did-i-watch-most-on-youtube-1ol2 ,2024/02/12 02:23:39
+9668,The 10 most common Frontend mistakes (and how to avoid them) - DEV Community,https://dev.to/seun08/the-10-most-common-frontend-mistakes-and-how-to-avoid-them-1hfn ,2024/02/12 02:23:39
+9669,CSS Positioning: Simplified for Beginners - DEV Community,https://dev.to/akindeleemmanuel/css-positioning-simplified-for-beginners-8mi ,2024/02/12 02:23:39
+9670,Effective Code Review - DEV Community,https://dev.to/weitzly/effective-code-review-52pe ,2024/02/12 02:23:39
+9671,締め切りは1つじゃ足りない。すべての仕事に「期日は2つ必要」な理由は？  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2308-why-you-should-make-two-deadlines-for-every-project/ ,2024/02/12 02:23:39
+9672,Macの生産性を2倍に！ マルチタスクを成功させる4つの技  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2308-mac-mutitasuk-matome/ ,2024/02/12 02:23:39
+9673,悩み多き若手エンジニアがこれまでの歩みを振り返って思う、結局「行動」が運を掴み将来の道をつくる (1/3)CodeZine（コードジン）,https://codezine.jp/article/detail/18065 ,2024/02/12 02:23:39
+9674,How to Dockerize Laravel Applications - DEV Community,https://dev.to/dreywandowski/how-to-dockerize-laravel-applications-48m7 ,2024/02/12 02:23:39
+9675,Some lesser known Vim tips - DEV Community,https://dev.to/harshkumar77/some-lesser-known-vim-tips-eih ,2024/02/12 02:23:39
+9676,Python project name suggestions - DEV Community,https://dev.to/samanmahmood/python-project-name-suggestions-2h5 ,2024/02/12 02:23:39
+9677,Unveiling the Factory Method Design Pattern in Python - DEV Community,https://dev.to/bshadmehr/unveiling-the-factory-method-design-pattern-in-python-43b2 ,2024/02/12 02:23:39
+9678,Understanding Python Decorators: A Practical Introduction - DEV Community,https://dev.to/michae1tanaka/understanding-python-decorators-a-practical-introduction-ano ,2024/02/12 02:23:39
+9679,🧑🏽‍💻 Set Up MacOS for Development Productivity - DEV Community,https://dev.to/iq9/set-up-macos-for-development-productivity-3p22 ,2024/02/12 02:23:39
+9680,【Python】並行処理と、並列処理を実装してみる #Python - Qiita,https://qiita.com/baby-0105/items/e00d21c0f7d005b0cd2c ,2024/02/12 02:23:39
+9681,新人エンジニアの、新人エンジニアによる、新人エンジニアのためのToDoアプリ作成(Django/Mac) #Python - Qiita,https://qiita.com/Big_Dream/items/80c0fec8308a15f781d3 ,2024/02/12 02:23:39
+9682,つよつよGitHubプロフィールの作り方 #GitHub - Qiita,https://qiita.com/moroi/items/6847e4ea5defc8baded4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/12 02:23:39
+9683,【むっず】Reactコードで理解する「結合度」 #JavaScript - Qiita,https://qiita.com/f0lst/items/1857b8ac3c70a17d764c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/12 02:23:39
+9684,【むっず】Reactコードで理解する「凝集度」 #JavaScript - Qiita,https://qiita.com/f0lst/items/9d3588430c5a0494fc3a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/12 02:23:39
+9685,継続というのはそれ自体が特異なことなのだと思いながらAtCoder全ユーザのコンテスト参加回数をグラフにしてみた #AtCoder - Qiita,https://qiita.com/nabata/items/322c30ad3b827b1b508c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/12 02:23:39
+9686,新人がSOLID原則をサンプルコードで理解する #Java - Qiita,https://qiita.com/ke_suke0215/items/5f8a0dafb4aafe7adcc5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/12 02:23:39
+9687,チーム開発の生産性が向上する良いコードの書き方：強いエンジニアになるための思考法 #初心者 - Qiita,https://qiita.com/elipmoc101/items/0a1ad96820520babc86a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/12 02:23:39
+9688,大人のためのPythoで、情報、数学再学習,https://zenn.dev/suehiro3721p/books/5b47e32964893f ,2024/02/12 02:23:39
+9689,Github CLIを活用して無敵のエンジニアになる,https://zenn.dev/paiza/articles/ef650110dd4ab8 ,2024/02/12 02:23:39
+9690,チームでのアプリ開発におけるブランチ戦略とプルリクエストのマージ方法,https://zenn.dev/altiveinc/articles/git-branch-merge-policy ,2024/02/12 02:23:39
+9691,「ガベージコレクション 自動的メモリ管理を構成する理論と実装」を読んだ,https://zenn.dev/sosukesuzuki/articles/0d991d76f778b7 ,2024/02/12 02:23:39
+9692,zenn.dev/kenkenwataken/articles/72dbe9a3189dd6,https://zenn.dev/kenkenwataken/articles/72dbe9a3189dd6 ,2024/02/12 02:23:39
+9693,土日で完成！ 趣味のラズパイ　ラズパイで音楽プレーヤー「Volumio」を楽しむ  fabcross,https://fabcross.jp/category/make/hobby_raspberrypi/20230829_volumio.html ,2024/02/12 02:23:39
+9694,2年間の開発者ブログ運営のノウハウや意識してること - NTT Communications Engineers' Blog,https://engineers.ntt.com/entry/2023/08/28/092249 ,2024/02/12 02:23:39
+9695,ドキュメントでプログラミング言語に貢献する - Blog::kobaken,https://kfly8.hatenablog.com/entry/2023/08/26/214805 ,2024/02/12 02:23:39
+9696,最大5日間の連続利用がOK！ 装着感も少なく着けっぱなしにしやすいリング型トラッカー「SmartLife Ring」  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/machi-ya-smartlifering-end-668567/ ,2024/02/12 02:23:39
+9697,「動かして学ぶ！Python FastAPI開発入門」著者の中村 翔様へインタビューしてみた。  DevelopersIO,https://dev.classmethod.jp/articles/python-fastapi-zenn-book/ ,2024/02/12 02:23:39
+9698,The Best Date Activities for Building 'Recreational Intimacy'  Lifehacker,https://lifehacker.com/the-best-date-activities-for-building-recreational-inti-1850789445?utm_source=regular ,2024/02/12 02:23:39
+9699,What Your Boredom at Work Is Actually Telling You  Lifehacker,https://lifehacker.com/what-your-boredom-at-work-is-actually-telling-you-1850788112?utm_source=regular ,2024/02/12 02:23:39
+9700,How to Make Flashcards Online  Lifehacker,https://lifehacker.com/these-are-the-best-online-flashcard-tools-1850787618?utm_source=regular ,2024/02/12 02:23:39
+9701,🧠 How to come up with new ideas (Building 101 #1) - DEV Community,https://dev.to/ideahub_charlie/how-to-come-up-with-new-ideas-building-101-1-4057 ,2024/02/12 02:23:39
+9702,🧠 How to validate ideas (Building 101 #2) - DEV Community,https://dev.to/ideahub_charlie/how-to-validate-ideas-building-101-2-30n5 ,2024/02/12 02:23:39
+9703,Guided Hacking is AWESOME - DEV Community,https://dev.to/ghrake/guided-hacking-is-awesome-3bm7 ,2024/02/12 02:23:39
+9704,8 Ways to Improve Application Performance - DEV Community,https://dev.to/harperdb/8-ways-to-improve-application-performance-4i5h ,2024/02/12 02:23:39
+9705,Engineering Management Platforms: What You Need to Know - DEV Community,https://dev.to/hatica/engineering-management-platforms-what-you-need-to-know-1pa5 ,2024/02/12 02:23:39
+9706,Why I Decided to Become a Developer - DEV Community,https://dev.to/sirharmony/why-i-decided-to-become-a-developer-4bkp ,2024/02/12 02:23:39
+9707,"50 High-Quality Developer Jobs at VC-Backed Startups: Your Weekly Roundup [10th Aug, 2023] - DEV Community",https://dev.to/mohanmukund13/50-high-quality-developer-jobs-at-vc-backed-startups-your-weekly-roundup-10th-aug-2023-2445 ,2024/02/12 02:23:39
+9708,Linux Processes - DEV Community,https://dev.to/scorcism/linux-processes-49g1 ,2024/02/12 02:23:39
+9709,Linux file system - DEV Community,https://dev.to/scorcism/linux-file-system-217i ,2024/02/12 02:23:39
+9710,Linux Kernel - DEV Community,https://dev.to/scorcism/linux-kernel-4don ,2024/02/12 02:23:39
+9711,Linux Devices Management - DEV Community,https://dev.to/scorcism/linux-devices-management-2e18 ,2024/02/12 02:23:39
+9712,Tips and tricks for Backstage Software Templates - DEV Community,https://dev.to/jeanlouisferey/tips-and-tricks-for-backstage-software-templates-488p ,2024/02/12 02:23:39
+9713,AI assistance in software testing: boost productivity and improve skills - DEV Community,https://dev.to/n_demia/boost-software-testing-productivity-and-improve-skills-with-ai-assistance-1j22 ,2024/02/12 02:23:39
+9714,"200 Web-Based, Must-Try Web Design and Development Tools - DEV Community",https://dev.to/j9t/200-web-based-must-try-web-design-and-development-tools-fbc ,2024/02/12 02:23:39
+9715,25 Essential Linux Commands (CLI) - DEV Community,https://dev.to/mike_in_tech/25-essential-linux-commands-cli-3j8p ,2024/02/12 02:23:39
+9716,Time Management Techniques for Developers: 10 Tips to Boost Productivity - DEV Community,https://dev.to/athifbinu/time-management-techniques-for-developers-10-tips-to-boost-productivity-4518 ,2024/02/12 02:23:39
+9717,What is API Integration? - DEV Community,https://dev.to/newsdataio/what-is-api-integration-4661 ,2024/02/12 02:23:39
+9718,Why is it important to write good code? - DEV Community,https://dev.to/mikenjuki/why-is-it-important-to-write-good-code-pke ,2024/02/12 02:23:39
+9719,20 Essential Docker Commands Every Developer Should Know - DEV Community,https://dev.to/giasuddin90/20-essential-docker-commands-every-developer-should-know-34dk ,2024/02/12 02:23:39
+9720,Music Monday — What are you listening to? (Chill Edition II) - DEV Community,https://dev.to/devteam/music-monday-what-are-you-listening-to-chill-edition-ii-2j5p ,2024/02/12 02:23:39
+9721,Top 7 Things That Kill Developer Productivity - DEV Community,https://dev.to/surajondev/top-7-things-that-kill-developer-productivity-ef9 ,2024/02/12 02:23:39
+9722,新米PdM目線でおすすめする書籍「プロダクトマネージャーのしごと 第2版」  DevelopersIO,https://dev.classmethod.jp/articles/product-management-in-practice-review/ ,2024/02/12 02:23:39
+9723,【非エンジニアによるChatGPT活用】ChatGPT×Googleスプレッドシート連携する方法について  DevelopersIO,https://dev.classmethod.jp/articles/gpt_spreadsheets/ ,2024/02/12 02:23:39
+9724,短時間の昼寝「パワーナップ」が記憶力や生産性の向上＆ストレス軽減などさまざまなメリットをもたらす - GIGAZINE,https://gigazine.net/news/20230829-short-naps-improve-memory-productivity/ ,2024/02/12 02:23:39
+9725,10代の少年たちで構成された最悪のハッカー集団「LAPSUS$」はNVIDIAやMicrosoftにどうやってハッキングをしかけたのか？ - GIGAZINE,https://gigazine.net/news/20230828-lapsus-hack-nvidia-microsoft-rockstar/ ,2024/02/12 02:23:39
+9726,Podcasts That Will Make You Smarter  Lifehacker,https://lifehacker.com/podcasts-that-will-make-you-smarter-1850777961?utm_source=regular ,2024/02/12 02:23:39
+9727,Top 6 tools for text-based UML sequence diagrams - DEV Community,https://dev.to/icepanel/top-6-tools-for-text-based-uml-sequence-diagrams-7ce ,2024/02/12 02:23:39
+9728,10+ API Documentation Tools For Super Busy Developers 👩‍💻 - DEV Community,https://dev.to/themeselection/api-documentation-tools-1fjk ,2024/02/12 02:23:39
+9729,You should repeat yourself when writing tests - DEV Community,https://dev.to/maksimovicdanijel/you-should-repeat-yourself-when-writing-tests-19b3 ,2024/02/12 02:23:39
+9730,Master The Art Of Code Documentation In 5 Minutes - DEV Community,https://dev.to/soumyadeepdey/the-art-of-code-documentation-1n7m ,2024/02/12 02:23:39
+9731,5 Books Every Developer Must Read - DEV Community,https://dev.to/alexanderisora/5-books-every-developer-must-read-20ff ,2024/02/12 02:23:39
+9732,Engenharia de Software #02 - SOLID 101 - DEV Community,https://dev.to/pedroo/engenharia-de-software-02-solid-4b5p ,2024/02/12 02:23:39
+9733,"Learn to Test, Test to Learn - DEV Community",https://dev.to/codewithchelsea/learning-through-testing-5dj1 ,2024/02/12 02:23:39
+9734,What does a good Software Architecture support? - DEV Community,https://dev.to/khrasikh/what-does-a-good-software-architecture-support-4oho ,2024/02/12 02:23:39
+9735,Diagramming and Database Design📊🔍💡 - DEV Community,https://dev.to/documatic/diagramming-and-database-design-42ff ,2024/02/12 02:23:39
+9736,From Zero to GraphQL Hero: The Ultimate Getting Started Guide - DEV Community,https://dev.to/mohitsinghchauhan/from-zero-to-graphql-hero-the-ultimate-getting-started-guide-46o7 ,2024/02/12 02:23:39
+9737,webアプリをDocker化する方法 #Ruby - Qiita,https://qiita.com/tsmog52/items/5132e219fe930f7b75d4 ,2024/02/12 02:23:39
+9738,よく使うシェルスクリプト(bash)のツールの保守性／汎用性を高める試み。 #Bash - Qiita,https://qiita.com/Nanigashi_Uji/items/5bc0b80071fe93819e15 ,2024/02/12 02:23:39
+9739,AISOの良いVim > 知らないと損するインサートモードへの切替方法いろいろ,https://zenn.dev/yumainaura/articles/qiita-2018-08-26t23_00_35-09_00 ,2024/02/12 02:23:39
+9740,エンジニアの英語学習  Vim + 透過度を上げたiTerm2 で写経する,https://zenn.dev/yumainaura/articles/qiita-2018-04-12t04_47_40-09_00 ,2024/02/12 02:23:39
+9741,【Mac / Terminal】ターミナルをイイ感じにカスタマイズ #Git - Qiita,https://qiita.com/whopper1962/items/bbaef1b9154881ec25ba ,2024/02/12 02:23:39
+9742,「基礎からの新しいストレージ入門」は、2023年夏の課題図書,https://zenn.dev/tzkoba/articles/88ac78ad384d6c ,2024/02/12 02:23:39
+9743,チーム開発の生産性が向上する良いコードの書き方：強いエンジニアになるための思考法 #初心者 - Qiita,https://qiita.com/elipmoc101/items/0a1ad96820520babc86a ,2024/02/12 02:23:39
+9744,7 Habits to Cultivate for Becoming a Better Software Engineer - DEV Community,https://dev.to/inovak/7-habits-to-cultivate-for-becoming-a-better-software-engineer-344o ,2024/02/12 02:23:39
+9745,5 best tech podcasts for developers in 2023 - DEV Community,https://dev.to/aaikansh_22/5-best-tech-podcasts-for-developers-in-2023-50de ,2024/02/12 02:23:39
+9746,A Developer's Guide to Blogging - DEV Community,https://dev.to/robertmjohnson/a-developers-guide-to-blogging-n01 ,2024/02/12 02:23:39
+9747,Kubernetes Architecture - DEV Community,https://dev.to/scorcism/kubernetes-architecture-390j ,2024/02/12 02:23:39
+9748,3 Ways to Make Your API Beautiful - DEV Community,https://dev.to/rcooper47/3-keys-to-making-a-beautiful-api-46la ,2024/02/12 02:23:39
+9749,Roadmap to being a Full Stack Web Developer - DEV Community,https://dev.to/soumodeep_ghosh_be7eb9c6c/roadmap-to-being-a-full-stack-web-developer-2984 ,2024/02/12 02:23:39
+9750,SOLID: writing better interfaces - DEV Community,https://dev.to/jmau111/solid-writing-better-interfaces-11lm ,2024/02/12 02:23:39
+9751,Docker essential commands - DEV Community,https://dev.to/scorcism/docker-essential-commands-4o6l ,2024/02/12 02:23:39
+9752,🌈10 CSS tricks every web developer should know! - DEV Community,https://dev.to/dumebii/10-css-tricks-every-web-developer-should-know-2hck ,2024/02/12 02:23:39
+9753,Design Patterns: Factory Method [PT-BR] - DEV Community,https://dev.to/ianito/design-patterns-factory-method-pt-br-21a3 ,2024/02/12 02:23:39
+9754,Factory Method: Simplifying Object Instantiation - DEV Community,https://dev.to/ianito/design-patterns-factory-method-22if ,2024/02/12 02:23:39
+9755,Frontend Architecture: The Architecture (Part. 3) - DEV Community,https://dev.to/hamed_farag/frontend-architecture-the-architecture-part-3-40of ,2024/02/12 02:23:39
+9756,Frontend Architecture: The Architecture (Part. 2) - DEV Community,https://dev.to/hamed_farag/frontend-architecture-the-architecture-part-2-28hj ,2024/02/12 02:23:39
+9757,Frontend Architecture: The Architecture (Part. 1) - DEV Community,https://dev.to/hamed_farag/frontend-architecture-the-architecture-part-1-4m6g ,2024/02/12 02:23:39
+9758,Frontend Architecture: Introduction - DEV Community,https://dev.to/hamed_farag/frontend-architecture-introduction-1ii3 ,2024/02/12 02:23:39
+9759,"Think Critically to Keep It Simple, Stupid - DEV Community",https://dev.to/amburi/think-critically-to-keep-it-simple-stupid-3n4e ,2024/02/12 02:23:39
+9760,Kubernetes Architecture - DEV Community,https://dev.to/barbara/kubernetes-architecture-1e9p ,2024/02/12 02:23:39
+9761,How to Think Like an Architect 🧠🏛️ - DEV Community,https://dev.to/2kabhishek/how-to-think-like-an-architect-1l5l ,2024/02/12 02:23:39
+9762,Fundamentals of Software Architecture Book - Part 2 - DEV Community,https://dev.to/codesandtags/fundamentals-of-software-architecture-book-part-2-1go8 ,2024/02/12 02:23:39
+9763,Ruby Design Patterns  PROTOTYPE 🐑 - DEV Community,https://dev.to/kroolar/ruby-design-patterns-prototype-4pnj ,2024/02/12 02:23:39
+9764,Fundamentals of Software Architecture Book - Part 1 - DEV Community,https://dev.to/codesandtags/fundamentals-of-software-architecture-book-part-1-ela ,2024/02/12 02:23:39
+9765,Proxy Design Pattern in Swift - DEV Community,https://dev.to/ali72110/proxy-design-pattern-in-swift-1nhj ,2024/02/12 02:23:39
+9766,Why Architect Software? - DEV Community,https://dev.to/caiocesar/why-architect-software-3el6 ,2024/02/12 02:23:39
+9767,Software Architecture - DEV Community,https://dev.to/szalimben/software-architecture-1d3e ,2024/02/12 02:23:39
+9768,5 Most Popular Open Source Go Projects For Beginners - DEV Community,https://dev.to/nikhilxd/5-most-popular-open-source-go-projects-for-beginners-3l2m ,2024/02/12 02:23:39
+9769,Building Your Own VPN for Free - DEV Community,https://dev.to/baptistsec/building-your-own-vpn-for-free-3o9h ,2024/02/12 02:23:39
+9770,Pythonの独学におすすめの書籍 その２,https://zenn.dev/torachi0401/articles/recommend_books2 ,2024/02/12 02:23:39
+9771,Pythonでログ処理をやってみた,https://zenn.dev/torachi0401/articles/python_log_text ,2024/02/12 02:23:39
+9772,Pythonの独学におすすめの書籍,https://zenn.dev/torachi0401/articles/recommend_books ,2024/02/12 02:23:39
+9773,Pythonのコーディング規約を調査しました,https://zenn.dev/yamaden/articles/9469cbe0bca86e ,2024/02/12 02:23:39
+9774,"Python(pytest)でテスト書くならfixture,conftest,parametrizeを理解すると世界が一気に変わる",https://zenn.dev/tk_resilie/articles/python_test_template ,2024/02/12 02:23:39
+9775,あらゆる理論で音楽を作成・分析できるPythonライブラリ Neuma を作成する (2) - 音の表示方法 -,https://zenn.dev/shizukakokoro/articles/bff918dcb40a0b ,2024/02/12 02:23:39
+9776,アジャイルでの開発体験をよくするための優れたツール集,https://zenn.dev/ficilcom/articles/agile-development-experience ,2024/02/12 02:23:39
+9777,悪いコードから知る変更容易性の真価,https://zenn.dev/mbao/articles/good_code_bad_code ,2024/02/12 02:23:39
+9778,【入門】要件定義,https://zenn.dev/sutamac/articles/351cb3c7ea66ba ,2024/02/12 02:23:39
+9779,見つかりませんでした  Zenn,https://zenn.dev/tsumuri/books/12fa4d34036793 ,2024/02/12 02:23:39
+9780,チームリーダー1年目に読んでよかった書籍を紹介してみる,https://zenn.dev/praha/articles/ddd42c7e98cfe6 ,2024/02/12 02:23:39
+9781,エンジニアリングの必須図書 40冊 2023年版,https://zenn.dev/nameless_sn/articles/awesome_40_books_for_developers ,2024/02/12 02:23:39
+9782,アジャイル勉強法,https://zenn.dev/yskn_sid25/books/agile_study_book ,2024/02/12 02:23:39
+9783,SQLアンチパターン　ポリモーフィック関連について,https://zenn.dev/kingdom0927/articles/b2097fadaf7543 ,2024/02/12 02:23:39
+9784,SQLアンチパターンのEAV（Entity-Attribute-Value）について,https://zenn.dev/kingdom0927/articles/0c1d4483409db4 ,2024/02/12 02:23:39
+9785,幸せと生産性は必ずしも両立しない。仕事で「燃え尽きない」ためにできること  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2308-you-need-to-know-where-you-fall-on-the-happy-productive/ ,2024/02/12 02:23:39
+9786,【データ分析】5か月でゴールドをとれた私文の僕が「やってよかったこと」 #機械学習 - Qiita,https://qiita.com/hexagon0423/items/d6f4453819d854c63d17?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/12 02:23:39
+9787,開発に転生したら未経験は俺だけだった件 2話「Tug Your God Out」 #ポエム - Qiita,https://qiita.com/saitoooooooo/items/6327ccd15e49906d4aef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/12 02:23:39
+9788,【セキュリティ】読んで損ないウェブセキュリティのススメ #初心者向け - Qiita,https://qiita.com/shimada_slj/items/a8ebc171154568f49586?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/12 02:23:39
+9789,NeoVimにddu.vimを導入する #Vim - Qiita,https://qiita.com/t7u-ito/items/5227cfcee113e7662c50 ,2024/02/12 02:23:39
+9790,MRJの失敗は必然だった？ 元航空機エンジニアの私が感じた「うぬぼれ技術者」発言への違和感、部下への責任転嫁に民間産業の未来なし  Merkmal（メルクマール）,https://merkmal-biz.jp/post/46848 ,2024/02/12 02:23:39
+9791,【悲報】自作PC界隈、老人と若者しかいなくなる,https://anond.hatelabo.jp/20230826101232 ,2024/02/12 02:23:39
+9792,「プログラマーも最初は女性の仕事だったのに、続々男性が進出して女性を追い出した」というポストに7500以上のいいねがついてしまう - Togetter,https://togetter.com/li/2211783 ,2024/02/12 02:23:39
+9793,新入社員必見！業務パソコンにインストールしてはいけない危ないソフトウェアのリスト #初心者向け - Qiita,https://qiita.com/mmake/items/a1e314f1c2d6b5181477 ,2024/02/12 02:23:39
+9794,睡眠負債を解決する！ 「眠りの観光旅行」のはじめ方とは？  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2308you-need-to-book-a-sleep-vacation/ ,2024/02/12 02:23:39
+9795,25 Best Productivity Apps: 2023 Review Guide - DEV Community,https://dev.to/anthonypelle/25-best-productivity-apps-2023-review-guide-86a ,2024/02/12 02:23:39
+9796,7 Unique and Underrated Python Libraries - DEV Community,https://dev.to/chinemere/7-unique-and-underrated-python-libraries-l6e ,2024/02/12 02:23:39
+9797,File Handling in Python - DEV Community,https://dev.to/krpraveen0/untitled-4o06 ,2024/02/12 02:23:39
+9798,Elevating Web Design with Framer Motion: Bringing Your Website to Life - DEV Community,https://dev.to/harshahegde/elevating-web-design-with-framer-motion-bringing-your-website-to-life-372n ,2024/02/12 02:23:39
+9799,How I updated my portfolio. - DEV Community,https://dev.to/sahilverma_dev/how-i-updated-my-portfolio-4boi ,2024/02/12 02:23:39
+9800,Dive Into Docker part 4: Inspecting Docker Image - DEV Community,https://dev.to/klip_klop/dive-into-docker-part-4-inspecting-docker-image-568o ,2024/02/12 02:23:39
+9801,9 Pro Tips for Effective Version Control and Collaboration using Git - DEV Community,https://dev.to/yatendra2001/9-pro-tips-for-effective-version-control-and-collaboration-using-git-3nik ,2024/02/12 02:23:39
+9802,Boost Your Coding Speed with These Productivity Tools - DEV Community,https://dev.to/surajondev/boost-your-coding-speed-with-these-productivity-tools-1k4a ,2024/02/12 02:23:39
+9803,12 Great Project Ideas for Web and Mobile Developers - DEV Community,https://dev.to/ashutoshmishra/12-great-project-ideas-for-web-and-mobile-developers-3nfo ,2024/02/12 02:23:39
+9804,5 Ways AI Pair Programmers Impact Developer Productivity - DEV Community,https://dev.to/domfive/5-ways-ai-pair-programmers-impact-developer-productivity-491m ,2024/02/12 02:23:39
+9805,Simple Portfolio Template - DEV Community,https://dev.to/notshanxx/simple-portfolio-template-d00 ,2024/02/12 02:23:39
+9806,7 Completely FREE Math Courses for Data Science - DEV Community,https://dev.to/aqsa81/7-completely-free-math-courses-for-data-science-1ibe ,2024/02/12 02:23:39
+9807,Reflecting my 4 month journey as Junior Software Engineer - DEV Community,https://dev.to/button99/reflecting-my-4-month-journey-as-junior-software-engineer-9p2 ,2024/02/12 02:23:39
+9808,5 Best Full Stack Communities to Join in 2023 - DEV Community,https://dev.to/ashutoshmishra/5-best-full-stack-communities-to-join-in-2023-47be ,2024/02/12 02:23:39
+9809,伊藤淳一氏が「一番下手くそエンジニア」から脱出した4つの方法。2023年版ITエンジニアの生存戦略【後編】  レバテックラボ（レバテックLAB）,https://levtech.jp/media/article/column/detail_285/ ,2024/02/12 02:23:39
+9810,エンジニアの人数を２倍にしても多くの場合開発速度やアウトプットは単純に２倍にならないが、なんと、エンジニアの人数を半分にするとコストが確実に半分になります！ - Togetter,https://togetter.com/li/2200096 ,2024/02/12 02:23:39
+9811,「テストを書こうとしたけど、どう（いつ）書いたらいいかわからない」初心者向けガイドライン！ - HIKKYフロントエンドガイドラインより,https://zenn.dev/aiya000/articles/00e2795fbb7dee ,2024/02/12 02:23:39
+9812,私が教わった「仕事の本」の読み方。  Books&Apps,https://blog.tinect.jp/?p=82904 ,2024/02/12 02:23:39
+9813,PHPでデザインパターン「Adapter」,https://zenn.dev/naoyuki42/articles/ae565b3cb09115 ,2024/02/12 02:23:39
+9814,PHPでデザインパターン「Template Method」,https://zenn.dev/naoyuki42/articles/e56d536b2e1c6d ,2024/02/12 02:23:39
+9815,コードを読んでいて気持ちのよい瞬間,https://zenn.dev/inoco/articles/ddee7113d71dad ,2024/02/12 02:23:39
+9816,「笑顔」を浮かべていれば本当に幸せな気分になれるのか？ - GIGAZINE,https://gigazine.net/news/20230823-faking-smile-make-happier/ ,2024/02/12 02:23:39
+9817,作業にかかった時間が一目瞭然！ 資格勉強、ToDo管理にキングジムの「ルラップ」【今日のライフハックツール】  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2308-lht-kingjim-lelap/ ,2024/02/12 02:23:39
+9818,新しいLinuxの教科書　読了メモ #Linux - Qiita,https://qiita.com/KiYuRo/items/030ce5f7c5b386370e96 ,2024/02/12 02:23:39
+9819,Linuxのシステムアーキテクチャ #初心者 - Qiita,https://qiita.com/matuumo/items/e886cf1efe90dd40dee1 ,2024/02/12 02:23:39
+9820,【備忘録】ArchLinuxをインストールして構築してみた #Linux - Qiita,https://qiita.com/Shi05yu/items/d8278ed2a0c36fcd315c ,2024/02/12 02:23:39
+9821,Itaratorパターンとは #PHP - Qiita,https://qiita.com/emika_0402/items/5785934af2294e6860c3 ,2024/02/12 02:23:39
+9822,プログラミングを学び始めた人に困った時に使うべきサイト #PHP - Qiita,https://qiita.com/ono-ayumu/items/904cfa33e97f31b09810 ,2024/02/12 02:23:39
+9823,Laravelにおけるクラスとファサードの違い #PHP - Qiita,https://qiita.com/floginal/items/99aed4b3ae6acc35f23b ,2024/02/12 02:23:39
+9824,エンジニア初学者のころの勉強方法について #PHP - Qiita,https://qiita.com/engiMeer/items/56bcb9b8632501eddc48 ,2024/02/12 02:23:39
+9825,vim-bootstrap Vimの入門が終わったら、これをやれ！！ #Vim - Qiita,https://qiita.com/bomiura/items/aff7389cefd6bcf4a885 ,2024/02/12 02:23:39
+9826,Vimmer が紹介する「いぶし銀」なプラグインまとめ（後編）,https://zenn.dev/vim_jp/articles/2023-08-21-vim-accomplished-plugins-result-2 ,2024/02/12 02:23:39
+9827,web系言語(Python)を独学するにあたって行ったこと #Python - Qiita,https://qiita.com/koshi_waru/items/6e160778528b9cfa21e8 ,2024/02/12 02:23:39
+9828,ソフトウェア開発者の人生マニュアル #ポエム - Qiita,https://qiita.com/YM671/items/00a65d0f3a6a33f1728c ,2024/02/12 02:23:39
+9829,UXデザインに役立つテンプレート集  unprinted,https://www.unprinted.design/resources/ ,2024/02/12 02:23:39
+9830,クラスメソッド入社1年間を振り返ってみた  DevelopersIO,https://dev.classmethod.jp/articles/takeda-1year-after-join/ ,2024/02/12 02:23:39
+9831,海の家でリモートワークしてみた  DevelopersIO,https://dev.classmethod.jp/articles/remotework-at-a-beach-house/ ,2024/02/12 02:23:39
+9832,小規模コミュニティによる継続交流のすすめ  DevelopersIO,https://dev.classmethod.jp/articles/minimum-community/ ,2024/02/12 02:23:39
+9833,日本は「忙しそうに見せるだけの無駄な仕事」に時間を費やしている国トップ3に入ることがSlackのレポートで発覚 - GIGAZINE,https://gigazine.net/news/20230817-japanese-employees-spending-looking-busy/ ,2024/02/12 02:23:39
+9834,脳波から「聞いていた音楽」を再構成することに成功、再構成した音楽を聴けるムービーもあり - GIGAZINE,https://gigazine.net/news/20230816-brain-music-reconstructed/ ,2024/02/12 02:23:39
+9835,集中力が最大に高まって作業がはかどりまくる「フロー」状態に入る方法とは？ - GIGAZINE,https://gigazine.net/news/20230815-flow-concentration/ ,2024/02/12 02:23:39
+9836,「よく眠れた」と思うことが実際の睡眠の質よりも幸福度に大きな影響を与えるとの研究結果 - GIGAZINE,https://gigazine.net/news/20230814-perception-sleep-quality-outweighs-tracker-data/ ,2024/02/12 02:23:39
+9837,筋トレを習慣付けるには筋肉記録写真を撮影するべし＆まず握力から始めるべし - GIGAZINE,https://gigazine.net/news/20230813-build-muscle-take-photo/ ,2024/02/12 02:23:39
+9838,17歳の学生が独学で「どのようにCPUがプログラムを動かすのか」を調査し詳細に解説するページを作成 - GIGAZINE,https://gigazine.net/news/20230810-cpu-run-program/ ,2024/02/12 02:23:39
+9839,開発チームリーダーとしてやってきたことのふりかえり #devio2023  DevelopersIO,https://dev.classmethod.jp/articles/devio2023-reflection-on-what-i-have-done-as-a-development-team-leader/ ,2024/02/12 02:23:39
+9840,eSIMはどんな仕組みで成立しているのか？についてモバイル通信を熟知したエンジニアが解説 - GIGAZINE,https://gigazine.net/news/20230822-esim/ ,2024/02/12 02:23:39
+9841,読書をすることがメンタルヘルスやキャリアにも良い影響を与えると研究者が主張、読書習慣を身につけるためのアドバイスも - GIGAZINE,https://gigazine.net/news/20230820-reading-books-good-society-wellbeing-career/ ,2024/02/12 02:23:39
+9842,「悪いことをしていないなら隠す必要はない」という考えはプライバシー問題においては間違いだという指摘 - GIGAZINE,https://gigazine.net/news/20230819-nothing-to-hide-problem/ ,2024/02/12 02:23:39
+9843,Metaがコーディング補助AI「Code Llama」の無料公開を計画中か - GIGAZINE,https://gigazine.net/news/20230818-meta-code-llama/ ,2024/02/12 02:23:39
+9844,ハッキングされて開発者情報などが流出したストーカーアプリ「LetMeSpy」がサーバー上のデータを削除され活動停止に追い込まれる - GIGAZINE,https://gigazine.net/news/20230808-spyware-letmespy-hacked-shuts-down/ ,2024/02/12 02:23:39
+9845,「人間は脳の10％しか使っていない」という言説は本当なのか？ - GIGAZINE,https://gigazine.net/news/20230808-humans-use-only-10-percent-brains/ ,2024/02/12 02:23:39
+9846,コンピューターの不具合や操作のわかりにくさのせいで業務時間の最大20％が浪費されているという研究結果 - GIGAZINE,https://gigazine.net/news/20230806-wasting-20-percent-time-computer-problems/ ,2024/02/12 02:23:39
+9847,How the ‘Proust Effect’ Can Help You Study  Lifehacker,https://lifehacker.com/how-the-proust-effect-can-help-you-study-1850749025 ,2024/02/12 02:23:39
+9848,The Best Books to Help You Find Work-Life Balance  Lifehacker,https://lifehacker.com/the-best-books-to-help-you-find-work-life-balance-1850739067 ,2024/02/12 02:23:39
+9849,Use This SMART Goals Formula to Be More Productive  Lifehacker,https://lifehacker.com/use-this-smart-goals-formula-to-be-more-productive-1850736205 ,2024/02/12 02:23:39
+9850,These Are the Best Books to Learn Better Time Management  Lifehacker,https://lifehacker.com/these-are-the-best-books-to-learn-better-time-managemen-1850735972 ,2024/02/12 02:23:39
+9851,The Best Books to Help You Build a Great Career  Lifehacker,https://lifehacker.com/the-best-books-to-help-you-build-a-great-career-1850730311 ,2024/02/12 02:23:39
+9852,How the 3-3-3 Method Will Help You Be More Productive  Lifehacker,https://lifehacker.com/get-more-done-with-the-3-3-3-method-1850729849 ,2024/02/12 02:23:39
+9853,Stay Motivated at Work With an Accomplishment Journal  Lifehacker,https://lifehacker.com/stay-motivated-at-work-with-an-accomplishment-journal-1850713034 ,2024/02/12 02:23:39
+9854,Prevent Digital Eye Strain With the 20-20-20 Method  Lifehacker,https://lifehacker.com/prevent-digital-eye-strain-with-the-20-20-20-method-1850700377 ,2024/02/12 02:23:39
+9855,「いつかやる」を放置しない、今やるor今後一切やらないの究極的タスク管理術  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2308-schedule-every-to-do-item-on-your-list-or-trash-it/ ,2024/02/12 02:23:39
+9856,人生を決定づける大きな10の決断  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/top-10-difficult-decisions-youll-make-in-life-and-how-1/ ,2024/02/12 02:23:39
+9857,忙しい人こそ見直したい！スキマ時間の有効活用と考える時間のつくり方  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2308_book_to_read-1293/ ,2024/02/12 02:23:39
+9858,「目標達成日誌」をつけると成功確率がアップ！モチベーションを保つ記録の仕方  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2308-stay-motivated-at-work-with-an-accomplishment-journal/ ,2024/02/12 02:23:39
+9859,ビジネスパーソンは「共感力」と「深掘り力」の二刀流で飛躍する。苦手な方のスキルを伸ばすには？  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2308_book_to_read-1292/ ,2024/02/12 02:23:39
+9860,モチベーションと集中力が驚くほど高まる「フロータイムのつくり方」8つのヒント  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2308-try-these-simple-behavior-shifts-to-manage-your-time-and-energy-better/ ,2024/02/12 02:23:39
+9861,「自分時間」へのトランジション渦中で考える、本当に自分に合った生き方と働き方【BOOK LAB TALK #33】  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2308-blt-33/ ,2024/02/12 02:23:39
+9862,「自己成長」のために遊ぶ、休むだけで終わらせない！長期休暇をより有意義に過ごすためのヒント5つ  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2308-matome-how-to-spend-a-long-vacation/ ,2024/02/12 02:23:39
+9863,生産性を高めるには「習慣の積み重ね」を試してみよう  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2308-try-habit-stacking-to-be-more-productive/ ,2024/02/12 02:23:39
+9864,ディープ・ワークとは？ゾーンに入って完全集中するための仕事術  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2308-use-deep-work-to-be-more-productive/ ,2024/02/12 02:23:39
+9865,限りある時間をどう使う？「効率」より大事な時間の使い方を歴史から紐解いてみた  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2308-time-management/ ,2024/02/12 02:23:39
+9866,30代未経験エンジニアが１ヶ月目の学習でやってみたこと #新人プログラマ応援 - Qiita,https://qiita.com/kekikami/items/707e8d982bfdebad3017 ,2024/02/12 02:23:39
+9867,不要コードを継続的に削除し、技術的負債に対抗する,https://zenn.dev/paiza/articles/continuous-deleting-unused-codes ,2024/02/12 02:23:39
+9868,５年やって分かった要件定義に必須な５つのスキルとその上達方法 - みんなのシステム企画,https://ripurun.com/media/requirement-specification/five-skills/ ,2024/02/12 02:23:39
+9869,数学の入門書を選ぶ3つのコツ - webエンジニアの日常,https://www.uosansatox.biz/entry/2019/01/07/123000 ,2024/02/12 02:23:39
+9870,「英語仕事効率化」のための必携ツール7選: DeepL、Grammarly、Quillbotなどの活用方法 - ENGLISH JOURNAL,https://ej.alc.co.jp/entry/20230818-ai-tools ,2024/02/12 02:23:39
+9871,他人がはやく読めるコードを書く ために - Speaker Deck,https://speakerdeck.com/77web/ta-ren-gahayakudu-merukodowoshu-ku-tameni ,2024/02/12 02:23:39
+9872,「コンピューターの基礎は若い時に学んでいてほしい」　ソフトウェア開発組織が持つべきカルチャーとは - ログミーTech,https://logmi.jp/tech/articles/329158 ,2024/02/12 02:23:39
+9873,"はてなのエンジニアリングマネジメント、これまでとこれから / Engineering Management in Hatena, Hatena Engineer Seminar 26 - Speaker Deck",https://speakerdeck.com/motemen/engineering-management-in-hatena-hatena-engineer-seminar-26 ,2024/02/12 02:23:39
+9874,優れたテストスイートの4本の柱を学ぶ - 「単体テストの考え方、使い方」を読んだ - $shibayu36->blog;,https://blog.shibayu36.org/entry/2023/08/14/170000 ,2024/02/12 02:23:39
+9875,Pythonにおけるimportの危険性とは　全ての運用関係者が知っておくべきPython特有のセキュリティリスク：便利だが攻撃者による悪用の可能性も - ＠IT,https://atmarkit.itmedia.co.jp/ait/articles/2308/12/news031.html ,2024/02/12 02:23:39
+9876,そりゃスパゲティーコードにもなるよな - orangeitems’s diary,https://www.orangeitems.com/entry/2023/08/10/120000 ,2024/02/12 02:23:39
+9877,良いテストケースの作成手法を学ぶ - 「はじめて学ぶソフトウェアのテスト技法」を読んだ - $shibayu36->blog;,https://blog.shibayu36.org/entry/2023/08/10/193000 ,2024/02/12 02:23:39
+9878,【2週間の爆速開発】食べログChatGPTプラグインPJを率いたPMに聞く、緊急度の高いPJに抜擢される優秀なエンジニアの特徴  レバテックラボ（レバテックLAB）,https://levtech.jp/media/article/interview/detail_287/ ,2024/02/12 02:23:39
+9879,新人の作ったWebアプリが穴だらけ!?　ログイン画面に潜むセキュリティの”あるある”ワナ：“典型的やられサイト”で学ぶセキュリティのワナ（1/3 ページ） - ITmedia NEWS,https://www.itmedia.co.jp/news/articles/2308/09/news091.html ,2024/02/12 02:23:39
+9880,読みたくなるREADMEを書くためのコツ #GitHub - Qiita,https://qiita.com/ren_ichinose/items/15b5a156ae43ea2b3425 ,2024/02/12 02:23:39
+9881,プロダクトマネージャーになって気づいた4つのルール　エンジニア時代の私に伝えたい、プロダクトマネジメントをする上で考えたいこと - ログミーTech,https://logmi.jp/tech/articles/329058 ,2024/02/12 02:23:39
+9882,「整理する時間のほうが無駄」→知り合いの日本を代表するというプログラマーから見る「雑然としたデスクトップは天才の証」説 - Togetter,https://togetter.com/li/2201364 ,2024/02/12 02:23:39
+9883,Trouble Sleeping? These 42 Expert Sleep Tips Can Help - CNET,https://www.cnet.com/health/sleep/tricks-to-help-you-sleep/#ftag=CAD590a51e ,2024/02/12 02:23:39
+9884,パスワードクラッキング用PCの構築に必要なハードウェアやソフトウェアとは？ - GIGAZINE,https://gigazine.net/news/20240203-building-password-cracker/ ,2024/02/12 02:23:39
+9885,「老化」は生命の進化において重要な役割を持っている可能性があるとの研究結果 - GIGAZINE,https://gigazine.net/news/20240203-growing-old-accelerate-evolution/ ,2024/02/12 02:23:39
+9886,面白い最終回を迎えた作品や最終回がひどかった作品を統計的分析したらこうなる - GIGAZINE,https://gigazine.net/news/20240203-series-finale/ ,2024/02/12 02:23:39
+9887,筋トレが続かなかった人に朗報！ブランク明けの筋肉を呼び覚ますマッスルメモリー活用法  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2402-muscle-training/ ,2024/02/12 02:23:39
+9888,デスクワークの疲れを溜めない10の習慣＆おすすめグッズ【Amazonタイムセール祭り】  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2402-amazon-timesale-recovery-items-editors-recommend/ ,2024/02/12 02:23:39
+9889,【2024年2月】エンジニアなら読むべき技術書まとめ #初心者 - Qiita,https://qiita.com/Raio1426/items/25c52008c02dbc0ace87 ,2024/02/12 02:23:39
+9890,よく使うチートシート #Python - Qiita,https://qiita.com/raisack8/items/9e3ff0514fc091f69b69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/12 02:23:39
+9891,【超簡単】無料枠内におさまる範囲でAWS環境を構築する,https://zenn.dev/kyonaka/articles/d1537a0422cfc6 ,2024/02/12 02:23:39
+9892,【2024年2月】エンジニアなら読むべき技術書まとめ,https://zenn.dev/yottabyte/articles/74b20c15ca48d3 ,2024/02/12 02:23:39
+9893,【Reactでアニメーションを使いこなす】Framer Motion実践入門,https://zenn.dev/y_ta/books/62a676a1d22982 ,2024/02/12 02:23:39
+9894,「英語習得への近道が開かれた」AI革命の到来…ChatGPTで英語学習を10倍効率化する方法  ゴールドオンライン,https://gentosha-go.com/articles/-/57349 ,2024/02/12 02:23:39
+9895,天才ホワイトハッカーが集まる「エンジニアの楽園」はどう作られた？　“世界レベル”が続々集まる組織の仕組みづくり　 - ログミーTech,https://logmi.jp/tech/articles/330036 ,2024/02/12 02:23:39
+9896,「世界一流エンジニアの思考法」の重要ポイントまとめ #新人プログラマ応援 - Qiita,https://qiita.com/KIRIN3qiita/items/28703fa491ea4e3b02d5 ,2024/02/12 02:23:39
+9897,Zennで会社テックブログを運用した振り返り,https://zenn.dev/ficilcom/articles/review-for-tech-blog ,2024/02/12 02:23:39
+9898,裏表のない...｜Kazuki Hayakawa,https://sizu.me/kzkhykw/posts/1usewtcudfie ,2024/02/12 02:23:39
+9899,"小さなチーム、大きな仕事──働き方の新スタンダード  種類,ハヤカワ文庫NF  ハヤカワ・オンライン",https://www.hayakawa-online.co.jp/shopdetail/000000013397/ ,2024/02/12 02:23:39
+9900,PUBLIC HACK　私的に自由にまちを使う｜学芸出版社,https://book.gakugei-pub.co.jp/gakugei-book/9784761527198/ ,2024/02/12 02:23:39
+9901,GitHubセキュリティ Organization運用のベストプラクティス,https://zenn.dev/tmknom/books/github-organization-security ,2024/02/12 02:23:39
+9902,O'Reilly Japan - 効率的なGo,https://www.oreilly.co.jp//books/9784814400539/ ,2024/02/12 02:23:39
+9903,【11万文字越え】プログラミング初心者に贈る即戦力ガイド #Python - Qiita,https://qiita.com/nuco_bk/items/27f5ad03d0c4b41241fc ,2024/02/12 02:23:39
+9904,LocalStackでAWSイベント駆動アーキテクチャのE2Eテスト環境を作る,https://zenn.dev/manaty226/articles/774aac860a33f6 ,2024/02/12 02:23:39
+9905,11種類のオペレーティング・システムについてまとめてみた #Linux - Qiita,https://qiita.com/zawawahoge/items/2ec3b638422c7c8cac8f ,2024/02/12 02:23:39
+9906,Book:データ保護完全ガイド,https://www.oreilly.co.jp//books/9784814400553/mobile.html ,2024/02/12 02:23:39
+9907,日本版「Rule of X」: いまSaaSは成長と利益のどっちに重きをおかれてるのか？｜Masayuki Minato  ALL STAR SAAS FUND,https://note.com/minato1014/n/n958d19556f6b?sub_rt=share_pb ,2024/02/12 02:23:39
+9908,生産性向上のために身に着けたい10のこと #読書感想文 - Qiita,https://qiita.com/kntr0116/items/302d5e379505089780d2 ,2024/02/12 02:23:39
+9909,低レイヤーを学ぶための技術書をまとめてみる #Linux - Qiita,https://qiita.com/hareku/items/3383be7aee616e04b80f ,2024/02/12 02:23:39
+9910,オニオンアーキテクチャとは何か #設計 - Qiita,https://qiita.com/cocoa-maemae/items/e3f2eabbe0877c2af8d0 ,2024/02/12 02:23:39
+9911,Amazon.co.jp: Obsidianで“育てる”最強ノート術 —— あらゆる情報をつなげて整理しよう eBook : 増井 敏克: Kindle Store,https://www.amazon.co.jp/-/en/%E5%A2%97%E4%BA%95-%E6%95%8F%E5%85%8B-ebook/dp/B0CK827QHL/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr= ,2024/02/12 02:23:39
+9912,東大生が教える異能系勉強法～１日を３３時間にする禁じ手（ガチ）～,https://todai-umeet.com/article/4745 ,2024/02/12 02:23:39
+9913,asken withミライトデザインのDDDのはじめ方 DDD x RDRA x ICONIX - connpass,https://asken.connpass.com/event/293085/ ,2024/02/12 02:23:39
+9914,バリュー・プロポジションのつくり方 顧客の価値を「状況」で考えればプロダクト・サービス開発はうまくいく（前田 俊幸 安達 淳）｜翔泳社の本,https://www.shoeisha.co.jp/book/detail/9784798173979 ,2024/02/12 02:23:39
+9915,「YAMLの本来の使い方」を仕様から読み取ってみる  Wantedly Engineer Blog,https://www.wantedly.com/companies/wantedly/post_articles/540711 ,2024/02/12 02:23:39
+9916,O'Reilly Japan - ルールズ・オブ・プログラミング,https://www.oreilly.co.jp/books/9784814400416/ ,2024/02/12 02:23:39
+9917,Screaming Architecture - Evolution of a React folder structure - DEV Community,https://dev.to/profydev/screaming-architecture-evolution-of-a-react-folder-structure-4g25#discussion-of-the-featuredriven-folder-structure ,2024/02/12 02:23:39
+9918,MySQLマイスターに学べ！ 即効クエリチューニング 記事一覧  Think IT（シンクイット）,https://thinkit.co.jp/series/5588 ,2024/02/12 02:23:39
+9919,MySQLのログの種類とログの仕方を調べてみた（実施例）  レンタルサーバー・自宅サーバー設定・構築のヒント,https://server-setting.info/centos/mysql-log-type.html ,2024/02/12 02:23:39
+9920,MySQL :: MySQL 8.0 リファレンスマニュアル :: 8.8.2 EXPLAIN 出力フォーマット,https://dev.mysql.com/doc/refman/8.0/ja/explain-output.html ,2024/02/12 02:23:39
+9921,JP Contents Hub,https://aws-samples.github.io/jp-contents-hub/ ,2024/02/12 02:23:39
+9922,[速習] ドメイン駆動設計(DDD) 第1回 ソフトウェアのプロフェッショナルへの道 (レイヤードアーキテクチャと依存性の逆転/境界づけられたコンテキスト) #初心者 - Qiita,https://qiita.com/ShigemoriMasato/items/6311a8362f0fd27e6af6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/12 02:23:39
+9923,初めての大きなプロジェクトに挑戦してみた - Adwaysエンジニアブログ,https://blog.engineer.adways.net/entry/2024/02/02/150000 ,2024/02/12 02:23:39
+9924,【Python 3.12】型ヒント機能がいつの間にか進化していたので、慌ててキャッチアップする - ABEJA Tech Blog,https://tech-blog.abeja.asia/entry/python-312-typing-202402 ,2024/02/12 02:23:39
+9925,集中力が切れたらまたつなげばいい。誰でもできる集中リカバー・テクニック4選  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2402-matome-recover-concentration/ ,2024/02/12 02:23:39
+9926,What is The Best Way to Learn a Coding Language? - DEV Community,https://dev.to/anitaolsen/what-is-the-best-way-to-learn-a-coding-language-50dc ,2024/02/12 02:23:39
+9927,Code Smell 240 - Dead Store - DEV Community,https://dev.to/mcsee/code-smell-240-dead-store-1k39 ,2024/02/12 02:23:39
+9928,ソフトウェアの保守性の評価指標について #マネジメント - Qiita,https://qiita.com/soufflet-kobe/items/9fa5d50297b92266c3fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/12 02:23:39
+9929,どうしてもneovimでjupyterlabしたいんや,https://zenn.dev/afk2777/articles/zenn-nvim-jupyter ,2024/02/12 02:23:39
+9930,人の「本棚が見たい」のはなぜか？ーー本棚記録サービスを作りたい（1）｜小島奈菜子,https://note.com/7smallislands/n/n847e783c4c0f ,2024/02/12 02:23:39
+9931,コミュニティに参加したら人生が劇的に楽しくなって成長できました #初心者 - Qiita,https://qiita.com/kojimadev/items/9fe72b90c15e32131895 ,2024/02/12 02:23:39
+9932,技術書の積読を避けるためにやっていること - Magnolia Tech,https://blog.magnolia.tech/entry/2024/02/04/122800 ,2024/02/12 02:23:39
+9933,データマネジメントを体系的に学んでみた  DevelopersIO,https://dev.classmethod.jp/articles/systematically_learning_datamanagement/ ,2024/02/12 02:23:39
+9934,Python と VSCode でデータプロファイリング・データクレンジング  DevelopersIO,https://dev.classmethod.jp/articles/python-vscode-datawrangler-preview/ ,2024/02/12 02:23:39
+9935,データマネジメントのDAMAホイール図とTableauBlueprintのデータガバナンス図の比較  DevelopersIO,https://dev.classmethod.jp/articles/tableau-blue-print-and-dama-wheel/ ,2024/02/12 02:23:39
+9936,ライフハッカー編集部員が読んでよかった【2月の推し本】  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2402-rakuten-books-editors/ ,2024/02/12 02:23:39
+9937,マルチタスクをやめて生産性を上げる4つの方法  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2401-multitasking-makes-you-less-productive-here-are-4-ways-to-actually-get-work-done/ ,2024/02/12 02:23:39
+9938,Top 20 Free Static Web Hosting Services in 2024 ⚡️ - DEV Community,https://dev.to/sh20raj/top-20-free-static-web-hosting-services-in-2024-56fc ,2024/02/12 02:23:39
+9939,Top YouTube Alternatives to Watch in 2024 📹 - DEV Community,https://dev.to/sh20raj/top-youtube-alternatives-to-watch-in-2024-3412 ,2024/02/12 02:23:39
+9940,Top Growing Social Media Platforms in 2024 🚀 - DEV Community,https://dev.to/sh20raj/top-growing-social-media-platforms-in-2024-2dd2 ,2024/02/12 02:23:39
+9941,Top 20 Web Hosting Services in 2024 - Choose the Best for Your Website 🚀 - DEV Community,https://dev.to/sh20raj/top-20-web-hosting-services-in-2024-cp9 ,2024/02/12 02:23:39
+9942,17 Best Unit Testing Frameworks In 2023 - DEV Community,https://dev.to/lambdatest/17-best-unit-testing-frameworks-in-2023-58j6 ,2024/02/12 02:23:39
+9943,S.O.L.I.D: The 5 Golden Rules to Level Up Your Coding Skills - DEV Community,https://dev.to/idanref/solid-the-5-golden-rules-to-level-up-your-coding-skills-2p82 ,2024/02/12 02:23:39
+9944,同棲にあたってのPL管理 #Python - Qiita,https://qiita.com/kyouyap/items/c65972c81f8da0503aab ,2024/02/12 02:23:39
+9945,OSの機能て思ってたよりたくさんありました（OS機能雑まとめ） #備忘録 - Qiita,https://qiita.com/_mi/items/e71ecf4b4db169165286?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/12 02:23:39
+9946,t-wadaさんと学ぶレガシーコード改善ワークショップのつくり方～虎の巻～ #勉強会 - Qiita,https://qiita.com/flyaway/items/a3fc75caa75a7ee14562?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/12 02:23:39
+9947,[Python] 新卒エンジニアが人手不足の案件にぶち込まれて学んだこと・思ったこと #Python - Qiita,https://qiita.com/camino37/items/910e0bcaf4b75581592e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/12 02:23:39
+9948,Macの生産性を高めるRaycastの活用法【よく使う機能4つ+小技3つ】,https://zenn.dev/ichigoooo/articles/5111e8a96a4c19 ,2024/02/12 02:23:39
+9949,プログラマーの教養としての原則,https://zenn.dev/tnagata012/articles/principal-as-cultivation-bdf9c5c615e6c9 ,2024/02/12 02:23:39
+9950,牛尾剛氏が語る『世界一流エンジニアの思考法』への道──英語力や技術力を覆す、三流ならではの戦略とは？ (1/3)CodeZine（コードジン）,https://codezine.jp/article/detail/18946 ,2024/02/12 02:23:39
+9951,タスク管理をアナログでやる意味、そしてデジタルの強みとは？あらためて比較してみた  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2402-digital-vs-paper-to-do-list/ ,2024/02/12 02:23:39
+9952,タスクの優先度に悩む。超基本に立ち返って「アイゼンハワー・マトリクス」で整理する方法  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2402-prioritize-your-tasks-with-the-eisenhower-matrix/ ,2024/02/12 02:23:39
+9953,freeeに学ぶ、言語や文化の壁を越えたグローバルチームの作り方──バックグラウンドの異なるメンバーと働くということ (1/3)CodeZine（コードジン）,https://codezine.jp/article/detail/18697 ,2024/02/12 02:23:39
+9954,シェルスクリプトからPythonを呼び出して戻り値を受け取る #Python - Qiita,https://qiita.com/yuki-moroto/items/6d6e29b2dee194105ae7 ,2024/02/12 02:23:39
+9955,Amazon.co.jp: Docker&仮想サーバー完全入門　Webクリエイター＆エンジニアの作業がはかどる開発環境構築ガイド eBook : リブロワークス: Japanese Books,https://www.amazon.co.jp/-/en/%E3%83%AA%E3%83%96%E3%83%AD%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9-ebook/dp/B0BF9C3FJX/ref=zg_bs_g_466298_d_sccl_3/356-9448913-0804769?psc=1 ,2024/02/12 02:23:39
+9956,新卒アーキテクトの楽しさと苦悩,https://zenn.dev/shunishii/articles/59fdd2d462d637 ,2024/02/12 02:23:39
+9957,テキストコミュニケーションで意識していること｜ymdkit,https://sizu.me/ymdkit/posts/uw2e8m1s7ikf ,2024/02/12 02:23:39
+9958,ひらめきが生まれない理由は「脳が疲れているから」。頭と心を休ませる4つのヒント  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2402-a-brain-dump-may-be-trick-you--need-to-quiet-that-chattering/ ,2024/02/12 02:23:39
+9959,「休むのが苦手な人」でもできる6つの休息法  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2402-matome-how-to-take-a-good-rest/ ,2024/02/12 02:23:39
+9960,"乗るだけ簡単。カラダに関する16項目を測れる、Ankerのお手軽体組成計が4,000円台です【楽天お買い物マラソン】  ライフハッカー・ジャパン",https://www.lifehacker.jp/article/rakuten-sale-2024-0207-1/ ,2024/02/12 02:23:39
+9961,管理職になる前に知りたい。チームワークが大事な6つの理由  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2402-comreasons-effective-teamwork/ ,2024/02/12 02:23:39
+9962,Unveiling the Top 5 Software Testing Techniques That Will Blow Your Mind! - DEV Community,https://dev.to/talenttinaapi/unveiling-the-top-5-software-testing-techniques-that-will-blow-your-mind-6jl ,2024/02/12 02:23:39
+9963,Unveiling the Best Practices for Implementing a Continuous Testing Strategy for Your Software Product - DEV Community,https://dev.to/pritig/unveiling-the-best-practices-for-implementing-a-continuous-testing-strategy-for-your-software-product-156 ,2024/02/12 02:23:39
+9964,Top 25 Integration Testing Tools For 2024 - DEV Community,https://dev.to/lambdatest/top-25-integration-testing-tools-for-2024-4fid ,2024/02/12 02:23:39
+9965,Beginner-friendly Python Concepts - DEV Community,https://dev.to/shariqahmed525/beginner-friendly-python-concepts-4i2a ,2024/02/12 02:23:39
+9966,みんなに長く使われるダッシュボードで押さえるべき4つのポイント #データ分析 - Qiita,https://qiita.com/IkuyaM/items/c109dc0870151595b278?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/12 02:23:39
+9967,わたしの働き方を作ったソフトスキル本３冊,https://zenn.dev/levtech/articles/6ea39803e04dc8 ,2024/02/12 02:23:39
+9968,気負わず、書く。私が意識してやっている、子育て中でもできるアウトプット術  レバテックラボ（レバテックLAB）,https://levtech.jp/media/article/column/detail_382/ ,2024/02/12 02:23:39
+9969,ドキュメント作成のいろは #初心者 - Qiita,https://qiita.com/ma9981/items/f6be55a23a3cb727c803 ,2024/02/12 02:23:39
+9970,DoタスクとThinkタスクは切り分けて管理する、というのはどうだろうか？ - paiza times,https://paiza.hatenablog.com/entry/2024/02/05/130000 ,2024/02/12 02:23:39
+9971,データ分析・活用の事例を分析する：課題抽出のためのデータ分析を表現する｜分析屋,https://note.com/bunsekiya_tech/n/nd24dd9b256b9 ,2024/02/12 02:23:39
+9972,低レイヤの学び、どうします？  さくらのナレッジ,https://knowledge.sakura.ad.jp/36865/ ,2024/02/12 02:23:39
+9973,データエンジニアから見て魅力的な環境で働けると思うよ - estie inside blog,https://www.estie.jp/blog/entry/2024/02/07/110000 ,2024/02/12 02:23:39
+9974,Draft Releaseデプロイフローを作成してみました - コネヒト開発者ブログ,https://tech.connehito.com/entry/2024/02/07/112123 ,2024/02/12 02:23:39
+9975,「体の負債をリファクタリング！」新たなノベルティに込められた想いを添えて - LayerX エンジニアブログ,https://tech.layerx.co.jp/entry/stretch ,2024/02/12 02:23:39
+9976,フルリモートワークは最高の福利厚生 - note社員の1日｜noteエンジニアチームの技術記事,https://engineerteam.note.jp/n/nfb97931adc86 ,2024/02/12 02:23:39
+9977,レスポンシブウェブデザイン：手法とベストプラクティス  Welcome to Monstarlab’s Engineering Blog,https://engineering.monstar-lab.com/jp/post/2024/02/07/Responsive-web-design/ ,2024/02/12 02:23:39
+9978,Netflixが「無料で提供される海賊版サイトへの対抗は難しくなっている」と発言 - GIGAZINE,https://gigazine.net/news/20240207-netflix-piracy/ ,2024/02/12 02:23:39
+9979,科学者が「正気の沙汰じゃない」と口走る新発見、人体から発見されたウイルスでもバクテリアでもない謎の生物的存在「オベリスク」とは？ - GIGAZINE,https://gigazine.net/news/20240207-virus-like-entity-obelisks/ ,2024/02/12 02:23:39
+9980,警察官がうそをついて無実の人々から虚偽の自白を引き出す方法とは？ - GIGAZINE,https://gigazine.net/news/20240206-police-lie-interrogations-false-confessions/ ,2024/02/12 02:23:39
+9981,弊社で取り組んでいるデータ活用システムの取り込み方法について #AWS - Qiita,https://qiita.com/OT_yanagisawa/items/36ad3e7a14fe54207753 ,2024/02/12 02:23:39
+9982,Top 15 Tips to Make Your Webpage Load Faster - DEV Community,https://dev.to/sh20raj/top-15-tips-to-make-your-webpage-load-faster-3pmb ,2024/02/12 02:23:39
+9983,20+ Essential VS Code Shortcuts to Become a Ninja Coder (No Mouse Needed!) - DEV Community,https://dev.to/jitendrachoudhary/20-essential-vs-code-shortcuts-to-become-a-ninja-coder-no-mouse-needed-3pf4 ,2024/02/12 02:23:39
+9984,【Python】Atcoderでよく使う処理まとめてみた #Python - Qiita,https://qiita.com/kensaka1228/items/284c5e2258adcf98bbe8 ,2024/02/12 02:23:39
+9985,とりあえずの目標 #初心者 - Qiita,https://qiita.com/50s-beginner/items/4ffcb72bf2305ca3ded6 ,2024/02/12 02:23:39
+9986,[解説]Pythonを用いた株価・経済データの取得方法をまとめてみた #Python - Qiita,https://qiita.com/aguilarklyno/items/9a1c1a6f5e478c81c725?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/12 02:23:39
+9987,【GitHub】チームの情報粒度を揃えるためのissue formsテンプレートの作り方 - RAKUS Developers Blog  ラクス エンジニアブログ,https://tech-blog.rakus.co.jp/entry/20240208/issue_forms ,2024/02/12 02:23:39
+9988,【ローコード】BrowserStack Low Code Automationの使い方 - CUEBiC TEC BLOG,https://cuebic.co.jp/tech-blog/entry/lowcode_automation ,2024/02/12 02:23:39
+9989,コード品質向上のテクニック: 第 12 回（セット割引）,https://techblog.lycorp.co.jp/ja/20240208b ,2024/02/12 02:23:39
+9990,SaaSプロダクトにおける5階層モデルの「構造」とは - Link and Motivation Developers' Blog,https://link-and-motivation.hatenablog.com/entry/2024/02/08/110402 ,2024/02/12 02:23:39
+9991,求められるエンジニアで居続けるための生存戦略 - paiza times,https://paiza.hatenablog.com/entry/2024/02/08/130000 ,2024/02/12 02:23:39
+9992,負荷テストツール「k6」入門,https://zenn.dev/pharmax/articles/98ed49994cdaf2 ,2024/02/12 02:23:39
+9993,テスト俯瞰マップでプロダクト品質を可視化する - techtekt,https://techtekt.persol-career.co.jp/entry/culture/240209_01 ,2024/02/12 02:23:39
+9994,Web フロントエンドのテストと持続可能な方針の組み立てを考える  Offers Tech Blog,https://zenn.dev/overflow_offers/articles/20240209-testing-strategy ,2024/02/12 02:23:39
+9995,システム開発におけるテスト工程とテストエンジニアとは - paiza times,https://paiza.hatenablog.com/entry/2024/02/09/130000 ,2024/02/12 02:23:39
+9996,"より速く、より正確に、より楽に（Citius, Rectius, Facilius） - estie inside blog",https://www.estie.jp/blog/entry/2024/02/09/170000 ,2024/02/12 02:23:39
+9997,効果的なテストケースの作成について考えてみる,https://zenn.dev/sdb_blog/articles/ooba-blog-003 ,2024/02/12 02:23:39
+9998,エンジニアが今日から始める英語学習の継続方法 - Uzabase for Engineers,https://tech.uzabase.com/entry/2024/02/09/184401 ,2024/02/12 02:23:39
+9999,本は効率的に情報を受け取るために「箇条書き化」しているという指摘 - GIGAZINE,https://gigazine.net/news/20240209-bullet-pointization/ ,2024/02/12 02:23:39
+10000,1分間黒い円を集中して見つめるだけで集中力やモチベーションを高めることが可能な「oneminutefocus.com」 - GIGAZINE,https://gigazine.net/news/20240209-oneminutefocus/ ,2024/02/12 02:23:39
+10001,元・介護職員や事務員も。有名ゲーム開発にも携わるIT企業で「業界未経験者」が活躍できる理由  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2402-good-company-for-work-and-life-unicorn-tech/ ,2024/02/12 02:23:39
+10002,2024年の今こそ使ってほしい「RSSリーダー」。基礎知識＆最新おすすめリーダー・一挙紹介  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2402-the-best-rss-reader-apps-in-2024/ ,2024/02/12 02:23:39
+10003,イーロン・マスク流、高パフォーマンスを実現するための「85%ルール」  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2402-elon-musk-uses-85-percent-rule-to-help-staff-increase-productivity-with-less-energy/ ,2024/02/12 02:23:39
+10004,ポモドーロのその先へ。個人に合わせた時間管理術「フロータイム」のやり方とコツを解説  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2402-flowtime-time-management-technique/ ,2024/02/12 02:23:39
+10005,Kindleで50％オフ、PDF版は50％ポイント還元　2/16まで翔泳社の技術書がセールでお得！CodeZine（コードジン）,https://codezine.jp/article/detail/18979 ,2024/02/12 02:23:39
+10006,Why use Obsidian for software development? - DEV Community,https://dev.to/sc0v0ne/why-use-obsidian-for-software-development-3j42 ,2024/02/12 02:23:39
+10007,Code coverage vs. test coverage in Python - DEV Community,https://dev.to/honeybadger/code-coverage-vs-test-coverage-in-python-59ng ,2024/02/12 02:23:39
+10008,Laravel code-quality tools - DEV Community,https://dev.to/honeybadger/laravel-code-quality-tools-44ml ,2024/02/12 02:23:39
+10009,Writing Code like a Senior Developer in Laravel - DEV Community,https://dev.to/martintonev/writing-code-like-a-senior-developer-in-laravel-ddn ,2024/02/12 02:23:39
+10010,Embracing the Future: Emerging Trends in Software Engineering - DEV Community,https://dev.to/daviewisdm/embracing-the-future-emerging-trends-in-software-engineering-2k0e ,2024/02/12 02:23:39
+10011,Exploring FuseBase: A New Horizon in Productivity Tools - DEV Community,https://dev.to/stan8086/exploring-fusebase-a-new-horizon-in-productivity-tools-9a5 ,2024/02/12 02:23:39
+10012,GoF- Strategy Pattern - DEV Community,https://dev.to/binoy123/gof-strategy-pattern-3fg1 ,2024/02/12 02:23:39
+10013,Start writing better code with the concept of boundaries - DEV Community,https://dev.to/stathisg/start-writing-better-code-with-the-concept-of-boundaries-31hj ,2024/02/12 02:23:39
+10014,GitHub Repository Best Practices - DEV Community,https://dev.to/pwd9000/github-repository-best-practices-23ck ,2024/02/12 02:23:39
+10015,The S of SOLID in my view. - DEV Community,https://dev.to/witerlland/the-s-of-solid-in-my-view-476o ,2024/02/12 02:23:39
+10016,GoF-Momento Pattern - DEV Community,https://dev.to/binoy123/gof-momento-pattern-5b0j ,2024/02/12 02:23:39
+10017,GoF-Observer Pattern - DEV Community,https://dev.to/binoy123/gof-observer-pattern-aol ,2024/02/12 02:23:39
+10018,GoF-State Pattern - DEV Community,https://dev.to/binoy123/gof-state-pattern-af5 ,2024/02/12 02:23:39
+10019,Clean Architecture In Enterprise Application - DEV Community,https://dev.to/linhvuquach/clean-architecture-in-enterprise-application-5ala ,2024/02/12 02:23:39
+10020,GoF-Template Method - DEV Community,https://dev.to/binoy123/gof-template-method-3c5k ,2024/02/12 02:23:39
+10021,GoF-Visitor Pattern - DEV Community,https://dev.to/binoy123/gof-visitor-pattern-2p89 ,2024/02/12 02:23:39
+10022,Simplifying Python Code with Unpacking Operators - DEV Community,https://dev.to/devasservice/simplifying-python-code-with-unpacking-operators-nf ,2024/02/12 02:23:39
+10023,Top 10 Visual Studio Code Extensions to Boost Your Productivity in 2024 - DEV Community,https://dev.to/nitin-rachabathuni/top-10-visual-studio-code-extensions-to-boost-your-productivity-in-2024-24e4 ,2024/02/12 02:23:39
+10024,組み込み系エンジニアからWeb系エンジニアに転職してみた感想 #Web - Qiita,https://qiita.com/koto74/items/660f5b722275b365cdb6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/12 02:23:39
+10025,私のエンジニア人生を振り返る #DB - Qiita,https://qiita.com/nogizakapython/items/5df0ec67cdf029a63030?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/02/12 02:23:39
+10026,GitHub Actionsを使った効率の良い学習の仕組み化 #GitHub - Qiita,https://qiita.com/yamd1/items/b9aff9638c82a5ec6f6a ,2024/02/12 02:23:39
+10027,Vimで自動化を極める：入門者向けautocmdガイド,https://zenn.dev/garchomp_game/articles/12201d1b53c7fe ,2024/02/12 02:23:39
+10028,typos を使った Neovim でのスペルチェック,https://zenn.dev/charlie/articles/421bd209099ea5 ,2024/02/12 02:23:39
+10029,「無償公開していたからこそ、サブスクで売上が立てられた」　個人開発のオープンソースを元に法人化＆マネタイズ - ログミーTech,https://logmi.jp/tech/articles/330082 ,2024/02/12 02:23:39
+10030,『チームトポロジー』と Platform Engineering - Speaker Deck,https://speakerdeck.com/miholovesq/team-topologies-with-platform-engineering ,2024/02/12 02:23:39
