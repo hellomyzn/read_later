@@ -10712,3 +10712,68 @@ id,title,url,create_at
 10711,【翻訳】テスト駆動開発の定義 - t-wadaのブログ,https://t-wada.hatenablog.jp/entry/canon-tdd-by-kent-beck ,2024/03/08 10:40:16
 10712,需要がなくならないエンジニアであり続けるために　生涯現役で活躍するために必要な“設計力”の鍛え方【一問一答】 - ログミーTech,https://logmi.jp/tech/articles/330232 ,2024/03/08 10:40:16
 10713,【エンジニアの成長攻略】 マインドセットの重要性 #ポエム - Qiita,https://qiita.com/k_yuduha/items/d261c8195bd8678c809a ,2024/03/08 10:40:16
+10714,低予算でGoのコードカバレッジレポートをPull Requestにコメントする using CircleCI - Retty Tech Blog,https://engineer.retty.me/entry/go-coverage ,2024/03/12 18:43:47
+10715,ソリッド原則について 〜PHPにおける実践例〜,https://zenn.dev/sdb_blog/articles/2410_solid_principle ,2024/03/12 18:43:47
+10716,アジャイルチームのコアバリュー創りを紹介！あなたの「当たり前」は誰かにとっては「有り難きもの」 - for Startups Tech blog,https://tech.forstartups.com/entry/2024/03/08/180002 ,2024/03/12 18:43:47
+10717,Web エンジニアなら知っておきたい重ね合わせコンテキスト - Fenrir Engineers,https://engineers.fenrir-inc.com/entry/2024/03/08/181105 ,2024/03/12 18:43:47
+10718,怠惰な人向け技術ブログの続け方ガイド,https://zenn.dev/sdb_blog/articles/ea6d252c985b19 ,2024/03/12 18:43:47
+10719,フロントエンドとバックエンドの一貫したバリデーションで開発プロセスに調和と効率化をもたらす - Sansan Tech Blog,https://buildersbox.corp-sansan.com/entry/2024/03/11/110000 ,2024/03/12 18:43:47
+10720,VSCodeでGitHub Copilotを効率的に使用する方法 - カカクコムTechBlog,https://kakaku-techblog.com/entry/vscode-github-copilot ,2024/03/12 18:43:47
+10721,ソフトウェアの品質とは何か？組織的に品質を担保できる体制作りについて,https://zenn.dev/hacobell_dev/articles/7ac81981ff3f6b ,2024/03/12 18:43:47
+10722,既存の業務ツールやサービスの使い方について見直してみた - SO Technologies 開発者ブログ,https://developer.so-tech.co.jp/entry/2024/03/11/115746 ,2024/03/12 18:43:47
+10723,入社3ヶ月で感じた熱量とスピード - estie inside blog,https://www.estie.jp/blog/entry/2024/03/11/164500 ,2024/03/12 18:43:47
+10724,30代からプログラミングを本格的に始めたエンジニアが生産性について思うこと - Sansan Tech Blog,https://buildersbox.corp-sansan.com/entry/2024/03/12/110000 ,2024/03/12 18:43:47
+10725,スタイルコーディングを早くする,https://zenn.dev/lovegraph/articles/97ce5fd9d5781a ,2024/03/12 18:43:47
+10726,This Tried-and-True Bedtime Routine Can Help You Get Quality Sleep - CNET,https://www.cnet.com/health/sleep/the-ultimate-bedtime-routine-for-sleeping-better/#ftag=CAD590a51e ,2024/03/12 18:43:47
+10727,Daylight Saving Woes? 3 Expert Tips to Reset Your Sleep Routine - CNET,https://www.cnet.com/health/sleep/steps-to-reset-your-internal-alarm-clock-after-the-time-change-messed-it-up/#ftag=CAD590a51e ,2024/03/12 18:43:47
+10728,Here's How to Tell Your Brain Is Begging You to Sleep More - CNET,https://www.cnet.com/health/sleep/heres-how-to-tell-your-brain-is-begging-you-to-sleep-more/#ftag=CAD590a51e ,2024/03/12 18:43:47
+10729,「7つの習慣」のスティーブン・コヴィーによるビジネス・リーダーシップ・人生に関する名言30選 - GIGAZINE,https://gigazine.net/news/20240309-30-of-the-best-stephen-covey-quotes/ ,2024/03/12 18:43:47
+10730,What Is Core Sleep? (Or What Your Apple Watch Thinks It Is)  Lifehacker,https://lifehacker.com/health/what-is-core-sleep-apple-watch ,2024/03/12 18:43:47
+10731,不要のモバイルバッテリー、NGの捨て方とは？  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2403-gizmodoyou-cant-dispose-your-mobile-battery-as-regular-trash/ ,2024/03/12 18:43:47
+10732,無意識に「自分を疲れさせている」9つの習慣  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2403-9-mindless-habits-that-are-exhausting-you/ ,2024/03/12 18:43:47
+10733,Python Tips & Tricks Day 4 - DEV Community,https://dev.to/ahmed__elboshi/python-tips-tricks-day-4-2fd ,2024/03/12 18:43:47
+10734,Dockerでngrokを使いたい！ #Docker - Qiita,https://qiita.com/kohki_takatama/items/e9625dbc1f8bc8e1c722 ,2024/03/12 18:43:47
+10735,「AtCoder に登録したら次にやること ～ これだけ解けば十分闘える！過去問精選 10 問 ～」をPHPで解いてみた #PHP - Qiita,https://qiita.com/ryunosukematsuoka/items/d36f108444941f1f02df ,2024/03/12 18:43:47
+10736,[AtCoder]入緑しました！競プロ始める前~入緑までの道のり #Python - Qiita,https://qiita.com/Cecil_Ha/items/ee8b3620c87b255cf085 ,2024/03/12 18:43:47
+10737,【Python】リストの中に特定の要素があるか判定する処理はsetを使え #Python - Qiita,https://qiita.com/sekibouya/items/ecf86287dfcc9cbe74d7 ,2024/03/12 18:43:47
+10738,【座標圧縮】誰でも理解できるアルゴリズム解説 #Python - Qiita,https://qiita.com/mm-saito-1204/items/7ee43bc83c9bc766535b ,2024/03/12 18:43:47
+10739,【色変記事】AtCoderで入水した話 by ZOI2 #C++ - Qiita,https://qiita.com/ZOI2/items/9acafc4153356765721a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/03/12 18:43:47
+10740,Go + MySQL + Dockerでfly.ioにデプロイしてみる,https://zenn.dev/kabos0809/articles/a1b5dc92a96708 ,2024/03/12 18:43:47
+10741,GOのエラーハンドリングについて,https://zenn.dev/osio_sio/articles/494415bf976a96 ,2024/03/12 18:43:47
+10742,[Go] ポリモーフィズムをつかって綺麗な実装を目指そう,https://zenn.dev/youk/articles/qiita-20190915-644f20ee2477e5a16f45 ,2024/03/12 18:43:47
+10743,Go言語でのインターフェースを使った実装と継承について,https://zenn.dev/youk/articles/qiita-20190914-b74d0304d01a90f90947 ,2024/03/12 18:43:47
+10744,Golang - Dockerfileの最小構成,https://zenn.dev/youk/articles/qiita-20200620-3d088de91ab86bc71600 ,2024/03/12 18:43:47
+10745,Go言語のnet/httpでWebサーバを作る時に心配したこと,https://zenn.dev/youk/articles/qiita-20190921-9b709c37f1ebdb6b272a ,2024/03/12 18:43:47
+10746,Go言語 - 開発環境構築,https://zenn.dev/youk/articles/qiita-20190728-cfe83037026e4f1e09d5 ,2024/03/12 18:43:47
+10747,備忘録 GO開発環境構築 ~VScode~,https://zenn.dev/uz_jp/articles/001dcb5f11db70 ,2024/03/12 18:43:47
+10748,プログラムの可読性について,https://zenn.dev/namizatork/articles/4dc38816b2ce75 ,2024/03/12 18:43:47
+10749,エンコーディング手法の総まとめ,https://zenn.dev/yuto_mo/articles/131c49be5aee53 ,2024/03/12 18:43:47
+10750,Pythonでログをファイルに出力する,https://zenn.dev/purratto/articles/924d172162701a ,2024/03/12 18:43:47
+10751,君たちはどう記事を管理しているか,https://zenn.dev/yokoo_an209/articles/c0ccd3bd241ad6 ,2024/03/12 18:43:47
+10752,Neovim: A Powerful and Customizable Text Editor - An Introduction for Beginners - DEV Community,https://dev.to/insideee_dev/neovim-a-powerful-and-customizable-text-editor-an-introduction-for-beginners-17gb ,2024/03/12 18:43:47
+10753,Software Testing Basics - DEV Community,https://dev.to/bikodes/software-testing-basics-11mn ,2024/03/12 18:43:47
+10754,How I Work Fully Remote through SSH without Sudo Rights - DEV Community,https://dev.to/freiberg-roman/how-i-work-fully-remote-through-ssh-without-sudo-rights-icj ,2024/03/12 18:43:47
+10755,Tech Lead Software Setup - 2024 Edition - DEV Community,https://dev.to/joelbonetr/tech-lead-software-setup-2024-edition-8lk ,2024/03/12 18:43:47
+10756,Effective Neovim Setup. A Beginner’s Guide - DEV Community,https://dev.to/zt4ff_1/effective-neovim-setup-a-beginners-guide-1i81 ,2024/03/12 18:43:47
+10757,Roadmap for Frontend Development 🚀 - DEV Community,https://dev.to/alisamirali/roadmap-for-frontend-development-4dh0 ,2024/03/12 18:43:47
+10758,Building a Real-Time Online Status Checker with React using useSyncExternalStore - DEV Community,https://dev.to/sharmaprash/building-a-real-time-online-status-checker-with-react-using-usesyncexternalstore-5k0 ,2024/03/12 18:43:47
+10759,⚛️ Applying Strategy Pattern in React (Part 2) - DEV Community,https://dev.to/itswillt/applying-design-patterns-in-react-strategy-pattern-part-2-221i ,2024/03/12 18:43:47
+10760,5 Tips for avoiding mistakes while working with server - DEV Community,https://dev.to/cuongnp/5-tips-for-avoiding-mistakes-while-working-with-server-5am3 ,2024/03/12 18:43:47
+10761,Setting Up a Local Development Environment with Docker on Mac and Windows - DEV Community,https://dev.to/brownian77/setting-up-a-local-development-environment-with-docker-on-mac-and-windows-peb ,2024/03/12 18:43:47
+10762,Top 10 code smells every engineer should know to improve their pull requests - DEV Community,https://dev.to/arthurcoudouy/top-10-code-smells-every-engineer-should-know-to-improve-their-pull-requests-18mn ,2024/03/12 18:43:47
+10763,"Let's Share, Learn, and Grow Together 👬! - DEV Community",https://dev.to/respect17/lets-share-learn-and-grow-together--2b35 ,2024/03/12 18:43:47
+10764,A Deep Dive into Cal Newport’s Books - DEV Community,https://dev.to/stan8086/a-deep-dive-into-cal-newports-books-2ai8 ,2024/03/12 18:43:47
+10765,4 Things All EXCEPTIONAL Programmers Have in Common 🎯💡 - DEV Community,https://dev.to/arjuncodess/4-things-all-exceptional-programmers-have-in-common-m43 ,2024/03/12 18:43:47
+10766,優秀なエンジニアと働いてわかった成長するための立ち回り｜Yossy@英語とプログラミング,https://note.com/ring_belle/n/na4eeff66a9ce ,2024/03/12 18:43:47
+10767,『LeanとDevOpsの科学』をきちんと解読する 〜Four Keys だけじゃ絶対もったいなくなる話〜 - Speaker Deck,https://speakerdeck.com/bonotake/leantodevopsnoke-xue-wokitintojie-du-suru-four-keys-dakeziyajue-dui-motutainakunaruhua ,2024/03/12 18:43:47
+10768,ベタープログラマ を読んだ :: blog.kyu08.com,https://blog.kyu08.com/posts/better-programmer/ ,2024/03/12 18:43:47
+10769,コードレビューが怖かった私の、レビューへの向き合い方が変わった話 - ログミーTech,https://logmi.jp/tech/articles/330246 ,2024/03/12 18:43:47
+10770,パフォーマンスを改善するには仕様変更が1番はやい - Speaker Deck,https://speakerdeck.com/yamamotohiroya/pahuomansuwogai-shan-surunihashi-yang-bian-geng-ga1fan-hayai ,2024/03/12 18:43:47
+10771,エンジニアの強力な付加価値スキルとしての発信力 - An Epicurean,https://blog.song.mu/entry/the-power-of-eloquence-for-engineers ,2024/03/12 18:43:47
+10772,「Kindle Scribe」vs「BOOX NoteAir3」！ 10型クラスのE Inkタブレット対決 - 山口真弘のおすすめ読書タブレット比較 - 窓の杜,https://forest.watch.impress.co.jp/docs/bookwatch/tabletrecom/1574615.html ,2024/03/12 18:43:47
+10773,ブラウザに音声ファイルを生成させることで個人を識別して追跡する「オーディオフィンガープリンティング」の仕組み - GIGAZINE,https://gigazine.net/news/20240312-audio-fingerprinting/ ,2024/03/12 18:43:47
+10774,「誰がリモートワークで働いているのか」を統計的に分析したデータからリモートワークは「高学歴者のぜいたく品」であることが明らかに - GIGAZINE,https://gigazine.net/news/20240311-data-fully-remote-hybrid-in-person/ ,2024/03/12 18:43:47
+10775,「怒り」や「不安」に支配的されないための方法2つ  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2403-how-to-identify-your-dominant-emotional-style-and-why/ ,2024/03/12 18:43:47
+10776,タスクの先延ばしや生産性低下を防ぐ方法。やるべきはたった1つ  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2403-what-is-parkinsons-law/ ,2024/03/12 18:43:47
+10777,"【2024年】React, TypeScript, Tailwind CSSでTodoアプリを作ろう",https://zenn.dev/stray/books/e3dbdf3f7aeac6 ,2024/03/12 18:43:47
+10778,4つの構成で書く良い質問文,https://zenn.dev/spacemarket/articles/2a255ee68a7ad8 ,2024/03/12 18:43:47
