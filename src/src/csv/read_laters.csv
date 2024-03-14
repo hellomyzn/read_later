@@ -10777,3 +10777,53 @@ id,title,url,create_at
 10776,タスクの先延ばしや生産性低下を防ぐ方法。やるべきはたった1つ  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2403-what-is-parkinsons-law/ ,2024/03/12 18:43:47
 10777,"【2024年】React, TypeScript, Tailwind CSSでTodoアプリを作ろう",https://zenn.dev/stray/books/e3dbdf3f7aeac6 ,2024/03/12 18:43:47
 10778,4つの構成で書く良い質問文,https://zenn.dev/spacemarket/articles/2a255ee68a7ad8 ,2024/03/12 18:43:47
+10779,成長期のスタートアップにおける、デザインシステムの考え方,https://zenn.dev/castingone_dev/articles/b1df80f5ac0ea5 ,2024/03/13 10:38:46
+10780,プロダクトの価値をどう測るのか,https://zenn.dev/sdb_blog/articles/77d70a3599660g ,2024/03/13 10:38:46
+10781,どうしてあなたの共通化は間違っているのか：第5章「新・単一責任原則」 #デザインパターン - Qiita,https://qiita.com/wolfmagnate/items/2cc028913d33878200f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/03/13 10:38:46
+10782,コード開発ができるにシステムエンジニアに #React - Qiita,https://qiita.com/yasuhide630/items/033ad857236d28b3f005?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/03/13 10:38:46
+10783,Software Designドメイン駆動設計に参加 #ドメイン駆動設計 - Qiita,https://qiita.com/Kudo_panda/items/3c07b6404c8b1e392845?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/03/13 10:38:46
+10784,システム内製化におけるフロントエンドテスト戦略 #テスト - Qiita,https://qiita.com/GleapPost/items/1dd19cc0597488761137?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/03/13 10:38:46
+10785,ターミナルから離れたくない…Tmux(＆Neovim)の設定例🖊,https://zenn.dev/fukakusa_kadoma/articles/b1943c9e0bf44b ,2024/03/13 10:38:46
+10786,14業界の主要戦略パターンを解説する『業界別マーケティングの地図』を出版します!!（→「はじめに」と「おわりに」と主要フレームを全公開）｜池田紀行@トライバル代表,https://note.com/ikedanoriyuki/n/n103c72cf2807 ,2024/03/13 10:38:46
+10787,「リモートワークで先輩の仕事ぶりが見えない…」新卒2年目エンジニアの悩み　他人と自分のスキルの差を知るための方法【一問一答】 - ログミーTech,https://logmi.jp/tech/articles/330253 ,2024/03/13 10:38:46
+10788,『Tailwind CSS実践入門』 出版記念基調講演 - Speaker Deck,https://speakerdeck.com/fsubal/tailwind-cssshi-jian-ru-men-chu-ban-ji-nian-ji-diao-jiang-yan ,2024/03/13 10:38:46
+10789,読みやすいテストコードへの一歩、適切なAssertionを使う - Speaker Deck,https://speakerdeck.com/asumikam/good-assertion ,2024/03/13 10:38:46
+10790,「1日1万歩で健康」説はやっぱり本当？　歩数や座位時間と死亡率の関係を調査、7万人を対象に【研究紹介】  レバテックラボ（レバテックLAB）,https://levtech.jp/media/article/column/detail_397/ ,2024/03/13 10:38:46
+10791,当ブログのレスポンシブコーディングについて  TAKLOG,https://www.tak-dcxi.com/article/my-blogs-responsive-coding/ ,2024/03/13 10:38:46
+10792,毎日がちょっと便利で楽になるChatGPTの使い方10選  ギズモード・ジャパン,https://www.gizmodo.jp/2024/03/10-practical-uses-chatgpt-improve-your-life.html ,2024/03/13 10:38:46
+10793,Asyncio Patterns in Python - DEV Community,https://dev.to/tankala/asyncio-patterns-in-python-1b2d ,2024/03/13 10:38:46
+10794,Python Tips & Tricks Day 5 - DEV Community,https://dev.to/ahmed__elboshi/python-tips-tricks-day-5-3nmf ,2024/03/13 10:38:46
+10795,5 FRONTEND DEVELOPMENT BEST PRACTICES - DEV Community,https://dev.to/victor_88/5-frontend-development-best-practices-532m ,2024/03/13 10:38:46
+10796,The 5-5-5 of Active Listening - DEV Community,https://dev.to/r1ch4rd_donovan/the-5-5-5-of-active-listening-27lc ,2024/03/13 10:38:46
+10797,Creating modern Landing page with Particles and React - DEV Community,https://dev.to/basskibo/creating-modern-landing-page-with-particles-and-react-57li ,2024/03/13 10:38:46
+10798,Elevate Your Web Design: How to Enhance Your HTML with GitHub Utils CSS via CDN - DEV Community,https://dev.to/rohitnirban/elevate-your-web-design-how-to-enhance-your-html-with-github-utils-css-via-cdn-p23 ,2024/03/13 10:38:46
+10799,Build an awesome developer portfolio website. - DEV Community,https://dev.to/said7388/build-an-awesome-developer-portfolio-website-4cj9 ,2024/03/13 10:38:46
+10800,Apps that changed your life - DEV Community,https://dev.to/nandinishinduja/apps-that-changed-your-life-55fl ,2024/03/13 10:38:46
+10801,10 eBook Formatting Mistakes to Avoid When Self-Publishing - DEV Community,https://dev.to/alphaebook/10-ebook-formatting-mistakes-to-avoid-when-self-publishing-9b0 ,2024/03/13 10:38:46
+10802,Running a scheduled task with Nitric in Python - DEV Community,https://dev.to/rsiv/running-a-scheduled-task-with-nitric-in-python-53lp ,2024/03/13 10:38:46
+10803,Hosting a static website on AWS S3 with CI/CD - DEV Community,https://dev.to/sanishchirayath1/hosting-a-static-website-on-aws-s3-with-cicd-3deh ,2024/03/13 10:38:46
+10804,Navigating Legacy Code: A Programmer's Guide - DEV Community,https://dev.to/hikarimaeda/navigating-legacy-code-a-programmers-guide-1i62 ,2024/03/13 10:38:46
+10805,10 Must have VS Code Extensions for Developers in 2024 - DEV Community,https://dev.to/durgesh4993/10-must-have-vs-code-extensions-for-developers-in-2024-1m83 ,2024/03/13 10:38:46
+10806,Best Tech Stack for Web App Development in 2024 - DEV Community,https://dev.to/durgesh4993/best-tech-stack-for-web-app-development-in-2024-2o4 ,2024/03/13 10:38:46
+10807,Best 48 Web Development Tools Of All Time - DEV Community,https://dev.to/lambdatest/best-48-web-development-tools-of-all-time-5f2p ,2024/03/13 10:38:46
+10808,"Should we be making laws against ""dark patterns""? - DEV Community",https://dev.to/moopet/should-we-be-making-laws-against-dark-patterns-1dl8 ,2024/03/13 10:38:46
+10809,Power Automate - How to Test your Flows - DEV Community,https://dev.to/wyattdave/power-automate-how-to-test-your-flows-130n ,2024/03/13 10:38:46
+10810,"Amazon.co.jp: 科学的に自分を思い通りに動かす セルフコントロール大全 eBook : 堀田秀吾, 木島豪: 本",https://www.amazon.co.jp/%E7%A7%91%E5%AD%A6%E7%9A%84%E3%81%AB%E8%87%AA%E5%88%86%E3%82%92%E6%80%9D%E3%81%84%E9%80%9A%E3%82%8A%E3%81%AB%E5%8B%95%E3%81%8B%E3%81%99-%E3%82%BB%E3%83%AB%E3%83%95%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%AB%E5%A4%A7%E5%85%A8-%E5%A0%80%E7%94%B0%E7%A7%80%E5%90%BE-ebook/dp/B09NVKQ14Z/ref=zg_bs_g_562858_d_sccl_11/356-9448913-0804769?psc=1 ,2024/03/14 10:34:17
+10811,リサーチとAI 良い関係性の築き方 - inSmartBank,https://blog.smartbank.co.jp/entry/2024/03/11/090000 ,2024/03/14 10:34:17
+10812,スムーズなリモートワークを実現するためのちょっとした工夫を iOS アプリに入れた話  メルカリエンジニアリング,https://engineering.mercari.com/blog/entry/20240313-tip-for-smooth-remote-development-of-ios-app/ ,2024/03/14 10:34:17
+10813,コミューン流技術的負債との立ち向かい方 - commmune Engineer Blog,https://tech.commmune.jp/entry/2024/03/13/110000 ,2024/03/14 10:34:17
+10814,制作会社がフリーランスのエンジニアにスキルマップを求める理由 - paiza times,https://paiza.hatenablog.com/entry/2024/03/13/140000 ,2024/03/14 10:34:17
+10815,Ktorm のクラス設計を読み解いて、DSLを拡張する - ドワンゴ教育サービス開発者ブログ,https://blog.nnn.dev/entry/2024/03/13/153000 ,2024/03/14 10:34:17
+10816,「バグが出てこないのは品質が悪い！」と叱られ……日本の生産性が上がらない“本当の要因”とは？  文春オンライン,https://bunshun.jp/articles/-/69523?fbclid=IwAR3TNOXj_KKfravg2oAv7tvkDjSnjA8BrK7qV8VzNaYPWRisxc_0fT5LdOM ,2024/03/14 10:34:17
+10817,ハッカソン&&チーム開発で最低限意識したいこと3選 #初心者 - Qiita,https://qiita.com/nki1121/items/274841ba1730a41686fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/03/14 10:34:17
+10818,accessibility tips from an accessibility engineer - DEV Community,https://dev.to/westbrookc16/accessibility-tips-from-an-accessibility-engineer-4kl8 ,2024/03/14 10:34:17
+10819,GoF-Interpreter Pattern - DEV Community,https://dev.to/binoy123/gof-interpreter-pattern-5380 ,2024/03/14 10:34:17
+10820,クラスメソッドに入社してもうすぐ２年なのでエンジニアとしてどのように働き学んできたかを振り返る  DevelopersIO,https://dev.classmethod.jp/articles/2-years-at-classmethod-engineering-life/ ,2024/03/14 10:34:17
+10821,かつて広く使われていた「フロッピーディスク」についてプログラマーが解説 - GIGAZINE,https://gigazine.net/news/20240314-floppy-disks/ ,2024/03/14 10:34:17
+10822,3 essential tips on creating your community - DEV Community,https://dev.to/beapaz/3-essential-tips-on-creating-your-community-52ae ,2024/03/14 10:34:17
+10823,VSCode Extensions for 2024 - DEV Community,https://dev.to/himanshudevgupta/vscode-extensions-for-2024-2j3c ,2024/03/14 10:34:17
+10824,Frontend Developer Roadmap 2024 - DEV Community,https://dev.to/codeparrot/frontend-developer-roadmap-2024-12l9 ,2024/03/14 10:34:17
+10825,CSS Cheatsheet - DEV Community,https://dev.to/mikevarenek/css-cheatsheet-3e0e ,2024/03/14 10:34:17
+10826,"Python's classes with class instances, attributes, and methods! 🐍 the best way to learn is by doing! - DEV Community",https://dev.to/codingmadeeasy/pythons-classes-with-class-instances-attributes-and-methods-the-best-way-to-learn-is-by-doing-45eo ,2024/03/14 10:34:17
+10827,ターミナル作業が劇的に捗る！Macのzsh設定術 #Mac - Qiita,https://qiita.com/maskot1977/items/0fc6b3c08202f54b7a04 ,2024/03/14 10:34:17
+10828,エンジニアのモチベーションが上がる目標設定・評価｜Daisuke Ando / Skillnote,https://note.com/daisuke_ando/n/n6f09cacd6dcb ,2024/03/14 10:34:17
