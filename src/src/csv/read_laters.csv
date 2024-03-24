@@ -11014,3 +11014,58 @@ id,title,url,create_at
 11013,"知っておくと便利なCSSの単位: フォントに基づく相対単位（em, rem, cap, ch, ex, ic, lhなど）の便利な使い方を解説  コリス",https://coliss.com/articles/build-websites/operation/css/relative-length-units-based-on-font.html ,2024/03/22 19:34:39
 11014,askenエンジニアのおすすめ本 - asken テックブログ,https://tech.asken.inc/entry/2024/03/18/180000 ,2024/03/22 19:34:39
 11015,バッチシステムのリアーキテクチャを繰り返して見えた設計の勘所 - ZOZO TECH BLOG,https://techblog.zozo.com/entry/batch-system-rearchitecture ,2024/03/22 19:34:39
+11016,Pull Requestのレビュー負荷を軽減し、開発生産性を向上するためにチームで取り組んだこと - ZOZO TECH BLOG,https://techblog.zozo.com/entry/wear-web-development-productivity ,2024/03/24 14:11:01
+11017,Can Magnesium Improve Your Fitness Performance? - CNET,https://www.cnet.com/health/can-magnesium-improve-your-fitness-performance/#ftag=CAD590a51e ,2024/03/24 14:11:01
+11018,言語の広がりや進化などを物理学者が力学的に分析する「言語物理学」とは？ - GIGAZINE,https://gigazine.net/news/20240323-physics-languages/ ,2024/03/24 14:11:01
+11019,習慣化の秘訣は「自己効力感」を高めること。すでに備わっている、継続する力に気付こう  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2403-motivate-yourself-by-listing-the-stuff-youre-already-do-2/ ,2024/03/24 14:11:01
+11020,いつも飲んでいるもののカフェイン量知ってる？コーヒー、エナジードリンク、緑茶など1日の適量は？  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2403why-you-should-know-how-much-caffeine-is-in-everything-1/ ,2024/03/24 14:11:01
+11021,Apple Watchの睡眠トラッカーに表示される「コア睡眠」とは？  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2403-what-is-core-sleep-apple-watch/ ,2024/03/24 14:11:01
+11022,Docker+VSCode+serve-webでリモート開発環境を構築する(GPU) #Docker - Qiita,https://qiita.com/yy285/items/90f215275a514270bf85 ,2024/03/24 14:11:01
+11023,Dockerコンテナ間のAPI通信でハマった話 - host.docker.internalの存在 #Rails - Qiita,https://qiita.com/hosshinon/items/04a48ebec05ed3a3b943 ,2024/03/24 14:11:01
+11024,pythonのclassとアトリビュート #Python - Qiita,https://qiita.com/Hina39/items/db72072e948ca06a34c8 ,2024/03/24 14:11:01
+11025,特定のページが更新されたら通知する仕組みを作ってみた #Python - Qiita,https://qiita.com/UniKawazoe/items/0e631e92476dffb41a0d ,2024/03/24 14:11:01
+11026,"初めて出会った""Trait""の魔法：あなたのコードを変える革新的な考え方 #Java - Qiita",https://qiita.com/yo-nagase/items/9f82b196745ab27dcc53?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/03/24 14:11:01
+11027,オブジェクト指向のオブジェクトと型の関係が難しい #Python - Qiita,https://qiita.com/kotauchisunsun/items/d9562cbeb511abae4403?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/03/24 14:11:01
+11028,経験の浅いエンジニアがプルリクエストで意識すること #GitHub - Qiita,https://qiita.com/taisei_code/items/d62d86a893f4167ab8e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/03/24 14:11:01
+11029,TCP/IP構造と通信 #Linux - Qiita,https://qiita.com/lz910201/items/3441ef3bf3a19cdbce81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/03/24 14:11:01
+11030,『技術書の読書術』を読んで覚えておきたいテクニック #読書感想文 - Qiita,https://qiita.com/javano/items/cc0cbb769d7a6d5252b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/03/24 14:11:01
+11031,未経験から1人前のフロントエンドエンジニアへRTA #初心者 - Qiita,https://qiita.com/odendayoko/items/612793e870b3c07dff66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/03/24 14:11:01
+11032,個人で開発したゲームのリリースまでのフローをまとめてみた #Unity - Qiita,https://qiita.com/comomell/items/3bd30dbb56c15dc5c08e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/03/24 14:11:01
+11033,NERDTreeを使い始めた。設定メモ #Vim - Qiita,https://qiita.com/ytkayamura/items/a74d9fe0649246bd462b ,2024/03/24 14:11:01
+11034,12ヶ月で12個のサービスを立ち上げる挑戦をはじめました！,https://zenn.dev/statstat/articles/eaf22c89009719 ,2024/03/24 14:11:01
+11035,QR コードを簡単に作成する,https://zenn.dev/sun_asterisk/articles/4b8488e913dbca ,2024/03/24 14:11:01
+11036,"【2024年】React, Tailwind CSSでメルカリクローンサイトを作ろう【入門】",https://zenn.dev/stray/books/bbefb52ee87a9b ,2024/03/24 14:11:01
+11037,2023年に読んだ本 - 思索日記,https://tomato10.hatenablog.com/entry/2024/03/20/233000 ,2024/03/24 14:11:01
+11038,脱初級ITエンジニアまでの学習方法 - RAKUS Developers Blog  ラクス エンジニアブログ,https://tech-blog.rakus.co.jp/entry/20240322/learning ,2024/03/24 14:11:01
+11039,エンジニアの知的生産術 反響まとめ AIまとめ - 西尾泰和のScrapbox,https://scrapbox.io/nishio/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E7%9F%A5%E7%9A%84%E7%94%9F%E7%94%A3%E8%A1%93_%E5%8F%8D%E9%9F%BF%E3%81%BE%E3%81%A8%E3%82%81_AI%E3%81%BE%E3%81%A8%E3%82%81 ,2024/03/24 14:11:01
+11040,問題を高速に解く組織をつくる｜福島良典  LayerX,https://comemo.nikkei.com/n/n5cf2da384b14 ,2024/03/24 14:11:01
+11041,Top 8 Mistakes New Coders Make (and How to Avoid Them Like a Pro) - DEV Community,https://dev.to/pixelgig/top-8-mistakes-new-coders-make-and-how-to-avoid-them-like-a-pro-54jb ,2024/03/24 14:11:01
+11042,Full Stack Javascript Web Development Concept map - DEV Community,https://dev.to/thebridge2/full-stack-web-development-concept-map-4m7p ,2024/03/24 14:11:01
+11043,Top 5 Dev Tools I Use for Developing My Side Project - DEV Community,https://dev.to/jaironlanda/top-5-dev-tools-i-use-for-developing-my-side-project-2dc8 ,2024/03/24 14:11:01
+11044,7 GitHub Repositories to Master CSS 🔥🛠 - DEV Community,https://dev.to/arjuncodess/7-github-repositories-to-master-css-399j ,2024/03/24 14:11:01
+11045,A good documentation can lead you to be better - DEV Community,https://dev.to/_michellemello/a-good-documentation-can-lead-you-to-be-better-4dkj ,2024/03/24 14:11:01
+11046,A comprehensive guide to mastering the art of UI design - DEV Community,https://dev.to/veerasrivastava/a-comprehensive-guide-to-mastering-the-art-of-ui-design-3gkl ,2024/03/24 14:11:01
+11047,Tips to write automated tests with High-quality - DEV Community,https://dev.to/m4rri4nne/tips-to-write-automated-tests-with-high-quality-h8g ,2024/03/24 14:11:01
+11048,Advantages of IDE: How Does It Enable Faster Development - DEV Community,https://dev.to/qbentil/advantages-of-ide-how-does-it-enable-faster-development-2pl8 ,2024/03/24 14:11:01
+11049,Best Practices for Frontend Web Development: A Comprehensive Guide - DEV Community,https://dev.to/emmanuelhills/best-practices-for-frontend-web-development-a-comprehensive-guide-27h0 ,2024/03/24 14:11:01
+11050,読む数学 (角川ソフィア文庫)  瀬山 士郎  趣味・実用  Kindleストア  Amazon,https://www.amazon.co.jp/gp/product/B00IAQ7XI8?storeType=ebooks&pf_rd_p=db79ed49-5999-488c-998b-1a3e44e2b73a&pf_rd_r=4614H4GFVA2JZGD3F83X&pd_rd_wg=M1adc&pd_rd_i=B00IAQ7XI8&ref_=dbs_r_recs_kugbr_r_2&pd_rd_w=pMPC4&content-id=amzn1.sym.db79ed49-5999-488c-998b-1a3e44e2b73a&pd_rd_r=d0d915d8-6131-4f02-a118-4341f880ca9f ,2024/03/24 14:11:01
+11051,Amazon.co.jp: 未経験でも、はじめの一歩が踏み出せる！　Web系フリーランス働き方超大全 eBook : デイトラ: Kindleストア,https://www.amazon.co.jp/gp/product/B0BFGHC34N?storeType=ebooks&pf_rd_p=db79ed49-5999-488c-998b-1a3e44e2b73a&pf_rd_r=4614H4GFVA2JZGD3F83X&pd_rd_wg=M1adc&pd_rd_i=B0BFGHC34N&ref_=dbs_r_recs_kugbr_r_3&pd_rd_w=pMPC4&content-id=amzn1.sym.db79ed49-5999-488c-998b-1a3e44e2b73a&pd_rd_r=d0d915d8-6131-4f02-a118-4341f880ca9f ,2024/03/24 14:11:01
+11052,DDD基礎解説：エンティティ、値オブジェクトってなんなんだ - little hands' lab,https://little-hands.hatenablog.com/entry/2018/12/09/entity-value-object ,2024/03/24 14:15:15
+11053,DDDにおける認証の実装場所,https://zenn.dev/praha/articles/5c05ab671fb7ab ,2024/03/24 14:15:15
+11054,実践Next.js ——App Routerで進化するWebアプリ開発：書籍案内｜技術評論社,https://gihyo.jp/book/2024/978-4-297-14061-8 ,2024/03/24 14:15:15
+11055,【コードベースで比較する】React VS Next.js,https://zenn.dev/nameless_sn/articles/react_vs_nextjs_description ,2024/03/24 14:15:15
+11056,うまくクラス名を付けるための参考情報 #プログラミング - Qiita,https://qiita.com/KeithYokoma/items/ee21fec6a3ebb5d1e9a8 ,2024/03/24 14:15:15
+11057,たった２つのステップを意識するだけで書けない単体テストがほぼなくなる #Java - Qiita,https://qiita.com/_mi/items/ce66aa922ee46b00ab2d ,2024/03/24 14:15:15
+11058,トランザクション分離レベルについてのまとめ #MySQL - Qiita,https://qiita.com/song_ss/items/38e514b05e9dabae3bdb ,2024/03/24 14:15:15
+11059,[Next.js] 開発中のページを開発環境でのみ表示し、本番環境のビルドには含めないようにする,https://zenn.dev/socialplus/articles/7542f0fe31ccd3 ,2024/03/24 14:15:15
+11060,現場でよくある課題への処方箋 人と組織の行動科学  伊達 洋駆 本  通販  Amazon,https://www.amazon.co.jp/%E7%8F%BE%E5%A0%B4%E3%81%A7%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%AA%B2%E9%A1%8C%E3%81%B8%E3%81%AE%E5%87%A6%E6%96%B9%E7%AE%8B-%E4%BA%BA%E3%81%A8%E7%B5%84%E7%B9%94%E3%81%AE%E8%A1%8C%E5%8B%95%E7%A7%91%E5%AD%A6-%E4%BC%8A%E9%81%94-%E6%B4%8B%E9%A7%86/dp/4799110004 ,2024/03/24 14:15:15
+11061,クリーンアーキテクチャの書籍を読んだのでAPIサーバを実装してみた #Go - Qiita,https://qiita.com/yoshinori_hisakawa/items/f934178d4bd476c8da32 ,2024/03/24 14:15:15
+11062,"現場で使えるTypeScript 詳解実践ガイド (Compass Programming)  菅原浩之, CodeMafia 外村将大 本  通販  Amazon",https://www.amazon.co.jp/dp/4839984271/ref=cm_sw_r_as_gl_api_gl_i_G6N371W1Z94XNS5BX1V6?linkCode=ml1&tag=ev4333421-22 ,2024/03/24 14:15:15
+11063,"ワーク・ルールズ! ―君の生き方とリーダーシップを変える  ラズロ・ボック, 鬼澤 忍, 矢羽野 薫 本  通販  Amazon",https://www.amazon.co.jp/dp/4492533656 ,2024/03/24 14:15:15
+11064,戦略的DDDを実践するための跳躍力 / OOC 2024 - Speaker Deck,https://speakerdeck.com/pictiny/ooc-2024 ,2024/03/24 14:15:15
+11065,イベントストーミングによるオブジェクトモデリング: オブジェクト指向プログラミングへの適用/開発プロセスの変遷/アーキテクチャの変革 by 成瀬 允宣  トーク  Object-Oriented Conference 2024 #ooc_2024 - fortee.jp,https://fortee.jp/oocon-2024/proposal/60ee3bfa-46ff-4de8-9140-1a44103f3d28 ,2024/03/24 14:15:15
+11066,Twitterはタイムラインをどうやってキャッシュしているか #Twitter - Qiita,https://qiita.com/hiromichinomata/items/dfc9d2741f0ae40ce59c ,2024/03/24 14:15:15
+11067,TCP/IP構造と通信 #Linux - Qiita,https://qiita.com/lz910201/items/3441ef3bf3a19cdbce81?utm_content=buffer1ddf9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer ,2024/03/24 14:15:15
+11068,設計の知識と技能で駆動するソフトウェア開発 - Speaker Deck,https://speakerdeck.com/masuda220/software-development-driven-by-design-knowledge-and-skills ,2024/03/24 14:15:15
+11069,Web Speed Hackathon 2024 【一般応募用】 - connpass,https://cyberagent.connpass.com/event/300386/ ,2024/03/24 14:15:15
+11070,"LEADING QUALITY  Ronald Cummings-John, Owais Peer, 河原田 政典 本  通販  Amazon",https://www.amazon.co.jp/LEADING-QUALITY-Ronald-Cummings-John/dp/4048931121 ,2024/03/24 14:15:15
