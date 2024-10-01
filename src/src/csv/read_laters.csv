@@ -12502,3 +12502,54 @@ id,title,url,create_at
 12501,ワークアウト初心者の不安、まとめて解消！筋トレ・ジムデビューのよくある疑問に答えます  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2404-matome-workout-beginner/ ,2024/09/29 20:09:36
 12502,長寿の専門家が毎日実践している4つのこと。長生きするための生活習慣を学ぶ  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2404-businessinsider-how-to-live-longer-lifestyle-habits-longevity-doctor/ ,2024/09/29 20:09:36
 12503,Site is not secure,http://codezine.jp/article/detail/19178 ,2024/09/29 20:09:36
+12504,What is Clean Architecture: Part 17 - Implementing the Infrastructure Layer with CSV Export and Email Service - DEV Community,https://dev.to/moh_moh701/what-is-clean-architecture-part-17-implementing-the-infrastructure-layer-with-csv-export-and-email-service-f8e ,2024/09/30 11:11:16
+12505,How to Set Up a Clean Development Environment with Docker and Alpine Linux - DEV Community,https://dev.to/natanielchng/how-to-set-up-a-clean-development-environment-with-docker-and-alpine-linux-4ff ,2024/09/30 11:11:16
+12506,"Fullstack app: Building the Front-End with Vite, React, Typescript, Hooks and Docker - DEV Community",https://dev.to/mspilari/fullstack-app-building-the-front-end-with-vite-react-typescript-hooks-and-docker-3i63 ,2024/09/30 11:11:16
+12507,Mastering the Art of Docker Container Management - DEV Community,https://dev.to/labex/mastering-the-art-of-docker-container-management-1eik ,2024/09/30 11:11:16
+12508,github CI/CD Pipeline with Laravel - DEV Community,https://dev.to/shahariar_ikbal/github-cicd-pipeline-with-laravel-49ib ,2024/09/30 11:11:16
+12509,REACT x FLASK setup - DEV Community,https://dev.to/marlonmunoz/react-x-flask-setup-3cm2 ,2024/09/30 11:11:16
+12510,How to make logs useful? - DEV Community,https://dev.to/isma/how-to-make-logs-useful-3b9a ,2024/09/30 11:11:16
+12511,Make Your App Feel Better: 10 UI Tips for Beginner/Mid-Level Developers - DEV Community,https://dev.to/emma_mooreq_8a881fb041cbd/make-your-app-feel-better-10-ui-tips-for-beginnermid-level-developers-1117 ,2024/09/30 11:11:16
+12512,Logging in Python: Best Practices - DEV Community,https://dev.to/nishantmodak/logging-in-python-best-practices-21n8 ,2024/09/30 11:11:16
+12513,10 Tips for Writing Better Python Code - DEV Community,https://dev.to/myexamcloud/10-tips-for-writing-better-python-code-58fc ,2024/09/30 11:11:16
+12514,Making Spotify Song Downloader Using Python(mp3) - DEV Community,https://dev.to/trixsec/making-spotify-song-downloader-using-pythonmp3-24ao ,2024/09/30 11:11:16
+12515,How to Dockerize a Flask App 🐳 - DEV Community,https://dev.to/thecodingthesi/how-to-dockerize-a-flask-app-2fho ,2024/09/30 11:11:16
+12516,Building a cache in Python - DEV Community,https://dev.to/robc79/building-a-cache-in-python-3moa ,2024/09/30 11:11:16
+12517,Django File Structure for Developers - DEV Community,https://dev.to/digvijay_singhrajput/django-file-structure-for-developers-4i68 ,2024/09/30 11:11:16
+12518,Understanding Threading and Multiprocessing in Python: A Comprehensive Guide - DEV Community,https://dev.to/usooldatascience/understanding-threading-and-multiprocessing-in-python-a-comprehensive-guide-48i ,2024/09/30 11:11:16
+12519,"Python -How to define public, private and protected variables in a class - DEV Community",https://dev.to/ankitmalikg/python-how-to-define-public-private-and-protected-variables-in-a-class-4g9 ,2024/09/30 11:11:16
+12520,Python Clean Code – Stop Writing Bad Code: Key Lessons from Uncle Bob - DEV Community,https://dev.to/proflead/python-clean-code-stop-writing-bad-code-key-lessons-from-uncle-bob-2j0i ,2024/09/30 11:11:16
+12521,仕事効率を上げる音楽の選び方4選【今日のワークハック】  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/how-music-boost-your-productivity-1/ ,2024/09/30 11:11:16
+12522,【毎日書評】「must（するべき）」思考から解放、折れないこころをつくる近道は？  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2409_book_to_read-1560/ ,2024/09/30 11:11:16
+12523,リモートワークばかりで取り残されてる気がする…。若手に広がる「RTO FOMO」とは？ #TrendBuzz  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2409-rto-fomo/ ,2024/09/30 11:11:16
+12524,Tailwind CSSを使ってレスポンシブ対応してみる #tailwindcss - Qiita,https://qiita.com/ryuta_okazaki13/items/cdd9793f7ab687a5ac40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/09/30 11:11:16
+12525,JavaScriptの非同期処理をしっかり理解する　〜async/await/Promise〜 #promise - Qiita,https://qiita.com/zuisho-1848/items/a33813b78a008083387b ,2024/09/30 11:11:16
+12526,Top 50 System Design Terminologies You Should Know - DEV Community,https://dev.to/farzanapomy/top-50-system-design-terminologies-you-should-know-3io1 ,2024/09/30 11:11:16
+12527,10 microservices design patterns for better architecture - DEV Community,https://dev.to/codewithved/10-microservices-design-patterns-for-better-architecture-3ihi ,2024/09/30 11:11:16
+12528,The 6 Principles of Microservices Architecture - DEV Community,https://dev.to/raphaeldelio/the-6-principles-of-microservices-architecture-17ng ,2024/09/30 11:11:16
+12529,Which git branch strategy are you? - DEV Community,https://dev.to/nitzano/which-git-branch-strategy-are-you-2a42 ,2024/09/30 11:11:16
+12530,DevOps Architect: The Backbone of Modern Software Development - DEV Community,https://dev.to/devops_den/devops-architect-the-backbone-of-modern-software-development-4b19 ,2024/09/30 11:11:16
+12531,From Dependency Inversion to Dependency Injection in Python - DEV Community,https://dev.to/markoulis/from-dependency-inversion-to-dependency-injection-in-python-2h70 ,2024/09/30 11:11:16
+12532,"Digging Deep to Find the Right Balance Between DDD, Clean and Hexagonal Architectures - DEV Community",https://dev.to/y9vad9/digging-deep-to-find-the-right-balance-between-ddd-clean-and-hexagonal-architectures-4dnn ,2024/09/30 11:11:16
+12533,Key Components and Tools for Event-Driven Architectures - DEV Community,https://dev.to/axeldlv/key-components-and-tools-for-event-driven-architectures-3ipc ,2024/09/30 11:11:16
+12534,Let's talk: SOLID Principles 🇬🇧 - DEV Community,https://dev.to/claranet/solid-principles-3kld ,2024/09/30 11:11:16
+12535,14 Case Studies: Master System Design in a Month - DEV Community,https://dev.to/alexr/14-case-studies-master-system-design-in-a-month-2jk2 ,2024/09/30 11:11:16
+12536,What is Clean Architecture: Part 18 - Adding API - DEV Community,https://dev.to/moh_moh701/what-is-clean-architecture-part-18-adding-api-23l2 ,2024/09/30 11:11:16
+12537,【すぐにテスト環境構築】超簡易なJSONファイルを使ったMockサーバーを作った #Docker - Qiita,https://qiita.com/sugar_hash/items/549a49b84155a18f71e4 ,2024/09/30 11:11:16
+12538,読書記録　「VTuberサプーが教える！　Python　初心者のコード／プロのコード」 #Python - Qiita,https://qiita.com/mickie895/items/2c13afd433da926fd919 ,2024/09/30 11:11:16
+12539,そのコンテナ、本当に安全ですか？『リスクから学ぶ Kubernetesコンテナセキュリティ』発売CodeZine（コードジン）,https://codezine.jp/article/detail/19948 ,2024/09/30 11:11:16
+12540,DevOps Roadmap - DEV Community,https://dev.to/meghasharmaaaa/devops-roadmap-381m ,2024/10/01 10:29:35
+12541,Unlocking Performance: Understanding Total Blocking Time (TBT) - DEV Community,https://dev.to/fritzlolpro/unlocking-performance-understanding-total-blocking-time-tbt-21el ,2024/10/01 10:29:35
+12542,How to Improve the Performance of Your React Native App - DEV Community,https://dev.to/aneeqakhan/how-to-improve-the-performance-of-your-react-native-app-4g9c ,2024/10/01 10:29:35
+12543,25 Most Common Kubernetes Errors and How to Solve Them - DEV Community,https://dev.to/nagateja939/25-most-common-kubernetes-errors-and-how-to-solve-them-4hc ,2024/10/01 10:29:35
+12544,How to deploy React PortfolioProject with Github Pages as @ 2024 - DEV Community,https://dev.to/mrchike/how-to-deploy-react-portfolioproject-with-github-pages-as-2024-4a69 ,2024/10/01 10:29:35
+12545,Why Test Early in the Software Development Lifecycle - DEV Community,https://dev.to/berthaw82414312/why-test-early-in-the-software-development-lifecycle-3jj8 ,2024/10/01 10:29:35
+12546,DevOps Testing: Best Practices and Benefits? - DEV Community,https://dev.to/misterankit/devops-testing-best-practices-and-benefits-3lgl ,2024/10/01 10:29:35
+12547,なぜDockerではなくKubernetesを使うのかー #Docker - Qiita,https://qiita.com/rohima/items/3df816911e7212b14805 ,2024/10/01 10:29:35
+12548,品質の3要素をWebアプリケーション開発の視点で考えてみた #品質 - Qiita,https://qiita.com/MasanoriHarada/items/03e91964aa0ead08b06c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/10/01 10:29:35
+12549,"""CSS設定の教科書""感想 #ポエム - Qiita",https://qiita.com/takumi_yamada_PRUM/items/2f099e0889e009a46c6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/10/01 10:29:35
+12550,エンジニア向け一流デザインまとめ #Web - Qiita,https://qiita.com/nemo_Nuco/items/8c530b4cee8d5f600ab0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/10/01 10:29:35
+12551,Dev Containerを使ったら超効率よく開発環境ができた話【Ruby on Rails】 #Docker - Qiita,https://qiita.com/maabow/items/bbd2109bd3dcaa176a79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/10/01 10:29:35
+12552,nvim-lspconfig の LSP 周りの config が綺麗にまとまった,https://zenn.dev/yanskun/articles/nvim-lspconfig-servers-config ,2024/10/01 10:29:35
+12553,【フルスタックエンジニアへの道！】ReactとTypeScriptの修行をした話 - Findy Tech Blog,https://tech.findy.co.jp/entry/2024/10/01/083000 ,2024/10/01 10:29:35
+12554,Git操作を楽にするためにやってきたこと #新人プログラマ応援 - Qiita,https://qiita.com/kiharito/items/58e59e023f01a4bd9cf6 ,2024/10/01 10:29:35
