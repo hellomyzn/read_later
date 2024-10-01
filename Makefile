@@ -10,7 +10,7 @@ restart:
 	@make down
 	@make up
 destroy:
-	docker-compose down --rmi all --volumes --remove-orphans 
+	docker-compose down --rmi all --volumes --remove-orphans
 destroy-volumes:
 	docker-compose down --volumes
 ps:
@@ -19,6 +19,8 @@ logs:
 	docker-compose logs
 python:
 	docker-compose exec python bash
+vscode:
+	docker-compose exec vscode bash
 start:
 	@make up
-
+	@make python

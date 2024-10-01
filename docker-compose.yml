@@ -5,11 +5,26 @@ services:
     build:
       context: .
       dockerfile: ./infra/docker/python/Dockerfile
-    container_name: 'python'
-    hostname: 'python'
+    container_name: 'read_later'
+    hostname: 'read_later'
     working_dir: '/opt/work/'
     tty: true
     volumes:
       - ./src/:/opt/work
+    environment:
+      - TZ=Asia/Tokyo
+  vscode:
+    restart: always
+    build:
+      context: .
+      dockerfile: ./infra/docker/python/Dockerfile
+    container_name: 'read_later_vscode'
+    hostname: 'read_later_vscode'
+    working_dir: '/home/myzn/repo'
+    tty: true
+    volumes:
+      - type: bind
+        source: ./
+        target: /home/myzn/repo
     environment:
       - TZ=Asia/Tokyo
