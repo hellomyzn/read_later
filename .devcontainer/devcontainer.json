@@ -1,23 +1,37 @@
 {
-    "name": "Python VScode",                    // VScodeがコンテナに接続したときのタイトルを自由に設定
-    "dockerComposeFile": "../docker-compose.yml",  // docker-conpose.ymlファイルを指定
-    "service": "python",                        // docker-conpose.ymlファイル内に記載したサービス名を指定
-    "workspaceFolder": "/opt/work",         // VScode接続時に開くフォルダを指定
+    "name": "Python VScode",
+    "dockerComposeFile": "../docker-compose.yml",
+    "service": "vscode",
+    "workspaceFolder": "/home/myzn/repo",
     "customizations": {
         "vscode": {
-            "extensions": [                     // コンテナ作成時にインストールする拡張機能を記載　
+            "extensions": [
+                // common
+                "usernamehw.errorlens",
+                "oderwat.indent-rainbow",
+                "streetsidesoftware.code-spell-checker",
+                "WakaTime.vscode-wakatime",
+                // editor
+                "vscodevim.vim",
+                "yzhang.markdown-all-in-one",
+                "shd101wyy.markdown-preview-enhanced",
+                "jebbs.plantuml",
+                // csv
+                "mechatroner.rainbow-csv",
+                // python
                 "ms-python.python",
                 "ms-python.pylint",
                 "ms-python.autopep8",
                 "ms-python.vscode-pylance",
+                "ms-python.debugpy",
+                "ms-vscode.test-adapter-converter",
+                "LittleFoxTeam.vscode-python-test-adapter",
+                "hbenl.vscode-test-explorer",
                 "njpwerner.autodocstring",
-                "usernamehw.errorlens",
-                "oderwat.indent-rainbow",
-                "streetsidesoftware.code-spell-checker",
-                "mechatroner.rainbow-csv",
                 "mgesbert.python-path",
                 "KevinRose.vsc-python-indent",
-                "vscodevim.vim"
+                // git
+                "eamodio.gitlens"
             ]
         }
     }
