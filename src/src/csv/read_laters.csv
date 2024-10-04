@@ -12553,3 +12553,93 @@ id,title,url,create_at
 12552,nvim-lspconfig の LSP 周りの config が綺麗にまとまった,https://zenn.dev/yanskun/articles/nvim-lspconfig-servers-config ,2024/10/01 10:29:35
 12553,【フルスタックエンジニアへの道！】ReactとTypeScriptの修行をした話 - Findy Tech Blog,https://tech.findy.co.jp/entry/2024/10/01/083000 ,2024/10/01 10:29:35
 12554,Git操作を楽にするためにやってきたこと #新人プログラマ応援 - Qiita,https://qiita.com/kiharito/items/58e59e023f01a4bd9cf6 ,2024/10/01 10:29:35
+12555,小さく素早く、たくさん「やる」ことで成長する - CARTA TECH BLOG,https://techblog.cartaholdings.co.jp/entry/grow-by-doing-small-fast-many ,2024/10/04 17:53:30
+12556,リファクタリングより効く、コードを綺麗に保つ方法,https://zenn.dev/mixi/articles/afa43941f219b5 ,2024/10/04 17:53:30
+12557,コード品質向上のテクニック：第43回 値の帰還,https://techblog.lycorp.co.jp/ja/20240926icq ,2024/10/04 17:53:30
+12558,シンクロ・フードのエンジニアが書籍購入補助制度を利用して2023年度に購入した書籍ランキングTOP5を紹介します - シンクロ・フード エンジニアブログ,https://tech.synchro-food.co.jp/entry/2024/09/26/181131 ,2024/10/04 17:53:30
+12559,「開発生産性」を考えよう！レバテックさんと勉強会を開催しました - OPTiM TECH BLOG,https://tech-blog.optim.co.jp/entry/2024/09/27/100000 ,2024/10/04 17:53:30
+12560,[Go] 独自のエラー型をerrorインタフェースを介さずに返すのは良くないという話,https://zenn.dev/sdb_blog/articles/006-go_returns_custom_error_is_not_good ,2024/10/04 17:53:30
+12561,新卒エンジニア必見！チームでPythonを効果的に使うためのガイド,https://zenn.dev/headwaters/articles/8c3d3c29bf7145 ,2024/10/04 17:53:30
+12562,初心者がデザインパターンに入門してみた - 虎の穴開発室ブログ,https://toranoana-lab.hatenablog.com/entry/2024/09/30/120000 ,2024/10/04 17:53:30
+12563,フロントエンドチームのリリースサイクルとブランチ運用 - トレタ開発者ブログ,https://tech.toreta.in/entry/2024/09/30/%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AE%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%81%A8%E3%83%96%E3%83%A9%E3%83%B3 ,2024/10/04 17:53:30
+12564,エラー監視の仕組みを強化した話 - High Link テックブログ,https://tech.high-link.co.jp/entry/error-monitoring-strengthen ,2024/10/04 17:53:30
+12565,コードの削除しやすさを考慮した設計の重要性 - WHITEPLUS TechBlog,https://blog.wh-plus.co.jp/entry/2024/09/30/172602 ,2024/10/04 17:53:30
+12566,スキルが全てじゃない！ 仕事の円滑さに影響を与える価値観の重要性｜SHIFT Group 技術ブログ,https://note.shiftinc.jp/n/n3283cd4b2178 ,2024/10/04 17:53:30
+12567,"Amazon.co.jp: 後悔しない時間の使い方 eBook : ティボ・ムリス, 弓場隆: 本",https://www.amazon.co.jp/%E5%BE%8C%E6%82%94%E3%81%97%E3%81%AA%E3%81%84%E6%99%82%E9%96%93%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9-%E3%83%86%E3%82%A3%E3%83%9C%E3%83%BB%E3%83%A0%E3%83%AA%E3%82%B9-ebook/dp/B0CSSGVW4N/ref=zg_bs_g_571582_d_sccl_32/357-9304254-3868564?psc=1 ,2024/10/04 17:53:30
+12568,"Amazon.co.jp: 考えすぎない練習 eBook : ジョセフ・グエン, 矢島麻里子: 本",https://www.amazon.co.jp/%E8%80%83%E3%81%88%E3%81%99%E3%81%8E%E3%81%AA%E3%81%84%E7%B7%B4%E7%BF%92-%E3%82%B8%E3%83%A7%E3%82%BB%E3%83%95%E3%83%BB%E3%82%B0%E3%82%A8%E3%83%B3-ebook/dp/B0CQLXLM5M/ref=zg_bs_g_571582_d_sccl_28/357-9304254-3868564?psc=1 ,2024/10/04 17:53:30
+12569,Amazon.co.jp: 何歳からでも結果が出る 本当の勉強法 eBook : 望月 俊孝: 本,https://www.amazon.co.jp/%E4%BD%95%E6%AD%B3%E3%81%8B%E3%82%89%E3%81%A7%E3%82%82%E7%B5%90%E6%9E%9C%E3%81%8C%E5%87%BA%E3%82%8B-%E6%9C%AC%E5%BD%93%E3%81%AE%E5%8B%89%E5%BC%B7%E6%B3%95-%E6%9C%9B%E6%9C%88-%E4%BF%8A%E5%AD%9D-ebook/dp/B0BS137ZQ9/ref=zg_bs_g_571582_d_sccl_23/357-9304254-3868564?psc=1 ,2024/10/04 17:53:30
+12570,Amazon.co.jp: ［完全版］生きがいの創造 スピリチュアルな科学研究から読み解く人生のしくみ (PHP文庫) eBook : 飯田 史彦: Kindleストア,https://www.amazon.co.jp/%EF%BC%BB%E5%AE%8C%E5%85%A8%E7%89%88%EF%BC%BD%E7%94%9F%E3%81%8D%E3%81%8C%E3%81%84%E3%81%AE%E5%89%B5%E9%80%A0-%E3%82%B9%E3%83%94%E3%83%AA%E3%83%81%E3%83%A5%E3%82%A2%E3%83%AB%E3%81%AA%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E4%BA%BA%E7%94%9F%E3%81%AE%E3%81%97%E3%81%8F%E3%81%BF-PHP%E6%96%87%E5%BA%AB-%E9%A3%AF%E7%94%B0-%E5%8F%B2%E5%BD%A6-ebook/dp/B00XXZXPQU/ref=zg_bs_g_571582_d_sccl_18/357-9304254-3868564?psc=1 ,2024/10/04 17:53:30
+12571,6 GitHub Actions Every DevOps Team Needs - DEV Community,https://dev.to/cicube/6-github-actions-every-devops-team-needs-j0n ,2024/10/04 17:53:30
+12572,CSS content repeat method (FSCSS) - DEV Community,https://dev.to/lmcss/css-content-repeat-method-fscss-45gg ,2024/10/04 17:53:30
+12573,DevOps Architecture - DEV Community,https://dev.to/meghasharmaaaa/devops-architecture-jn8 ,2024/10/04 17:53:30
+12574,Boost Your Web Development Skills with Stunning HTML Templates & Tutorials! 🎨💻 - DEV Community,https://dev.to/arishn/boost-your-web-development-skills-with-stunning-html-templates-tutorials-e51 ,2024/10/04 17:53:30
+12575,Productivity Hacks for Developers: Boost Your Efficiency - DEV Community,https://dev.to/ratan_3511/productivity-hacks-for-developers-boost-your-efficiency-4joa ,2024/10/04 17:53:30
+12576,Simple Golang Dockerfile with multi staged builds (reduces ~96.67% of the image size) - DEV Community,https://dev.to/thayto/simple-golang-dockerfile-with-multi-staged-builds-reduces-9667-of-the-image-size-1m3d ,2024/10/04 17:53:30
+12577,CSS Box Model - DEV Community,https://dev.to/shieldstring/css-box-model-39a5 ,2024/10/04 17:53:30
+12578,バックエンドのテスト方針について,https://zenn.dev/fivot/articles/87b0f980f4258f ,2024/10/04 17:53:30
+12579,DDDで集約を跨いだ情報でロジックを構築するための「getter高階関数パターン」の紹介,https://zenn.dev/loglass/articles/2e0fdbf5b0f7a9 ,2024/10/04 17:53:30
+12580,エンジニア向け一流デザインまとめ #Web - Qiita,https://qiita.com/nemo_Nuco/items/8c530b4cee8d5f600ab0 ,2024/10/04 17:53:30
+12581,システム構成図、ER図、フローチャートなどを描くときに無料で使える作図ツールやドローイングツールまとめ。2024 － Publickey,https://www.publickey1.jp/blog/24/er2024.html ,2024/10/04 17:53:30
+12582,AWSエンジニアに必要な知識,https://zenn.dev/agent_grow/articles/2b317b09826fb6 ,2024/10/04 17:53:30
+12583,【レバテック開発部に聞いた】ITエンジニアにおすすめの本18選！,https://freelance.levtech.jp/guide/detail/1854/ ,2024/10/04 17:53:30
+12584,TVerにバックエンドエンジニアとして中途入社した最初の3ヶ月 - TVer Tech Blog,https://techblog.tver.co.jp/entry/takanamito/onboarding ,2024/10/04 17:53:30
+12585,コード品質向上のテクニック：第44回 貧血の誤診,https://techblog.lycorp.co.jp/ja/20241002icq ,2024/10/04 17:53:30
+12586,入社して感じたBASEのいいなと思うところ - BASEプロダクトチームブログ,https://devblog.thebase.in/entry/2024/10/03/110000 ,2024/10/04 17:53:30
+12587,エンジニアさん向けにUIデザイン講座を開いてみた（成果物編）,https://zenn.dev/babyjob/articles/held-ui-design-class-final ,2024/10/04 17:53:30
+12588,ベロシティの安定ってなんで大事なのか考えた,https://zenn.dev/levtech/articles/bfe9bd15589bb2 ,2024/10/04 17:53:30
+12589,プルリクを気持ちよくレビューしあえるコツあれこれ,https://zenn.dev/praha/articles/07de6be200563b ,2024/10/04 17:53:30
+12590,【毎日書評】伝え方を変えるだけ。仕事の手戻りを減らすコミュニケーションの時短テクニック  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2410_book_to_read-1564/ ,2024/10/04 17:53:30
+12591,時間配分を可視化できるタイマーで仕事のムダ時間、勉強のニガテ分野がわかる【今日のライフハックツール】  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2409-lht-sonic-pacemake/ ,2024/10/04 17:53:30
+12592,なぜモチベーションが続かないのか？研究でわかった、やる気を保つ「5つのテクニック」  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2410-better-ways-to-get-stuff-done-according-to-the-science/ ,2024/10/04 17:53:30
+12593,【毎日書評】仕事の成果をあげる！自分にやさしくする「セルフ・コンパッション」実践法  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2410_book_to_read-1563/ ,2024/10/04 17:53:30
+12594,目標達成できない人がやりがちな5つのNGと対策  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2410-how-to-achieve-our-goals/ ,2024/10/04 17:53:30
+12595,Using observers in Laravel to track model events - DEV Community,https://dev.to/tim-e/using-observers-in-laravel-to-track-model-events-3bii ,2024/10/04 17:53:30
+12596,Software Architecture: A Journey Through Time 🕰️ - DEV Community,https://dev.to/ipazooki/software-architecture-a-journey-through-time-map ,2024/10/04 17:53:30
+12597,A Look at the Future of Software Development — Hugh McKee - DEV Community,https://dev.to/confooca/a-look-at-the-future-of-software-development-hugh-mckee-2k6n ,2024/10/04 18:00:10
+12598,Key Security principles for Frontend and backend Development - DEV Community,https://dev.to/oussamabouyahia/key-security-principales-for-frontend-and-backend-development-o14 ,2024/10/04 18:00:10
+12599,Using GitHub Actions Like a Pro: Reusable Workflows - DEV Community,https://dev.to/cicube/using-github-actions-like-a-pro-reusable-workflows-389e ,2024/10/04 18:00:10
+12600,Mastering Backend Development - DEV Community,https://dev.to/roadmapsh/mastering-backend-development-mpb ,2024/10/04 18:00:10
+12601,How Python Dictionaries Keep Your Code Clean and DRY - DEV Community,https://dev.to/aashwinkumar/how-python-dictionaries-keep-your-code-clean-and-dry-3067 ,2024/10/04 18:00:10
+12602,Difyでyoutubeの字幕を簡単に取得した #Python - Qiita,https://qiita.com/sinzy0925/items/39495c7dc23cb053106b ,2024/10/04 18:00:10
+12603,開発用適当ツールはGoで作るのがオススメ #Go - Qiita,https://qiita.com/ssc-ksaitou/items/6c66669f1672806ac9bb ,2024/10/04 18:00:10
+12604,Reactでブラウザバック時のフォームデータ保持方法 #TypeScript - Qiita,https://qiita.com/antfgxgres/items/d3fc37c089846c1b7582?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/10/04 18:00:10
+12605,習慣化のための３つのポイント #初心者 - Qiita,https://qiita.com/hibiki_5166/items/4f5ab69abdede797a0a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/10/04 18:00:10
+12606,"NeovimへのGithub Copilot, Copilot Chat導入までの道のり #Vim - Qiita",https://qiita.com/haw_ohnuma/items/1ec8ef5091b440cbb8bd ,2024/10/04 18:00:10
+12607,[Go]続・なるだけすべてをiteratorにする,https://zenn.dev/ngicks/articles/go-make-everything-iterator-2 ,2024/10/04 18:00:10
+12608,Seleniumと比較したPlaywrightの強味,https://zenn.dev/zenn24yykiitos/articles/2c3bfa490ed042 ,2024/10/04 18:00:10
+12609,PythonでPlaywriteの環境構築,https://zenn.dev/zenn24yykiitos/articles/d1bdecda4f3f5c ,2024/10/04 18:00:10
+12610,Playwrightでブラウザバイナリをカスタムするには？,https://zenn.dev/zenn24yykiitos/articles/9882ac6cf8af84 ,2024/10/04 18:00:10
+12611,人に優しいフォームを作ろう、特に日本人に,https://zenn.dev/yumemi_inc/articles/c1c83cb4cdcaa8 ,2024/10/04 18:00:10
+12612,すぐ消えてしまう要素をDevToolsで確認するTips集,https://zenn.dev/gemcook/articles/3e90d883100140 ,2024/10/04 18:00:10
+12613,Findyの爆速開発を支えるPull requestの粒度 - Findy Tech Blog,https://tech.findy.co.jp/entry/2024/10/04/070000 ,2024/10/04 18:00:10
+12614,Software Design総集編【2018～2023】：書籍案内｜技術評論社,https://gihyo.jp/book/2024/978-4-297-14471-5 ,2024/10/04 18:00:10
+12615,意図せず不利な行動をさせるウェブの「ダークパターン」撲滅目指す組織設立、優良サイト認定制度の運用へ - INTERNET Watch,https://internet.watch.impress.co.jp/docs/news/1628389.html ,2024/10/04 18:00:10
+12616,ダークパターンレポート2024　ダークパターンの無自覚な使用を防ぐために ｜ 株式会社コンセント,https://www.concentinc.jp/specials/darkpattern-report2024/ ,2024/10/04 18:00:10
+12617,初めてのSREから3年半でやったことの振り返り,https://zenn.dev/levtech/articles/416ec15e32b2fe ,2024/10/04 18:00:10
+12618,Mastering Responsive Utilities in Tailwind CSS: A Comprehensive Guide - DEV Community,https://dev.to/susheel_kumar/mastering-responsive-utilities-in-tailwind-css-a-comprehensive-guide-5380 ,2024/10/04 18:00:10
+12619,Understanding Layout Components and React Router Outlet in React - DEV Community,https://dev.to/jps27cse/understanding-layout-components-and-react-router-outlet-in-react-3l2e ,2024/10/04 18:00:10
+12620,Easy Todo List App with React and Tailwind CSS - DEV Community,https://dev.to/lukewanghanxiang/easy-todo-list-app-with-react-and-tailwind-css-1j2c ,2024/10/04 18:00:10
+12621,How to Use Secrets in GitHub Actions Workflows - DEV Community,https://dev.to/cicube/how-to-use-secrets-in-github-actions-workflows-cne ,2024/10/04 18:00:10
+12622,system design: Key System Design Concepts - DEV Community,https://dev.to/jayaprasanna_roddam/system-design-key-system-design-concepts-ib3 ,2024/10/04 18:00:10
+12623,Mastering React Routing: A Complete Guide to Navigating Your Application - DEV Community,https://dev.to/mourya_modugula/mastering-react-routing-a-complete-guide-to-navigating-your-application-56dk ,2024/10/04 18:00:10
+12624,Mastering Frontend Development - DEV Community,https://dev.to/roadmapsh/mastering-frontend-development-1n01 ,2024/10/04 18:00:10
+12625,Secure API Development: Best Practices with Laravel - DEV Community,https://dev.to/viitorcloud/secure-api-development-best-practices-with-laravel-13e1 ,2024/10/04 18:00:10
+12626,DOM Cheatsheet for Beginners - DEV Community,https://dev.to/buchilazarus4/dom-cheatsheet-for-beginners-59n1 ,2024/10/04 18:00:10
+12627,How to Create Smooth Card Groups in CSS - DEV Community,https://dev.to/rowsanali/how-to-create-smooth-card-groups-in-css-57od ,2024/10/04 18:00:10
+12628,How to add CSS to your React Component - DEV Community,https://dev.to/stephen254/how-to-add-css-to-your-react-component-2kb7 ,2024/10/04 18:00:10
+12629,CSS Properties: Modifying the appearance and layout of elements - DEV Community,https://dev.to/shieldstring/css-properties-modifying-the-appearance-and-layout-of-elements-2fnf ,2024/10/04 18:00:10
+12630,Built a Netflix Clone with HTML & CSS – What I Learned Along the Way! - DEV Community,https://dev.to/imrankhan17/built-a-netflix-clone-with-html-css-what-i-learned-along-the-way-3fa4 ,2024/10/04 18:00:10
+12631,SQL and Database Design: A Detailed Exploration - Week Seven - DEV Community,https://dev.to/shubham_murti/sql-and-database-design-a-detailed-exploration-week-seven-6i3 ,2024/10/04 18:00:10
+12632,50 Essential Bash Script Commands Every Linux User Should Know(MUST READ) - DEV Community,https://dev.to/trixsec/50-essential-bash-script-commands-every-linux-user-should-knowmust-read-3d5d ,2024/10/04 18:00:10
+12633,12 Core React Concepts Every Developer Should Know - DEV Community,https://dev.to/mrdprasad/core-react-concepts-every-developer-should-know-21mk ,2024/10/04 18:00:10
+12634,Class in JavaScript - DEV Community,https://dev.to/bappasahabapi/class-in-javascript-2e5b ,2024/10/04 18:00:10
+12635,Understanding Creational Design Patterns: Building Blocks of Object Creation - DEV Community,https://dev.to/srishtikprasad/understanding-creational-design-patterns-building-blocks-of-object-creation-n44 ,2024/10/04 18:00:10
+12636,"Instagram超攻略術: フォロワー数が止まらない！10万人超えインフルエンサーによるインスタグラム運用の成功戦略  やまてつ, のみや  ダイレクト・マーケティング  Kindleストア  Amazon",https://www.amazon.co.jp/gp/product/B0C425QLZB?storeType=ebooks&pf_rd_p=c0305d3a-22d2-4382-9308-7087aed6b8dc&pf_rd_r=3AR8J0K87TYRFEV2HBYH&pd_rd_wg=Lb6IJ&pd_rd_i=B0C425QLZB&ref_=dbs_r_recs_kucae_r_4&pd_rd_w=TwUdh&content-id=amzn1.sym.c0305d3a-22d2-4382-9308-7087aed6b8dc&pd_rd_r=99932583-9d4e-4691-b9d1-8a8aac2b2f73 ,2024/10/04 18:00:10
+12637,Amazon.co.jp: 恋愛しない若者たち コンビニ化する性とコスパ化する結婚 (ディスカヴァー携書) 電子書籍: 牛窪恵: Kindleストア,https://www.amazon.co.jp/gp/product/B015XRKVIU?storeType=ebooks&pf_rd_p=c0305d3a-22d2-4382-9308-7087aed6b8dc&pf_rd_r=3AR8J0K87TYRFEV2HBYH&pd_rd_wg=Lb6IJ&pd_rd_i=B015XRKVIU&ref_=dbs_r_recs_kucae_r_3&pd_rd_w=TwUdh&content-id=amzn1.sym.c0305d3a-22d2-4382-9308-7087aed6b8dc&pd_rd_r=99932583-9d4e-4691-b9d1-8a8aac2b2f73 ,2024/10/04 18:00:10
+12638,結婚しない男たち 増え続ける未婚男性「ソロ男」のリアル (ディスカヴァー携書)  荒川和久  マーケティング  Kindleストア  Amazon,https://www.amazon.co.jp/gp/product/B018799N0I?storeType=ebooks&pf_rd_p=c0305d3a-22d2-4382-9308-7087aed6b8dc&pf_rd_r=3AR8J0K87TYRFEV2HBYH&pd_rd_wg=Lb6IJ&pd_rd_i=B018799N0I&ref_=dbs_r_recs_kucae_r_2&pd_rd_w=TwUdh&content-id=amzn1.sym.c0305d3a-22d2-4382-9308-7087aed6b8dc&pd_rd_r=99932583-9d4e-4691-b9d1-8a8aac2b2f73 ,2024/10/04 18:00:10
+12639,結婚するのはやめました  桂  恋愛・結婚・離婚  Kindleストア  Amazon,https://www.amazon.co.jp/gp/product/B09QMB26RR?storeType=ebooks&pf_rd_p=c0305d3a-22d2-4382-9308-7087aed6b8dc&pf_rd_r=3AR8J0K87TYRFEV2HBYH&pd_rd_wg=Lb6IJ&pd_rd_i=B09QMB26RR&ref_=dbs_r_recs_kucae_r_0&pd_rd_w=TwUdh&content-id=amzn1.sym.c0305d3a-22d2-4382-9308-7087aed6b8dc&pd_rd_r=99932583-9d4e-4691-b9d1-8a8aac2b2f73 ,2024/10/04 18:00:10
+12640,Amazon.co.jp: 制作実績100件超えWebデザイナーが教える最速Canva時短術: デザインの超効率化を実現し60分の作業を半分へ【Canva】【在宅ワーク】【使い方】【キャンバ】【副業】【SNS】【教科書】【入門】【インスタ】 Canvaデザインシリーズ (MilkDesign出版) eBook : みるく: Kindleストア,https://www.amazon.co.jp/gp/product/B0CSX3WRR5?storeType=ebooks&pf_rd_p=26eee64a-eb53-441d-9a2c-e34c39694be3&pf_rd_r=3AR8J0K87TYRFEV2HBYH&pd_rd_wg=Lb6IJ&pd_rd_i=B0CSX3WRR5&ref_=dbs_r_recs_kucp_r_5&pd_rd_w=e5D2I&content-id=amzn1.sym.26eee64a-eb53-441d-9a2c-e34c39694be3&pd_rd_r=99932583-9d4e-4691-b9d1-8a8aac2b2f73 ,2024/10/04 18:00:10
+12641,WILL 「キャリアの羅針盤」の見つけ方  大川陽介  キャリア  Kindleストア  Amazon,https://www.amazon.co.jp/gp/product/B0CVN3XLRH?storeType=ebooks&pf_rd_p=26eee64a-eb53-441d-9a2c-e34c39694be3&pf_rd_r=3AR8J0K87TYRFEV2HBYH&pd_rd_wg=Lb6IJ&pd_rd_i=B0CVN3XLRH&ref_=dbs_r_recs_kucp_r_0&pd_rd_w=e5D2I&content-id=amzn1.sym.26eee64a-eb53-441d-9a2c-e34c39694be3&pd_rd_r=99932583-9d4e-4691-b9d1-8a8aac2b2f73 ,2024/10/04 18:00:10
+12642,Amazon.co.jp: どうせ死ぬんだから　好きなことだけやって寿命を使いきる eBook : 和田 秀樹: 本,https://www.amazon.co.jp/%E3%81%A9%E3%81%86%E3%81%9B%E6%AD%BB%E3%81%AC%E3%82%93%E3%81%A0%E3%81%8B%E3%82%89-%E5%A5%BD%E3%81%8D%E3%81%AA%E3%81%93%E3%81%A8%E3%81%A0%E3%81%91%E3%82%84%E3%81%A3%E3%81%A6%E5%AF%BF%E5%91%BD%E3%82%92%E4%BD%BF%E3%81%84%E3%81%8D%E3%82%8B-%E5%92%8C%E7%94%B0-%E7%A7%80%E6%A8%B9-ebook/dp/B0BRR3HT4N/ref=zg_bs_g_571582_d_sccl_12/357-9304254-3868564?psc=1 ,2024/10/04 18:00:10
+12643,なぜか人生がうまくいく「明るい人」の科学  和田秀樹  個人の成功論  Kindleストア  Amazon,https://www.amazon.co.jp/%E3%81%AA%E3%81%9C%E3%81%8B%E4%BA%BA%E7%94%9F%E3%81%8C%E3%81%86%E3%81%BE%E3%81%8F%E3%81%84%E3%81%8F%E3%80%8C%E6%98%8E%E3%82%8B%E3%81%84%E4%BA%BA%E3%80%8D%E3%81%AE%E7%A7%91%E5%AD%A6-%E5%92%8C%E7%94%B0%E7%A7%80%E6%A8%B9-ebook/dp/B0B2425YXS/ref=zg_bs_g_571582_d_sccl_3/357-9304254-3868564?psc=1 ,2024/10/04 18:00:10
+12644,"Amazon.co.jp: 考えすぎない練習 eBook : ジョセフ・グエン, 矢島麻里子: 本",https://www.amazon.co.jp/%E8%80%83%E3%81%88%E3%81%99%E3%81%8E%E3%81%AA%E3%81%84%E7%B7%B4%E7%BF%92-%E3%82%B8%E3%83%A7%E3%82%BB%E3%83%95%E3%83%BB%E3%82%B0%E3%82%A8%E3%83%B3-ebook/dp/B0CQLXLM5M/ref=zg_bs_g_562858_d_sccl_9/357-9304254-3868564?psc=1 ,2024/10/04 18:00:10
