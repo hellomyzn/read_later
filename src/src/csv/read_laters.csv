@@ -12903,3 +12903,56 @@ id,title,url,create_at
 12902,Head First デザインパターン 第2版 まとめ,https://zenn.dev/mortlack/articles/a657d0c9918700 ,2024/10/16 11:09:25
 12903,Head First デザインパターン 第2版 デザインパターンへようこそ,https://zenn.dev/mortlack/articles/1d6c5120425da4 ,2024/10/16 11:09:25
 12904,計測システムにおける計測データの管理方法の進化 - ZOZO TECH BLOG,https://techblog.zozo.com/entry/evolution-of-measurement-data-management ,2024/10/16 11:09:25
+12905,"勘違いが人を動かす 教養としての行動経済学入門  エヴァ・ファン・デン・ブルック, ティム・デン・ハイヤー, 児島　修 本  通販  Amazon",https://www.amazon.co.jp/%E5%8B%98%E9%81%95%E3%81%84%E3%81%8C%E4%BA%BA%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99-%E6%95%99%E9%A4%8A%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E8%A1%8C%E5%8B%95%E7%B5%8C%E6%B8%88%E5%AD%A6%E5%85%A5%E9%96%80-%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BB%E3%83%95%E3%82%A1%E3%83%B3%E3%83%BB%E3%83%87%E3%83%B3%E3%83%BB%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF/dp/4478117039/ref=zg_bs_g_1099152_d_sccl_1/357-9304254-3868564?psc=1 ,2024/10/17 12:34:30
+12906,QA奮闘記 ~QAエンジニアの役割と品質を支える取り組み~ - enechain Tech Blog,https://techblog.enechain.com/entry/enechain-qa-attempt ,2024/10/17 12:34:30
+12907,Goのテストでファイルの読み書きを扱いたい  フューチャー技術ブログ,https://future-architect.github.io/articles/20241016a/ ,2024/10/17 12:34:30
+12908,あえて軽量DDDを採用した話,https://zenn.dev/neinc_tech/articles/d1b53dc06c8781 ,2024/10/17 12:34:30
+12909,Qiitaニュース  エンジニアが知っておくべき請負契約と準委任契約の違い - Qiita Zine,https://zine.qiita.com/news/2024-10-16/ ,2024/10/17 12:34:30
+12910,テスト駆動開発の勉強会を実施しました - M3Career Techblog,https://m3career-eng.hatenablog.com/entry/2024/10/16/174903 ,2024/10/17 12:34:30
+12911,結局スクラムとは何なのか,https://zenn.dev/pharmax/articles/88eaedd8fd27a6 ,2024/10/17 12:34:30
+12912,How to See Beautiful Git Project Stats in Your Terminal,https://www.howtogeek.com/how-to-see-beautiful-git-project-stats-in-your-terminal/ ,2024/10/17 12:34:30
+12913,【海外記事紹介】美しくて実用的！Gitプロジェクトの統計情報をターミナル上でビジュアライズする方法 - TechFeed,https://techfeed.io/entries/670d862980c22b26b88d5a8e ,2024/10/17 12:34:30
+12914,10 Bad TypeScript Habits To Break In 2024 - DEV Community,https://dev.to/safdarali/10-bad-typescript-habits-to-break-in-2024-2p54 ,2024/10/17 12:34:30
+12915,How to understand Static in Class and Interface? - DEV Community,https://dev.to/caesar2334/how-to-understand-static-in-class-and-interface-498p ,2024/10/17 12:34:30
+12916,Built a Twitter Clone with Next.js - DEV Community,https://dev.to/mohamadc21/built-a-twitter-clone-with-nextjs-1m27 ,2024/10/17 12:34:30
+12917,State update methods in React: Performance - DEV Community,https://dev.to/sonaykara/state-update-methods-in-react-performance-4c85 ,2024/10/17 12:34:30
+12918,DevOps vs NoOps: What is the Future of Operations? - DEV Community,https://dev.to/get_pieces/devops-vs-noops-what-is-the-future-of-operations-3f27 ,2024/10/17 12:34:30
+12919,Top 8 JavaScript Debugging Tools for Front-End Development - DEV Community,https://dev.to/apilover/top-8-javascript-debugging-tools-for-front-end-development-3j0b ,2024/10/17 12:34:30
+12920,17 Must-know React Projects for Developers 👩‍💻 🔥 - DEV Community,https://dev.to/tolgee_i18n/17-must-know-react-projects-for-developers-28a2 ,2024/10/17 12:34:30
+12921,A Comprehensive Guide to CI/CD & CI/CD Tools - DEV Community,https://dev.to/ronika_kashyap/a-comprehensive-guide-to-cicd-cicd-tools-cfa ,2024/10/17 12:34:30
+12922,How to Find Developer for Equity: A Comprehensive Guide - DEV Community,https://dev.to/shelli/how-to-find-developer-for-equity-a-comprehensive-guide-3oi6 ,2024/10/17 12:34:30
+12923,Senior Dev and Multi-threading - DEV Community,https://dev.to/bad_codekiller_46b539276/senior-dev-and-multi-threading-4ab3 ,2024/10/17 12:34:30
+12924,Exploring the 9 Essential Software Architecture Patterns - DEV Community,https://dev.to/akhil_mittal/exploring-the-9-essential-software-architecture-patterns-2kge ,2024/10/17 12:34:30
+12925,10 Best Practices for Writing Maintainable Docker Compose Files - DEV Community,https://dev.to/wallacefreitas/10-best-practices-for-writing-maintainable-docker-compose-files-4ca2 ,2024/10/17 12:34:30
+12926,The Top 5 Most Used Flask Decorators - DEV Community,https://dev.to/alfredo-pasquel/the-top-5-most-used-flask-decorators-3ick ,2024/10/17 12:34:30
+12927,Python初学者向け：FlaskとDockerでWebアプリを簡単に構築する方法 #dockerfile - Qiita,https://qiita.com/free-honda/items/6273289e813eabcbd9d9 ,2024/10/17 12:34:30
+12928,クリーンアーキテクチャとオニオンアーキテクチャの違い #PHP - Qiita,https://qiita.com/remi_ts/items/1392800ed4113af982fb ,2024/10/17 12:34:30
+12929,なぜ大規模用フレームワークになるとルーティング設定がいるのか？ #PHP - Qiita,https://qiita.com/stardot_io/items/8e9dafae41cea2460495 ,2024/10/17 12:34:30
+12930,Macで絶対に見逃せないおすすめソフトウェア #PHP - Qiita,https://qiita.com/Hikarihykary/items/378597c3c559ee182ec9 ,2024/10/17 12:34:30
+12931,Interpreterパターンを超えて：パーサージェネレーターを使った効率的な言語処理の実装 #Python - Qiita,https://qiita.com/Tadataka_Takahashi/items/e95e935508b4853fe5be ,2024/10/17 12:34:30
+12932,【超基礎から解説編】Flaskで音楽共有SNSを作る：アプリケーションの初期化と設定 #Python - Qiita,https://qiita.com/taipilo/items/ba09e593b3514d83937f ,2024/10/17 12:34:30
+12933,【超基礎から解説編】Flaskで音楽共有SNSを作る：ユーザーモデルの設計と実装 #Python - Qiita,https://qiita.com/taipilo/items/cb3b8814a1f3810de33f ,2024/10/17 12:34:30
+12934,Flask + SQLAlchemyで音楽共有SNSを作る - ライブラリのインポート編 #Python - Qiita,https://qiita.com/taipilo/items/777170f9809e02913676 ,2024/10/17 12:34:30
+12935,Flask + SQLAlchemyで音楽共有SNSを作る - アプリケーション初期化編 #Python - Qiita,https://qiita.com/taipilo/items/b624a951a2553dcec3aa ,2024/10/17 12:34:30
+12936,Flask + SQLAlchemyで音楽共有SNSを作る - データベース初期化とモデル定義編 #Python - Qiita,https://qiita.com/taipilo/items/ac4df04d28a51548cd01 ,2024/10/17 12:34:30
+12937,Flask + SQLAlchemyで音楽共有SNSを作る - ユーザーモデル編 #Python - Qiita,https://qiita.com/taipilo/items/b7d8ad8ba4cf690ba65a ,2024/10/17 12:34:30
+12938,Flask + SQLAlchemyで音楽共有SNSを作る - 日々の楽曲投稿モデル編 #Python - Qiita,https://qiita.com/taipilo/items/31efca92907e51a09c66 ,2024/10/17 12:34:30
+12939,Flask + SQLAlchemyで音楽共有SNSを作る - 日々の楽曲投稿フォーム編 #Python - Qiita,https://qiita.com/taipilo/items/73dc0ca751430d52ea53 ,2024/10/17 12:34:30
+12940,Flask + SQLAlchemyで音楽共有SNSを作る - ユーティリティ機能編 #Python - Qiita,https://qiita.com/taipilo/items/b320dfd5c0645ddc9887 ,2024/10/17 12:34:30
+12941,Flask + SQLAlchemyで音楽共有SNSを作る - 基本的なルーティング編 #Python - Qiita,https://qiita.com/taipilo/items/00b6ea33cd96320453ce ,2024/10/17 12:34:30
+12942,Flask + SQLAlchemyで音楽共有SNSを作る - ユーザー機能編 #Python - Qiita,https://qiita.com/taipilo/items/2e5e5d7664df00fc76f9 ,2024/10/17 12:34:30
+12943,Flask + SQLAlchemyで音楽共有SNSを作る - 日々の楽曲投稿機能編 #Python - Qiita,https://qiita.com/taipilo/items/2c4ff58114cfe3aec107 ,2024/10/17 12:34:30
+12944,Flask + SQLAlchemyで音楽共有SNSを作る - 全投稿表示機能編 #Python - Qiita,https://qiita.com/taipilo/items/47d14a69bee1493ffccd ,2024/10/17 12:34:30
+12945,Flask + SQLAlchemyで音楽共有SNSを作る - フォロー/アンフォロー機能編 #Python - Qiita,https://qiita.com/taipilo/items/e48ea9cbcb623af27c6b ,2024/10/17 12:34:30
+12946,Flask + SQLAlchemyで音楽共有SNSを作る - アルバムアートAPI編 #Python - Qiita,https://qiita.com/taipilo/items/c57879b58c702ceb70a8 ,2024/10/17 12:34:30
+12947,Flask + SQLAlchemyで音楽共有SNSを作る - 日次タスク自動化編 #Python - Qiita,https://qiita.com/taipilo/items/b44115bf633f5bddf486 ,2024/10/17 12:34:30
+12948,Flask + SQLAlchemyで音楽共有SNSを作る - バックグラウンドジョブスケジューリング編 #Python - Qiita,https://qiita.com/taipilo/items/f311da6cb47100c79e91 ,2024/10/17 12:34:30
+12949,Flask + SQLAlchemyで音楽共有SNSを作る - アプリケーション起動編 #Python - Qiita,https://qiita.com/taipilo/items/e44de9aee1ee26fbc655 ,2024/10/17 12:34:30
+12950,Pythonのアップデートがあったときにすること #pip - Qiita,https://qiita.com/Q_Udon/items/b4e7a63a33eecc908bcc ,2024/10/17 12:34:30
+12951,【早起き】成功と失敗を繰り返してわかった10の必勝法 #勉強法 - Qiita,https://qiita.com/Sicut_study/items/24faa54fc504d737f8ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/10/17 12:34:30
+12952,もし今からエンジニアを目指すならこうする #初心者 - Qiita,https://qiita.com/Kaiko_2000/items/b9efe4472264f118b101?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/10/17 12:34:30
+12953,フロントエンド開発にかかせないBurp,https://zenn.dev/fujiyama/articles/3c806f922010e2 ,2024/10/17 12:34:30
+12954,組み込み単体テスト実践入門,https://zenn.dev/kimatata/books/b0a55247706116 ,2024/10/17 12:34:30
+12955,Webエンジニアになる人に知っておいて欲しい最低限のWebの技術 #初心者 - Qiita,https://qiita.com/yamadagenki/items/11947222fd162e45dd27 ,2024/10/17 12:34:30
+12956,フロントエンド開発環境スタートセット2024秋 - トレタ開発者ブログ,https://tech.toreta.in/entry/2024/10/16/%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%BB%E3%83%83%E3%83%882024%E7%A7%8B ,2024/10/17 12:34:30
+12957,プログラマーにとって必須の 15 個のソフトウェアをすべて所有していますか? #Git - Qiita,https://qiita.com/ragged36/items/2291b4c4ee2b66dd792f ,2024/10/17 12:34:30
