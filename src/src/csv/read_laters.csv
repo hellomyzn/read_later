@@ -13395,3 +13395,44 @@ id,title,url,create_at
 13394,How to Write Clear and Effective Code Comments in JavaScript with Better Comments - DEV Community,https://dev.to/arfatapp/how-to-write-clear-and-effective-code-comments-in-javascript-with-better-comments-2dnd ,2024/10/31 11:14:16
 13395,Image Upload to Strapi via REST API with Next.js and Postman - DEV Community,https://dev.to/strapi/image-upload-to-strapi-via-rest-api-with-nextjs-and-postman-521o ,2024/10/31 11:14:16
 13396,Top 5 Advertising Tools for Boosting Your Marketing Strategy - DEV Community,https://dev.to/anna-boiko/top-5-advertising-tools-for-boosting-your-marketing-strategy-n8a ,2024/10/31 11:14:16
+13397,jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.,https://github.com/jwasham/coding-interview-university ,2024/11/01 10:43:08
+13398,donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.,https://github.com/donnemartin/system-design-primer ,2024/11/01 10:43:08
+13399,ossu/computer-science: 🎓 Path to a free self-taught education in Computer Science!,https://github.com/ossu/computer-science ,2024/11/01 10:43:08
+13400,"kamranahmedse/developer-roadmap: Interactive roadmaps, guides and other educational content to help developers grow in their careers.",https://github.com/kamranahmedse/developer-roadmap ,2024/11/01 10:43:08
+13401,EbookFoundation/free-programming-books: :books: Freely available programming books,https://github.com/EbookFoundation/free-programming-books ,2024/11/01 10:43:08
+13402,Python × Selenium × Cloud Runで手軽にブラウザ操作botを作ってみよう！ - asoview! Tech Blog,https://tech.asoview.co.jp/entry/2024/10/30/183941 ,2024/11/01 10:43:08
+13403,OJT研修の内容と24年新卒の私が学んだこと｜分析屋,https://note.com/bunsekiya_tech/n/n1d7c825f89da ,2024/11/01 10:43:08
+13404,CSSだけでカルーセルを実装してみる,https://zenn.dev/aldagram_tech/articles/7d7e6124e3a0fe ,2024/11/01 10:43:08
+13405,【エンジニア中級～エンジニア上級】AWS環境でDockerバージョンアップ後に生じたデプロイエラーについて,https://zenn.dev/headwaters/articles/4bdd4895aa2db0 ,2024/11/01 10:43:08
+13406,コード品質向上のテクニック：第48回 ワイルドすぎる引数,https://techblog.lycorp.co.jp/ja/20241031icq ,2024/11/01 10:43:08
+13407,開発生産性の現在地を開発生産性の歴史と開発生産性Conference2024から振り返る - Tabelog Tech Blog,https://tech-blog.tabelog.com/entry/developer-productivity-in-2024 ,2024/11/01 10:43:08
+13408,なぜバックエンド開発にRustを使うのか？ その魅力はパフォーマンス、安全性、生産性の高さCodeZine（コードジン）,https://codezine.jp/article/detail/20349 ,2024/11/01 10:43:08
+13409,Top 6 Design Patterns - DEV Community,https://dev.to/dazevedo/top-6-design-patterns-nhc ,2024/11/01 10:43:08
+13410,How to Build APIs with Flask in Python🦉 - DEV Community,https://dev.to/patrick_61cbc6392b72286f6/how-to-build-apis-with-flask-in-python-367 ,2024/11/01 10:43:08
+13411,Understanding the ContentType Model in Django for Dynamic Relationships - DEV Community,https://dev.to/jmegnidro/understanding-the-contenttype-model-in-django-for-dynamic-relationships-1685 ,2024/11/01 10:43:08
+13412,Easiest Way to Handle Drop Down Menus in Python Using Selenium ? - DEV Community,https://dev.to/thetanweerali/easiest-way-to-handle-drop-down-menus-in-python-using-selenium--3hph ,2024/11/01 10:43:08
+13413,[LLM]ノーコードという名の技術負債 #Python - Qiita,https://qiita.com/yukiaprogramming/items/974131386dfa1794f9f6 ,2024/11/01 10:43:08
+13414,DIパターン × Factoryパターン 〜柔軟なオブジェクト生成の実装 #Python - Qiita,https://qiita.com/Tadataka_Takahashi/items/0ed0e75144b270afbd2e ,2024/11/01 10:43:08
+13415,年間数十件の案件を担当するエンジニア向けの業務効率化 #Slack - Qiita,https://qiita.com/nanin/items/6966179d0e3a9996ee87?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/11/01 10:43:08
+13416,Go(Gin)でのDocker環境構築,https://zenn.dev/norihashimo/articles/2d9506865e0f6b ,2024/11/01 10:43:08
+13417,FlaskでPythonを使ってAPIを構築する方法🦉,https://zenn.dev/nekosu/articles/52f90b95ed048a ,2024/11/01 10:43:08
+13418,[誰でも出来る] 現役エンジニアの生産性最強のメモ術,https://zenn.dev/shuntagami/books/f94b4db330ba5e ,2024/11/01 10:43:08
+13419,個人開発者が参考にすべき人・読んでおくべき記事一覧まとめ,https://zenn.dev/statstat/articles/8d436c88175518 ,2024/11/01 10:43:08
+13420,【個人開発】1年半で3つアプリを作って学んだこと5選,https://zenn.dev/kamo_tomoki/articles/ad5ece9bd3540b ,2024/11/01 10:43:08
+13421,Webアプリを作って収益化する、僕の個人開発ルーティン,https://zenn.dev/uzuprg/articles/8b83ee58fc45bd ,2024/11/01 10:43:08
+13422,GitHub Sparkとは？【概要と使い方】,https://zenn.dev/umi_mori/articles/github_spark ,2024/11/01 10:43:08
+13423,いまならこう作りたい AWSコンテナ[本格]入門ハンズオン　〜2024年版 ハンズオンの構想〜 - Speaker Deck,https://speakerdeck.com/horsewin/imanarakouzuo-ritai-awskontena-ben-ge-ru-men-hanzuon-2024nian-ban-hanzuonnogou-xiang ,2024/11/01 10:43:08
+13424,"Mastering Image Uploads with Multer, Firebase, and Express in Node.js - DEV Community",https://dev.to/alyconr/mastering-image-uploads-with-multer-firebase-and-express-in-nodejs-5hd1 ,2024/11/01 10:43:08
+13425,10 JavaScript Tricks Every Developer Must Know 🚀 - DEV Community,https://dev.to/izabellalbuquerque/10-javascript-tricks-every-developer-must-know-2lg1 ,2024/11/01 10:43:08
+13426,A Comprehensive Introduction to CI/CD Pipelines - DEV Community,https://dev.to/debtech/a-comprehensive-introduction-to-cicd-pipelines-4ijc ,2024/11/01 10:43:08
+13427,Essential Layout Considerations for Web Pages Using Tailwind CSS - DEV Community,https://dev.to/rafaelogic/essential-layout-considerations-for-web-pages-using-tailwind-css-4h30 ,2024/11/01 10:43:08
+13428,Simplifying Actions in Laravel - DEV Community,https://dev.to/nasrulhazim/simplifying-actions-in-laravel-2o3c ,2024/11/01 10:43:08
+13429,Leveraging DevOps Analytics: How Technical Solutions Engineers Drive Product Enhancements and Tailored Onboarding - DEV Community,https://dev.to/sophie_lee/leveraging-devops-analytics-how-technical-solutions-engineers-drive-product-enhancements-and-tailored-onboarding-16d1 ,2024/11/01 10:43:08
+13430,Unlocking the Power of README.md: Your Project's First Impression - DEV Community,https://dev.to/collinzo2022/unlocking-the-power-of-readmemd-your-projects-first-impression-1426 ,2024/11/01 10:43:08
+13431,System Design: Library Management System - DEV Community,https://dev.to/thesaltree/system-design-library-management-system-j4c ,2024/11/01 10:43:08
+13432,Custom AWS Cloud Platforms - DEV Community,https://dev.to/cyclops-ui/custom-aws-cloud-platforms-1i94 ,2024/11/01 10:43:08
+13433,12 Useful Developer Tools You Will Wish You Knew Sooner 🧑‍💻🧙 - DEV Community,https://dev.to/madza/12-useful-developer-tools-you-will-wish-you-knew-sooner-588m ,2024/11/01 10:43:08
+13434,Run Gitlab CI jobs on a specific runner - DEV Community,https://dev.to/haamid/run-gitlab-ci-jobs-on-a-specific-runner-563i ,2024/11/01 10:43:08
+13435,How is Automation Changing DevOps and Software Development? - DEV Community,https://dev.to/sygitech/how-is-automation-changing-devops-and-software-development-4ka7 ,2024/11/01 10:43:08
+13436,20 Powerful Techniques for Writing Efficient and Readable Python Code - DEV Community,https://dev.to/abdulla783/20-powerful-techniques-for-writing-efficient-and-readable-python-code-3fee ,2024/11/01 10:43:08
+13437,20 Essential React Tricks Every Developer Must Know - DEV Community,https://dev.to/jagroop2001/20-essential-react-tricks-every-developer-must-know-5db1 ,2024/11/01 10:43:08
