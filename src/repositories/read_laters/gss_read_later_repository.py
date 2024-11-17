@@ -26,6 +26,8 @@ class GssReadLaterRepository(GssBaseRepository):
     KEY_CREATE_AT = "create_at"
     KEY_READ = "read"
     KEY_READ_AT = "read_at"
+    KEY_LIKE = "like"
+    KEY_LIKE_AT = "like_at"
     COLUMNS = [KEY_ID, KEY_TITLE, KEY_URL, KEY_CREATE_AT, KEY_READ, KEY_READ_AT]
 
     def __init__(self):
