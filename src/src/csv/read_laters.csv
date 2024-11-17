@@ -13747,3 +13747,123 @@ id,title,url,create_at
 13746,「プロダクトセキュリティ」の社内講義の資料を公開します - giftee Tech Blog,https://tech.giftee.co.jp/entry/2024/11/12/101202 ,2024/11/15 14:25:06
 13747,開発ツールの画面設計で守るべき2つの「フロー」原則（翻訳）｜TechRacho by BPS株式会社,https://techracho.bpsinc.jp/hachi8833/2024_11_14/145061 ,2024/11/15 14:25:06
 13748,「AWSの薄い本の合本Vol.01」で「第 4 章 CloudFormation StackSets でマルチアカウント統制」を書きました - NRIネットコムBlog,https://tech.nri-net.com/entry/about_chapter_4_of_the_aws_book ,2024/11/15 14:25:06
+13749,「人々が本当に欲しかったもの」を見つけるためのユーザーインサイト考 - inSmartBank,https://blog.smartbank.co.jp/entry/user_insight ,2024/11/17 11:47:26
+13750,デザインチームで取り組んだ業務フロー改善について - エキサイト TechBlog.,https://tech.excite.co.jp/entry/2024/11/15/185108 ,2024/11/17 11:47:26
+13751,IT人材不足79万人の真因：生産性向上を阻む『人月の神話型請負』からの脱却 - Findy Tech Blog,https://tech.findy.co.jp/entry/2024/11/15/070000 ,2024/11/17 11:47:26
+13752,フルリモート下で風化したエンジニア文化の再定義合宿の計画と実施のすゝめ - LIVESENSE ENGINEER BLOG,https://made.livesense.co.jp/entry/2024/11/15/080000 ,2024/11/17 11:47:26
+13753,コードレビューでよくお願いする、コメントの追加のパターン7選,https://zenn.dev/mixi/articles/9ca5a84b73144c ,2024/11/17 11:47:26
+13754,Understanding Containers in DevOps: A Foundation for Consistency Across Environments - DEV Community,https://dev.to/routeclouds/understanding-containers-in-devops-a-foundation-for-consistency-across-environments-21e5 ,2024/11/17 11:47:26
+13755,9 Open Source Projects Every Developer Needs to Bookmark 📚👨‍💻 - DEV Community,https://dev.to/madza/9-open-source-projects-every-developer-needs-to-bookmark-4lk9 ,2024/11/17 11:47:26
+13756,Getting Familiar with a New Code Base — A Beginner’s Guide - DEV Community,https://dev.to/ayankolaayodeji/getting-familiar-with-a-new-code-base-a-beginners-guide-2mc ,2024/11/17 11:47:26
+13757,Top 10 MLOps Tools for 2025 - DEV Community,https://dev.to/yayabobi/top-10-mlops-tools-for-2025-43g2 ,2024/11/17 11:47:26
+13758,Mastering DOM Manipulation in Vanilla JavaScript: Why It Still Matters - DEV Community,https://dev.to/paharihacker/mastering-dom-manipulation-in-vanilla-javascript-why-it-still-matters-3c86 ,2024/11/17 11:47:26
+13759,Top 10 JavaScript Libraries </> - DEV Community,https://dev.to/wicked_sarkar/top-10-javascript-libraries--4j5j ,2024/11/17 11:47:26
+13760,Top 8 Tips For Restful API Design - DEV Community,https://dev.to/thandhla/top-8-tips-for-restful-api-design-4885 ,2024/11/17 11:47:26
+13761,Design Pattern: Prototype - using GoLang - DEV Community,https://dev.to/jayaprasanna_roddam/design-pattern-prototype-2c9p ,2024/11/17 11:47:26
+13762,Design Patterns: Adapter - using GoLang - DEV Community,https://dev.to/jayaprasanna_roddam/design-patterns-adapter-using-golang-9pl ,2024/11/17 11:47:26
+13763,"Python Control Flow: If, Elif, Else, and Loops Without Going Loopy - DEV Community",https://dev.to/aishwarya_raj_978520e6399/python-control-flow-if-elif-else-and-loops-without-going-loopy-2hk6 ,2024/11/17 11:47:26
+13764,Top 5 Mistakes Beginners Make in Kubernetes and How to Avoid Them - DEV Community,https://dev.to/rubixkube/top-5-mistakes-beginners-make-in-kubernetes-and-how-to-avoid-them-3c39 ,2024/11/17 11:47:26
+13765,REST API vs GraphQL  Best Explanation with example Analogy - DEV Community,https://dev.to/mrcaption49/rest-api-vs-graphql-best-explanation-with-example-analogy-4l95 ,2024/11/17 11:47:26
+13766,"Mastering Asynchronous JavaScript: Promises, Async/Await, and Callbacks Explained - DEV Community",https://dev.to/okoye_ndidiamaka_5e3b7d30/mastering-asynchronous-javascript-promises-asyncawait-and-callbacks-explained-42kc ,2024/11/17 11:47:26
+13767,How to write GraphQL resolvers effectively - DEV Community,https://dev.to/the-guild/how-to-write-graphql-resolvers-effectively-4031 ,2024/11/17 11:47:26
+13768,5 Best Note-Taking Apps 📝 - DEV Community,https://dev.to/jxd-dev/5-best-note-taking-apps-3edn ,2024/11/17 11:47:26
+13769,Understanding the Factory and Factory Method Design Patterns - DEV Community,https://dev.to/mameen/understanding-the-factory-and-factory-method-design-patterns-113d ,2024/11/17 11:47:26
+13770,Advanced Next.js caching strategies - DEV Community,https://dev.to/logrocket/advanced-nextjs-caching-strategies-akm ,2024/11/17 11:47:26
+13771,The importance of semantic HTML for SEO and accessibility. - DEV Community,https://dev.to/j0y444/the-importance-of-semantic-html-for-seo-and-accessibility-3mka ,2024/11/17 11:47:26
+13772,Guide to Full Stack Web Development Services for Enterprises - DEV Community,https://dev.to/vcian/guide-to-full-stack-web-development-services-for-enterprises-kh1 ,2024/11/17 11:47:26
+13773,How to Split Applications Into Microservices—and When You Don’t Need Them - DEV Community,https://dev.to/sergedev/how-to-split-applications-into-microservices-and-when-you-dont-need-them-4jf9 ,2024/11/17 11:47:26
+13774,Top 10 Lessons Every Freelancer Should Know Before Starting an Agency - DEV Community,https://dev.to/devmakasana/top-10-lessons-every-freelancer-should-know-before-starting-an-agency-4730 ,2024/11/17 11:47:26
+13775,Best Practices for Organizing and Maintaining a Product Backlog in Scrum - DEV Community,https://dev.to/adityabhuyan/best-practices-for-organizing-and-maintaining-a-product-backlog-in-scrum-3lmc ,2024/11/17 11:47:26
+13776,How to Motivate Your Developers to Continuously Learn New Skills - DEV Community,https://dev.to/shinetechsoftwareinc/how-to-motivate-your-developers-to-continuously-learn-new-skills-2l21 ,2024/11/17 11:47:26
+13777,Understanding APIs and Building Your Own 🚀 - DEV Community,https://dev.to/lokesh_singh/from-zero-to-hero-understanding-apis-and-building-your-own-2ihf ,2024/11/17 11:47:26
+13778,How to Quickly Build APIs in Python - DEV Community,https://dev.to/devasservice/how-to-quickly-build-apis-in-python-1o26 ,2024/11/17 11:47:26
+13779,Kickstart Your Web Development Journey with Django: A Complete Guide - DEV Community,https://dev.to/snapnews/kickstart-your-web-development-journey-with-django-a-complete-guide-3eb2 ,2024/11/17 11:47:26
+13780,"JavaScript Design Patterns: Mastering Creational, Structural, And Behavioral Patterns For Cleaner Code - DEV Community",https://dev.to/okoye_ndidiamaka_5e3b7d30/javascript-design-patterns-mastering-creational-structural-and-behavioral-patterns-for-cleaner-code-lgn ,2024/11/17 11:47:26
+13781,Building a Strong and Scalable Test Automation Strategy - DEV Community,https://dev.to/gocodeo/building-a-strong-and-scalable-test-automation-strategy-3k6i ,2024/11/17 11:47:26
+13782,How to Create an interactive color-shifting hover card with Tailwind CSS and JavaScript - DEV Community,https://dev.to/mike_andreuzza/how-to-create-an-interactive-color-shifting-hover-card-with-tailwind-css-and-javascript-25am ,2024/11/17 11:47:26
+13783,知らないことを「ググる人」は時代遅れ…東大教授が毎日使っている「無料で高性能の検索サービス」（プレジデントオンライン） - Yahoo!ニュース,https://news.yahoo.co.jp/articles/47014664091e8e9e59e0f21856077b5f587aaa73 ,2024/11/17 11:47:26
+13784,Vim: Minimalist Environment - DEV Community,https://dev.to/salanoid/vim-minimalist-environment-2p9d ,2024/11/17 11:47:26
+13785,How to Write REST API Documentation? - DEV Community,https://dev.to/apilover/how-to-write-rest-api-documentation-502p ,2024/11/17 11:47:26
+13786,Working With Dates And Times In Python - DEV Community,https://dev.to/dev_neil_a/working-with-dates-and-times-in-python-4pnh ,2024/11/17 11:47:26
+13787,10 Powerful Frontend Development Tools for Creating Stunning Websites 🔥 - DEV Community,https://dev.to/hosseinyazdi/10-powerful-frontend-development-tools-for-creating-stunning-websites-e72 ,2024/11/17 11:47:26
+13788,The 100 Best Chrome Extensions to Know! 🧩 🔥 - DEV Community,https://dev.to/hosseinyazdi/the-100-best-chrome-extensions-to-know-1o61 ,2024/11/17 11:47:26
+13789,5 trends to watch in the World of DevOps in 2025 - DEV Community,https://dev.to/ruivalim/5-trends-to-watch-in-the-world-of-devops-in-2025-4c83 ,2024/11/17 11:47:26
+13790,Keep Development Aligned with Blackbird in your CI/CD Pipeline - DEV Community,https://dev.to/kaitillman/keep-development-aligned-with-blackbird-in-your-cicd-pipeline-54le ,2024/11/17 11:47:26
+13791,Tips for Optimizing Python Code to Improve Performance Without Sacrificing Readability or Maintainability - DEV Community,https://dev.to/marufhossain/tips-for-optimizing-python-code-to-improve-performance-without-sacrificing-readability-or-38ll ,2024/11/17 11:47:26
+13792,Host a Static Website on Amazon S3 - DEV Community,https://dev.to/debabrata2050/host-a-static-website-on-amazon-s3-45hn ,2024/11/17 11:47:26
+13793,6 Skills You Need To Read Tech Articles Like a Pro - DEV Community,https://dev.to/oculus42/6-skills-you-need-to-read-tech-articles-like-a-pro-3fd2 ,2024/11/17 11:47:26
+13794,JavaScript Superpowers: Mastering Proxies and Reflect for Dynamic Code Manipulation - DEV Community,https://dev.to/aaravjoshi/javascript-superpowers-mastering-proxies-and-reflect-for-dynamic-code-manipulation-28aj ,2024/11/17 11:47:26
+13795,Automated Testing and Dev Containers - DEV Community,https://dev.to/theoforger/automated-testing-and-dev-containers-1i59 ,2024/11/17 11:47:26
+13796,First DevOps books to read - DEV Community,https://dev.to/tmckiknn3/first-devops-books-to-read-2pbk ,2024/11/17 11:47:26
+13797,Terms and Functionality in React.js - DEV Community,https://dev.to/shieldstring/terms-and-functionality-in-reactjs-p75 ,2024/11/17 11:47:26
+13798,Docker Compose vs Kubernetes - DEV Community,https://dev.to/mrcaption49/docker-compose-vs-kubernetes-1jn9 ,2024/11/17 11:47:26
+13799,Factory Pattern - DEV Community,https://dev.to/sota_333ad4b72095606ab40c/factory-pattern-o6o ,2024/11/17 11:47:26
+13800,10 Best AI Tools for Developers - DEV Community,https://dev.to/nikl/10-best-ai-tools-for-developers-4pg5 ,2024/11/17 11:47:26
+13801,Mastering Perspective in CSS: A Comprehensive Guide for Web Developers - DEV Community,https://dev.to/softheartengineer/mastering-perspective-in-css-a-comprehensive-guide-for-web-developers-4dh ,2024/11/17 11:47:26
+13802,Top API Design Tools for Seamless Experience 2024 - DEV Community,https://dev.to/apilover/best-api-design-tools-for-seamless-experience-2024-f9p ,2024/11/17 11:47:26
+13803,📈 Making Your GitHub Repository Stand Out With 12 Easy Steps! - DEV Community,https://dev.to/kosa12/making-your-github-repository-stand-out-5gef ,2024/11/17 11:47:26
+13804,How to Implement SEO in Next.js? - DEV Community,https://dev.to/visavadiyavrushik/how-to-implement-seo-in-nextjs-g6f ,2024/11/17 11:47:26
+13805,📚 2 Books Junior Engineers Should Read - DEV Community,https://dev.to/sammytran/2-books-junior-engineers-should-read-5f4l ,2024/11/17 11:47:26
+13806,🚀 12 Dev Tools + Gen Z UX Secrets + CSS Animations (5-min read) - DEV Community,https://dev.to/adam/12-dev-tools-gen-z-ux-secrets-css-animations-5-min-read-3p0l ,2024/11/17 11:47:26
+13807,Python for DevOps: A Comprehensive Guide from Beginner to Advanced - DEV Community,https://dev.to/prodevopsguytech/python-for-devops-a-comprehensive-guide-from-beginner-to-advanced-2pmm ,2024/11/17 11:47:26
+13808,Does the role of an Embedded DevOps Engineer have a future? - DEV Community,https://dev.to/mcieciora/does-the-role-of-an-embedded-devops-engineer-have-a-future-2im8 ,2024/11/17 11:47:26
+13809,Modern Full-Stack Setup: FastAPI + React.js + Vite + MUI with TypeScript - DEV Community,https://dev.to/stamigos/modern-full-stack-setup-fastapi-reactjs-vite-mui-with-typescript-2mef ,2024/11/17 11:47:26
+13810,Dark side of Next.js - App Router - DEV Community,https://dev.to/asmyshlyaev177/dark-side-of-nextjs-app-router-15l ,2024/11/17 11:47:26
+13811,CI/CD  Terraform  Docker and Kubernetes - DEV Community,https://dev.to/mrcaption49/cicd-terraform-docker-and-kubernetes-2kl4 ,2024/11/17 11:47:26
+13812,大谷翔平選手から学ぶ「目標達成のヒント」：夢を実現する秘訣とは？  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2411-shohei-ohtani-goal-realization/ ,2024/11/17 11:47:26
+13813,Why Atomic Design Is Not for Frontend: A Deep Dive - DEV Community,https://dev.to/it_vturbo/why-atomic-design-is-not-for-frontend-a-deep-dive-32in ,2024/11/17 11:47:26
+13814,Deploying a Flask-based Intrusion Detection System to AWS ECS - DEV Community,https://dev.to/non-existent/deploying-a-flask-based-intrusion-detection-system-to-aws-ecs-with-cicd-4pgm ,2024/11/17 11:47:26
+13815,Master Data Structures and Algorithms Using Python - DEV Community,https://dev.to/cromacampusit/master-data-structures-and-algorithms-using-python-32n2 ,2024/11/17 11:47:26
+13816,Introduction to Using Python in DevOps for Beginners - DEV Community,https://dev.to/kiran_baliga/introduction-to-using-python-in-devops-for-beginners-37c6 ,2024/11/17 11:47:26
+13817,Setting up a REST API in Python for DynamoDB - DEV Community,https://dev.to/sreekeshiyer/setting-up-a-rest-api-in-python-for-dynamodb-3l9g ,2024/11/17 11:47:26
+13818,【Django】Django + mysqlclientのDockerイメージサイズを1/7に軽量化する #MySQL - Qiita,https://qiita.com/KotaTakeishi/items/ea029e25adf358ac2d2d ,2024/11/17 11:47:26
+13819,Goのインターフェイスの仕組み #interface - Qiita,https://qiita.com/PPastene/items/14900e5966ab4741158c ,2024/11/17 11:47:26
+13820,Django × Reactでハイブリッド株式管理アプリを構築する【株価情報表示編】 #Python - Qiita,https://qiita.com/kutinasi_hobby/items/24ff71fd8ded4fc1eacc ,2024/11/17 11:47:26
+13821,Django × Reactでハイブリッド株式管理アプリを構築する【ホーム画面編】 #Python - Qiita,https://qiita.com/kutinasi_hobby/items/526ac60f03184a08f045 ,2024/11/17 11:47:26
+13822,Django × Reactでハイブリッド株式管理アプリを構築する【更新/削除編】 #Python - Qiita,https://qiita.com/kutinasi_hobby/items/2578f09d57c3cee55a0a ,2024/11/17 11:47:26
+13823,Django × Reactでハイブリッド株式管理アプリを構築する【株式追加編】 #Python - Qiita,https://qiita.com/kutinasi_hobby/items/2810800ec99d594d3e38 ,2024/11/17 11:47:26
+13824,E2Eテストを自動化するときに大事なこと #テスト自動化 - Qiita,https://qiita.com/yoda_naan/items/fc5b61036143466e4319?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/11/17 11:47:26
+13825,[Laravel] DDDを踏まえてクリーンアーキテクチャ的なディレクトリ構成を考えてみる,https://zenn.dev/akira__0924/articles/qiita-20240715-d75bff8138b1c90a39df ,2024/11/17 11:47:26
+13826,アプリケーションの規模と生産性を考えて最適なアーキテクチャを考える。,https://zenn.dev/akira__0924/articles/qiita-20240817-876d45f3131b57c08214 ,2024/11/17 11:47:26
+13827,FactoryMethodパターンを理解した気になる,https://zenn.dev/akira__0924/articles/qiita-20240703-848254e05005a6c41979 ,2024/11/17 11:47:26
+13828,Repositoryパターンを理解した気になる,https://zenn.dev/akira__0924/articles/qiita-20240708-e49f55955d8d6adef1eb ,2024/11/17 11:47:26
+13829,人の認知をハッキングする「ウソの飽和攻撃」とその対策：日経ビジネス電子版,https://business.nikkei.com/atcl/gen/19/00562/111400070/ ,2024/11/17 11:47:26
+13830,Top 10 Modern JavaScript Patterns for 2025 - DEV Community,https://dev.to/balrajola/top-10-modern-javascript-patterns-for-2025-1hle ,2024/11/17 11:47:26
+13831,Should You Continue Learn Your Stack or Learn New Tools - DEV Community,https://dev.to/jenueldev/should-you-continue-learn-your-stack-or-learn-new-tools-5e9f ,2024/11/17 11:47:26
+13832,Docker Advance Part 1: Monitor Docker Containers with Health Checks - DEV Community,https://dev.to/mammadyahyayev/docker-advance-part-1-monitor-docker-containers-with-health-checks-4258 ,2024/11/17 11:47:26
+13833,Adding Code Formatter and Linter Tools to my code. - DEV Community,https://dev.to/aldrin312/adding-code-formatter-and-linter-tools-to-my-code-e9g ,2024/11/17 11:47:26
+13834,Mastering APIs in JavaScript: From Basics to Async/Await - DEV Community,https://dev.to/imrancodes/mastering-apis-in-javascript-from-basics-to-asyncawait-6mi ,2024/11/17 11:47:26
+13835,Understanding Database Locking and Concurrency in Laravel: A Deep Dive - DEV Community,https://dev.to/bhaidar/understanding-database-locking-and-concurrency-in-laravel-a-deep-dive-2k4m ,2024/11/17 11:47:26
+13836,Neovim and Python - DEV Community,https://dev.to/stefanlogue/neovim-and-python-2ae ,2024/11/17 11:47:26
+13837,Launching the Vite + React + Tailwind CSS Starter Template - DEV Community,https://dev.to/prithwish249/-dev-blog-launching-the-vite-react-tailwind-css-starter-template-bp6 ,2024/11/17 11:47:26
+13838,Best way to become a Full Stack developer in 2024-25 - DEV Community,https://dev.to/rahul_gurjar/best-way-to-become-a-good-fullstack-developer-4880 ,2024/11/17 11:47:26
+13839,API Design: From Zero to Best Practices - DEV Community,https://dev.to/abdulla783/api-design-from-zero-to-best-practices-43oc ,2024/11/17 11:47:26
+13840,10 Best Visual Studio Code Extensions for Front-End Developers - DEV Community,https://dev.to/emma_richardson/10-best-visual-studio-code-extensions-for-front-end-developers-1me0 ,2024/11/17 11:47:26
+13841,A Guide for Securing Your Node.js Application - DEV Community,https://dev.to/imsushant12/a-guide-for-securing-your-nodejs-application-42cj ,2024/11/17 11:47:26
+13842,Test-Driven Development: A Comprehensive Guide - DEV Community,https://dev.to/aelassas/test-driven-development-a-comprehensive-guide-2811 ,2024/11/17 11:47:26
+13843,6. Understanding Event-Driven Architecture - DEV Community,https://dev.to/vipulkumarsviit/6-understanding-event-driven-architecture-1elo ,2024/11/17 11:47:26
+13844,"""10 Essential Front-End Tools Every Developer Should Know About"" - DEV Community",https://dev.to/vsfarooqkhan/10-essential-front-end-tools-every-developer-should-know-about-17jf ,2024/11/17 11:47:26
+13845,Observer Pattern - DEV Community,https://dev.to/sota_333ad4b72095606ab40c/observer-pattern-ebp ,2024/11/17 11:47:26
+13846,How I became the Youngest Google Developer Expert at 18 Globally.. ! - DEV Community,https://dev.to/imdigitalashish/how-i-became-the-youngest-google-developer-expert-at-18-globally--357c ,2024/11/17 11:47:26
+13847,ジャーナリングがストレス解消に効果的である理由  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2411-how-journaling-reduce-stress-and-increase-productivity/ ,2024/11/17 11:47:26
+13848,How to Run MongoDB in Docker - DEV Community,https://dev.to/codewith_ili/how-to-run-mongodb-in-docker-17c9 ,2024/11/17 11:47:26
+13849,Code Smell 279 - Loop Premature Optimization - DEV Community,https://dev.to/mcsee/code-smell-279-loop-premature-optimization-2c99 ,2024/11/17 11:47:26
+13850,How to level up your backend skills - DEV Community,https://dev.to/rose_michelle/how-to-level-up-your-backend-skills-127k ,2024/11/17 11:47:26
+13851,Djangoのmodelについて理解する #Python - Qiita,https://qiita.com/hitorondayo/items/cd3fe4706747fe3fbfb3 ,2024/11/17 11:47:26
+13852,破壊的変更のあるバージョンアップ作業の流れ #プロジェクト管理 - Qiita,https://qiita.com/satoshi256kbyte/items/854c87d51c48e7bbacbf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/11/17 11:47:26
+13853,Stateパターンの整理,https://zenn.dev/regmarmcem/articles/4598e20ca9277d ,2024/11/17 11:47:26
+13854,Linux File Permissions Cheat Sheet - DEV Community,https://dev.to/adnanalemran/linux-file-permissions-cheat-sheet-1671 ,2024/11/17 11:47:26
+13855,10 Habits Every Developer Should Adopt for Continuous Self-Improvement - DEV Community,https://dev.to/gladiatorsbattle/10-habits-every-developer-should-adopt-for-continuous-self-improvement-50ff ,2024/11/17 11:47:26
+13856,Kubernetes Security: The Hidden Threats in Your Container Orchestra - DEV Community,https://dev.to/nolunchbreaks_22/kubernetes-security-the-hidden-threats-in-your-container-orchestra-c6m ,2024/11/17 11:47:26
+13857,10 Advanced Tips to Improve Your Python Code - DEV Community,https://dev.to/hndmr79/10-advanced-tips-to-improve-your-python-code-j4l ,2024/11/17 11:47:26
+13858,Skills You Need as a Software Tester - DEV Community,https://dev.to/tutortacademy/skills-you-need-as-a-software-tester-47h9 ,2024/11/17 11:47:26
+13859,The Top 10 Tech Trends in 2024 Everyone Should Be Ready For - DEV Community,https://dev.to/gladiatorsbattle/the-top-10-tech-trends-in-2024-everyone-should-be-ready-for-3oj5 ,2024/11/17 11:47:26
+13860,12 tips on how to think like a web scraping expert - DEV Community,https://dev.to/crawlee/12-tips-on-how-to-think-like-a-web-scraping-expert-3cjc ,2024/11/17 11:47:26
+13861,Mastering SOLID Principles: A Guide with JavaScript Examples - DEV Community,https://dev.to/samokpe2/mastering-solid-principles-a-guide-with-javascript-examples-nk ,2024/11/17 11:47:26
+13862,10 Best API Mocking Tools (2024 Review) - DEV Community,https://dev.to/apilover/10-best-api-mocking-tools-2024-review-30f3 ,2024/11/17 11:47:26
+13863,Promise static methods - JavaScript challenges - DEV Community,https://dev.to/mitchell_cheng/promise-static-methods-javascript-challenges-edd ,2024/11/17 11:47:26
+13864,Essential Laravel Tips form and for Entry-Level Developers 🚀 - DEV Community,https://dev.to/harold_defree/essential-laravel-tips-form-and-for-entry-level-developers-500j ,2024/11/17 11:47:26
+13865,Node JS Docker Deployment with lambda & API Gateway - DEV Community,https://dev.to/avdhut_nalawade_6ada59c61/node-js-docker-deployment-with-lambda-api-gateway-4eco ,2024/11/17 11:47:26
+13866,New to Frontend Engineering: 8 Things To Stop Doing - DEV Community,https://dev.to/nozibul_islam_113b1d5334f/new-to-frontend-engineering-8-things-to-stop-doing-4om ,2024/11/17 11:47:26
+13867,"How to Write Better TypeScript Code: Best Practices for Clean, Effective, and Scalable Code - DEV Community",https://dev.to/yugjadvani/how-to-write-better-typescript-code-best-practices-for-clean-effective-and-scalable-code-38d2 ,2024/11/17 11:47:26
+13868,feewrff - DEV Community,https://dev.to/stormsidali2001/nextjs-15-deep-dive-building-a-notes-app-with-advanced-features-11ge ,2024/11/17 11:47:26
