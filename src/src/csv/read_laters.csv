@@ -13957,3 +13957,51 @@ id,title,url,create_at
 13956,Next.jsのsearchParamsはas stringせずに必ずバリデーションしてくれ。またはvalibotのちょいテクニック,https://zenn.dev/chot/articles/validate-nextjs-searchparams ,2024/11/19 18:33:49
 13957,エンジニア教育についての個人的な思考整理,https://yuheinakasaka.github.io/gialog-diary/articles/65 ,2024/11/19 18:33:49
 13958,【後編】TypeScript×関数型×DDDで、ユニットテストが激減。実践の全貌とTips【Open Developers Conference 2024 レポート】  レバテックラボ（レバテックLAB）,https://levtech.jp/media/article/column/detail_559/ ,2024/11/19 18:33:49
+13959,【毎日書評】「要領がいい人」がやっている効率的な時間の使い方  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2411_book_to_read-1596/ ,2024/11/20 10:12:50
+13960,Implementing MVVM in React: A Real-World Guide - DEV Community,https://dev.to/gitfudge/implementing-mvvm-in-react-a-real-world-guide-kl ,2024/11/20 10:12:50
+13961,🧰 Docker Tips for DevOps Mastery ⬇️⬇️⬇️ - DEV Community,https://dev.to/aniruddhadak/docker-tips-for-devops-mastery-1fdd ,2024/11/20 10:12:50
+13962,Set Up Nginx with My Guide – Test It Yourself! - DEV Community,https://dev.to/serhii_kolodych/set-up-nginx-with-my-guide-test-it-yourself-32pk ,2024/11/20 10:12:50
+13963,Mastering REST API Best Practices in Python 🐍 - DEV Community,https://dev.to/biswajitfsd/mastering-rest-api-best-practices-in-python-5bda ,2024/11/20 10:12:50
+13964,Diagram-as-Code: Creating Dynamic and Interactive Documentation for Visual Content - DEV Community,https://dev.to/r0mymendez/diagram-as-code-creating-dynamic-and-interactive-documentation-for-visual-content-2p93 ,2024/11/20 10:12:50
+13965,Deploying Docs-as-Code on AWS: Building Dynamic Documentation Sites in MkDocs and Docusaurus - DEV Community,https://dev.to/r0mymendez/deploying-docs-as-code-on-aws-building-dynamic-documentation-sites-in-mkdocs-and-docusaurus-3516 ,2024/11/20 10:12:50
+13966,Mastering Python's Coroutines: Boost Your Code's Efficiency and Performance - DEV Community,https://dev.to/aaravjoshi/mastering-pythons-coroutines-boost-your-codes-efficiency-and-performance-1po4 ,2024/11/20 10:12:50
+13967,GO言語におけるREST APIの実施 #Go - Qiita,https://qiita.com/hikaruakashi0730/items/7d291aa326c5bc0fbde0 ,2024/11/20 10:12:50
+13968,Pythonではじめる自然言語処理勉強メモ #Python - Qiita,https://qiita.com/hukusima65/items/2659e24b806bc22d9fa7 ,2024/11/20 10:12:50
+13969,Atcoderで茶色になったよ #AtCoder - Qiita,https://qiita.com/Lit_to/items/f7f94dec411c8a4b4bcb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/11/20 10:12:50
+13970,【常識】知らないと土台に立てないエンジニア就活情報まとめ #転職 - Qiita,https://qiita.com/eureka-ai/items/c455b7451f9aca8211a0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2024/11/20 10:12:50
+13971,Docker Multi Stage BuildとNext.jsのstandaloneでDockerイメージ容量を75%削減した話,https://zenn.dev/rehabforjapan/articles/save-data-space-dockerfile ,2024/11/20 10:12:50
+13972,表面的なテクニックより「基礎基本の重要性」に気付かされた一冊【Node.js 日本ユーザーグループ代表・古川陽介】 - エンジニアtype  転職type,https://type.jp/et/feature/27190/ ,2024/11/20 10:12:50
+13973,非同期タスクのメトリクス収集術 - Nealle Developer's Blog,https://nealle-dev.hatenablog.com/entry/2024/11/19/01 ,2024/11/20 10:12:50
+13974,Pythonでスクレイピングをしていた時に対象の要素にスクロールして要素を取り直す #初心者 - Qiita,https://qiita.com/keitaMax/items/a783eda78b8b31af35d1 ,2024/11/20 10:12:50
+13975,[競プロ][Python] zip関数活用術 #アルゴリズム - Qiita,https://qiita.com/fastso/items/33144f50e39e734bd1dc ,2024/11/20 10:12:50
+13976,How to Deploy a Django REST API on Render for Free - DEV Community,https://dev.to/msnmongare/how-to-deploy-a-django-rest-api-to-render-for-free-gce ,2024/11/20 10:12:50
+13977,The CSS geometric loaders + free source code ❤️ - DEV Community,https://dev.to/melnik909/the-css-geometric-loaders-free-source-code-38bc ,2024/11/20 10:12:50
+13978,Understanding Expensive Calculations in React for Beginners - DEV Community,https://dev.to/vivecodes/understanding-expensive-calculations-in-react-for-beginners-30mm ,2024/11/20 10:12:50
+13979,My Web Development Learning Journey: From Beginner to Building Cool Things 🚀 - DEV Community,https://dev.to/hannaslesarska/my-web-development-learning-journey-from-beginner-to-building-cool-things-21kn ,2024/11/20 10:12:50
+13980,GraphQL vs. REST: Utilizing Big O Notation in the Design of a Social Media API - DEV Community,https://dev.to/bazeng/graphql-vs-rest-apis-analyzing-performance-with-big-o-notation-p1p ,2024/11/20 10:12:50
+13981,Mastering REST API Best Practices with Node.js 🚀 - DEV Community,https://dev.to/biswajitfsd/mastering-rest-api-best-practices-with-nodejs-4ejk ,2024/11/20 10:12:50
+13982,Modern CSS Layouts That Actually Work: A Developer's Guide - DEV Community,https://dev.to/amaresh_adak/modern-css-layouts-that-actually-work-a-developers-guide-n3c ,2024/11/20 10:12:50
+13983,Creating and Customizing your GitHub Profile - DEV Community,https://dev.to/erikaheidi/creating-and-customizing-your-github-profile-19hm ,2024/11/20 10:12:50
+13984,React Testing: A Comprehensive Guide for Developers - DEV Community,https://dev.to/keploy/react-testing-a-comprehensive-guide-for-developers-57i7 ,2024/11/20 10:12:50
+13985,Implementing Continuous Deployment with Docker and Kubernetes - DEV Community,https://dev.to/therealmrmumba/implementing-continuous-deployment-with-docker-and-kubernetes-45mm ,2024/11/20 10:12:50
+13986,Python Find in List: A Comprehensive Guide - DEV Community,https://dev.to/keploy/python-find-in-list-a-comprehensive-guide-4263 ,2024/11/20 10:12:50
+13987,Understanding Playwright: The Future of Automated Web Testing - DEV Community,https://dev.to/keploy/understanding-playwright-the-future-of-automated-web-testing-4i7j ,2024/11/20 10:12:50
+13988,🔐 Secure Your Apps with Best Practices ⬇️⬇️⬇️ - DEV Community,https://dev.to/aniruddhadak/secure-your-apps-with-best-practices-4fb7 ,2024/11/20 10:12:50
+13989,Free Testing Tools for API Testing - DEV Community,https://dev.to/keploy/free-testing-tools-for-api-testing-5lm ,2024/11/20 10:12:50
+13990,Rethinking our REST API: Building the Golden API - DEV Community,https://dev.to/arcjet/rethinking-our-rest-api-building-the-golden-api-3con ,2024/11/20 10:12:50
+13991,Exploring the Best CI/CD Tools: A Comprehensive Comparison - DEV Community,https://dev.to/therealmrmumba/exploring-the-best-cicd-tools-a-comprehensive-comparison-4p1o ,2024/11/20 10:12:50
+13992,Building simple event-driven applications with Pub/Sub - DEV Community,https://dev.to/encore/building-simple-event-driven-applications-with-pubsub-k57 ,2024/11/20 10:12:50
+13993,Golang + htmx + Tailwind CSS: Create a Responsive Web Application - DEV Community,https://dev.to/canopassoftware/golang-htmx-tailwind-css-create-a-responsive-web-application-2hfl ,2024/11/20 10:12:50
+13994,Next.js Tutorial : Adding Navbar with active Styling in a Server Component Layout - DEV Community,https://dev.to/easyvipin/nextjs-tutorial-adding-navbar-with-active-styling-in-a-server-component-layout-5h68 ,2024/11/20 10:12:50
+13995,"Understanding Cookies: What They Are, How They Work, and Why They Matter for Your Privacy - DEV Community",https://dev.to/olami_tech/understanding-cookies-what-they-are-how-they-work-and-why-they-matter-for-your-privacy-3fo2 ,2024/11/20 10:12:50
+13996,Enhancing Productivity With Code - DEV Community,https://dev.to/olami_tech/enhancing-productivity-with-code-2dan ,2024/11/20 10:12:50
+13997,"A Deep Dive into Tailwind CSS: Building Modern, Scalable UIs with a Utility-First Approach🎨🚀 - DEV Community",https://dev.to/hexadecimalsoftware/a-deep-dive-into-tailwind-css-building-modern-scalable-uis-with-a-utility-first-approach-45b ,2024/11/20 10:12:50
+13998,How to Front-End as a Full-Stack - DEV Community,https://dev.to/polipo_gio/how-to-front-end-as-a-full-stack-524b ,2024/11/20 10:12:50
+13999,Docker Layer Caching Explained: Tips to Improve Build Times - DEV Community,https://dev.to/thenanjay/docker-layer-caching-explained-tips-to-improve-build-times-6kc ,2024/11/20 10:12:50
+14000,A Quick Glance at Software Engineering and CI/CD - DEV Community,https://dev.to/jmbharathram/a-quick-glance-at-software-engineering-and-cicd-58n6 ,2024/11/20 10:12:50
+14001,Why Every Programmer Needs to Chill: Debugging Life Outside the Code - DEV Community,https://dev.to/high_octane/why-every-programmer-needs-to-chill-debugging-life-outside-the-code-353h ,2024/11/20 10:12:50
+14002,🚀Top Github Repositories to boost Your project setup.🚀 - DEV Community,https://dev.to/matek075/top-github-repositories-to-boost-your-project-setup-28ji ,2024/11/20 10:12:50
+14003,Connecting database with API - DEV Community,https://dev.to/dhani_dzulkarnain/connecting-database-with-api-29bm ,2024/11/20 10:12:50
+14004,Tailwind: メディアクエリに垂直方向のスクリーンサイズを追加する（翻訳）｜TechRacho by BPS株式会社,https://techracho.bpsinc.jp/hachi8833/2024_11_19/145568 ,2024/11/20 10:12:50
+14005,A/Bテスト前にできること：モンテカルロシミュレーションでレコメンド導入効果を試算する - Leverages データ戦略ブログ,https://analytics.leverages.jp/entry/2024/11/19/180000 ,2024/11/20 10:12:50
+14006,"JavaScriptのイテレータ, イテラブル, ジェネレータを理解する！  GMOアドパートナーズ TECH BLOG byGMO",https://techblog.gmo-ap.jp/2024/11/19/js-generator-yield/ ,2024/11/20 10:12:50
