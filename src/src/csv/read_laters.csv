@@ -14197,3 +14197,41 @@ id,title,url,create_at
 14196,Basics of Front End Development - DEV Community,https://dev.to/thatcsguy/basics-of-front-end-development-1hha ,2024/11/25 11:21:09
 14197,WET vs. DRY: Testing Principles You Should Know - DEV Community,https://dev.to/artshllaku/wet-vs-dry-testing-principles-you-should-know-4hob ,2024/11/25 11:21:09
 14198,Setting Up a Mac for Development: A Comprehensive Guide 🧑🏻‍💻 ‍ - DEV Community,https://dev.to/devangtomar/setting-up-a-mac-for-development-a-comprehensive-guide-5j3 ,2024/11/25 11:21:09
+14199,Webエンジニアなら知っておきたいイベント駆動アーキテクチャ - Fenrir Engineers,https://engineers.fenrir-inc.com/entry/2024/11/25/153652 ,2024/11/26 11:44:49
+14200,データの一生、【データライフサイクル】について｜分析屋,https://note.com/bunsekiya_tech/n/n9b42db1ddf91 ,2024/11/26 11:44:49
+14201,趣味で作ったツールは200超え！楽をするために苦労するリーダーの働き方 - noteエンジニアインタビュー｜noteエンジニアチームの技術記事,https://engineerteam.note.jp/n/n181b254b1249 ,2024/11/26 11:44:49
+14202,開発エンジニアのネットワークスキル - KENTEM TechBlog,https://tech.kentem.jp/entry/2024/11/26/090000 ,2024/11/26 11:44:49
+14203,生成AIで会社の要件定義プロセスを100倍高速化した話 #Python - Qiita,https://qiita.com/Umeco_co/items/8a434b0e72202d4532ca ,2024/11/26 11:44:49
+14204,憶測から推測に切り替える  DevelopersIO,https://dev.classmethod.jp/articles/speculation-to-conjecture/ ,2024/11/26 11:44:49
+14205,ビル・ゲイツも共感した「人材を伸ばす教育」に必要な4つのステップ  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2411-bill-gates-says-learning-this-1-skill-leads-to-career-succes/ ,2024/11/26 11:44:49
+14206,「目標設定は好きですか？」苦手意識を乗り越え、目覚ましい成果を生み出す方法をカケハシ・小田中氏に学ぶ (1/4)CodeZine（コードジン）,https://codezine.jp/article/detail/20123 ,2024/11/26 11:44:49
+14207,【MUI】【CSS】自作コンポーネントに固定のCSSを与えつつ、場合によって＋αのCSSを当てたい時の書き方。 #React - Qiita,https://qiita.com/mura_tokagemodoki/items/abbbd058222935d72d1f ,2024/11/26 11:44:49
+14208,Performance Optimization with Middleware in Node.js - DEV Community,https://dev.to/wallacefreitas/performance-optimization-with-middleware-in-nodejs-3c19 ,2024/11/26 11:44:49
+14209,My Struggle as a Self-Taught Developer - DEV Community,https://dev.to/trisdev/my-struggle-as-a-self-taught-developer-33o8 ,2024/11/26 11:44:49
+14210,"Database Integration with Express.js: How to Integrate MongoDB, MySQL, and PostgreSQL - DEV Community",https://dev.to/devvemeka/database-integration-with-expressjs-how-to-integrate-mongodb-mysql-and-postgresql-2jba ,2024/11/26 11:44:49
+14211,"Building a Powerful API with Node.js, Express, and React - DEV Community",https://dev.to/philip_zhang_854092d88473/building-a-powerful-api-with-nodejs-express-and-react-3e79 ,2024/11/26 11:44:49
+14212,Reflection on Using TDD (Test Driven Development) - DEV Community,https://dev.to/hyun_hyun/reflection-on-using-tdd-test-driven-development-2621 ,2024/11/26 11:44:49
+14213,GitLab DevSecOps developer - DEV Community,https://dev.to/mkarthiatgithub/gitlab-devsecops-developer-45d3 ,2024/11/26 11:44:49
+14214,"Best Practices in JavaScript: Writing Clean, Efficient, and Maintainable Code - DEV Community",https://dev.to/bst53/best-practices-in-javascript-writing-clean-efficient-and-maintainable-code-5701 ,2024/11/26 11:44:49
+14215,Web Performance Metrics: A Comprehensive Guide to Website Optimization - DEV Community,https://dev.to/aragorn_talks/web-performance-metrics-a-comprehensive-guide-to-website-optimization-57i3 ,2024/11/26 11:44:49
+14216,Top 7 Best CI/CD Tools Every Developer Should Know - DEV Community,https://dev.to/apilover/top-7-best-cicd-tools-every-developer-should-know-31em ,2024/11/26 11:44:49
+14217,Automating Software Maintenance: Tools and Techniques - DEV Community,https://dev.to/vikrant_bhalodia/automating-software-maintenance-tools-and-techniques-313a ,2024/11/26 11:44:49
+14218,CSS Simplified: Mastering Positioning and Layouts - DEV Community,https://dev.to/dexterhale/css-simplified-mastering-positioning-and-layouts-3og4 ,2024/11/26 11:44:49
+14219,A Beginner's Guide to Python Libraries: Unlocking the Power of Pre-Written Code 🐍📚 - DEV Community,https://dev.to/hexadecimalsoftware/a-beginners-guide-to-python-libraries-unlocking-the-power-of-pre-written-code-6ek ,2024/11/26 11:44:49
+14220,Python's Gradual Typing: Flexibly Enhancing Code Safety and Performance - DEV Community,https://dev.to/aaravjoshi/pythons-gradual-typing-flexibly-enhancing-code-safety-and-performance-2ic5 ,2024/11/26 11:44:49
+14221,Building a RESTful API from Scratch 🚀 - DEV Community,https://dev.to/info_generalhazedawn_a3d/building-a-restful-api-from-scratch-394b ,2024/11/26 11:44:49
+14222,ReactJS vs. Next.js: A Comprehensive Comparison for Modern Web Development - DEV Community,https://dev.to/rohitkhokhar/reactjs-vs-nextjs-a-comprehensive-comparison-for-modern-web-development-5gef ,2024/11/26 11:44:49
+14223,Writing Clean Python Code: Embracing the Zen of Python 🐍✨ - DEV Community,https://dev.to/augustin_ven/writing-clean-python-code-embracing-the-zen-of-python-39cc ,2024/11/26 11:44:49
+14224,Full-stack development in 2025 - DEV Community,https://dev.to/archedbishop/full-stack-development-in-2025-335c ,2024/11/26 11:44:49
+14225,Securing Your Node.js Application: A Comprehensive Guide - DEV Community,https://dev.to/sekurno/securing-your-nodejs-application-a-comprehensive-guide-199j ,2024/11/26 11:44:49
+14226,Mastering Python Metaclasses: Supercharge Your Code with Advanced Class Creation Techniques - DEV Community,https://dev.to/aaravjoshi/mastering-python-metaclasses-supercharge-your-code-with-advanced-class-creation-techniques-4g38 ,2024/11/26 11:44:49
+14227,"Laravel CI/CD Pipeline: Easy GitHub, Jenkins, and Docker Step-by-Step Guide - DEV Community",https://dev.to/mdarifulhaque/laravel-cicd-pipeline-easy-github-jenkins-and-docker-step-by-step-guide-4mg7 ,2024/11/26 11:44:49
+14228,Strategy Design Pattern - DEV Community,https://dev.to/purimetlanareshbabu/strategy-design-pattern-1h5j ,2024/11/26 11:44:49
+14229,HTML Emmetでエレガントなhtmlライフを、、、 #初心者 - Qiita,https://qiita.com/OsouzainoSou/items/734d8f6e520131d21c99 ,2024/11/26 11:44:49
+14230,Pythonでのエラーハンドリング集 #error - Qiita,https://qiita.com/Tomato_otamoT/items/79f3b065cdf0ca169bc6 ,2024/11/26 11:44:49
+14231,React / GitHub Actions を使用した自動テストの設定手順 #React - Qiita,https://qiita.com/kenogi/items/d50ac5a249a4d8b66348 ,2024/11/26 11:44:49
+14232,VSCode+Dev Containerの開発体験をNeovimで再現する,https://zenn.dev/momonga/articles/6b95f279b75534 ,2024/11/26 11:44:49
+14233,PrettierとESLint(Flat Config)で最低限の設定をする,https://zenn.dev/holypotter0304/articles/d58ba15caac660 ,2024/11/26 11:44:49
+14234,Node.js、Express、およびReactを利用して強力なAPIを構築しよう,https://zenn.dev/kasuna/articles/29d38670802743 ,2024/11/26 11:44:49
+14235,テックブログの書き方、をブログにしてみた,https://zenn.dev/canary_techblog/articles/a95f084bcd9f88 ,2024/11/26 11:44:49
+14236,使える軽量なブログを土日で作る,https://zenn.dev/k5h/articles/de9b49abade828 ,2024/11/26 11:44:49
