@@ -15149,3 +15149,65 @@ id,title,url,create_at
 15148,何でも出来るKenさんのタイムマネジメント｜牛尾　剛,https://note.com/simplearchitect/n/n871f29ffbfac?sub_rt=share_pb ,2025/01/30 11:02:04
 15149,人生3度目のE2Eテスト自動化への挑戦 - Nealle Developer's Blog,https://nealle-dev.hatenablog.com/entry/2024/12/19/01 ,2025/01/30 11:02:04
 15150,TVerのWebフロントチーム内製化への道のりとこれから - TVer Tech Blog,https://techblog.tver.co.jp/entry/2024/12/19/102612 ,2025/01/30 11:02:04
+15151,【新卒1年目インタビュー】先輩と共に乗り越えた！半年間の学びや苦悩のリアル - Visional Engineering Blog,https://engineering.visional.inc/blog/624/product-meetup-newgrads-202410/ ,2025/01/31 22:57:27
+15152,コード品質向上のテクニック：第56回 期待八分目,https://techblog.lycorp.co.jp/ja/20250130icq ,2025/01/31 22:57:27
+15153,可用性とパフォーマンスを追求するWINTICKETサーバーのインフラリアーキテクチャ  CyberAgent Developers Blog,https://developers.cyberagent.co.jp/blog/archives/54138/ ,2025/01/31 22:57:27
+15154,コードレビューの時にどこを見ているか,https://zenn.dev/aldagram_tech/articles/c168e019728348 ,2025/01/31 22:57:27
+15155,Ollamaを活用したDeepSeek-R1のローカルLLM構築ガイド - GPT Master,https://chatgpt-enterprise.jp/blog/ollama-deepseek-r1/ ,2025/01/31 22:57:27
+15156,ソフトウェアアーキテクトのための意思決定術: Software Architecture and Decision-Making - Speaker Deck,https://speakerdeck.com/snoozer05/software-architecture-and-decision-making ,2025/01/31 22:57:27
+15157,App Router時代の推しディレクトリ構成について語る,https://zenn.dev/medicalforce/articles/1f3b2f9e1ab0fa ,2025/01/31 22:57:27
+15158,Next.js Server Actions実行後に何かしたいときの3パターン,https://zenn.dev/moozaru/articles/cb0df9109413d7 ,2025/01/31 22:57:27
+15159,[がんばれ] 作業効率を高めてくれるAIチューターを作って、使ってみた [がんばろう],https://zenn.dev/fkky/articles/e1e553e5a81688 ,2025/01/31 22:57:27
+15160,PythonのParametrizeをもっと便利に使う(pytest.param),https://zenn.dev/kirimaru/articles/e9ece87eb040aa ,2025/01/31 22:57:27
+15161,Next.js (Edge Runtime) の Route Handler テストでつまずいた話と、その解決策,https://zenn.dev/fristi_blog/articles/0533853b3123e8 ,2025/01/31 22:57:27
+15162,真のエラーを救い出せ！バックエンドのエラーを99.9%削減した話,https://zenn.dev/gmomedia/articles/5d57255ae74b84 ,2025/01/31 22:57:27
+15163,テストを活用して、まあまあ良いコードを書く,https://zenn.dev/koakuma_ageha/articles/73123297a8c5a3 ,2025/01/31 22:57:27
+15164,フロントエンドの定番ライブラリ「React 19」の新機能を紹介──新しいAPI (1/3)CodeZine（コードジン）,https://codezine.jp/article/detail/20822 ,2025/01/31 22:57:27
+15165,半年でライブラリを最新化！スタートアップが実践する継続的メンテナンス - ACES エンジニアブログ,https://tech.acesinc.co.jp/entry/2025/01/31/083000 ,2025/01/31 22:57:27
+15166,zodを用いた条件分岐バリデーションを実装してみる #TypeScript - Qiita,https://qiita.com/ryouryou_34/items/f3a86eac91a3a966c181?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2025/01/31 22:57:27
+15167,今月読んだ本のアウトプット #読書感想文 - Qiita,https://qiita.com/akiw07/items/e0a801f586649b9208ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2025/01/31 22:57:27
+15168,2025年中に読破したい、最高の技術書10選 #AWS - Qiita,https://qiita.com/t-furusato/items/ef65033a095fc114bb9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2025/01/31 22:57:27
+15169,Pythonのパフォーマンス最適化Tips 必須知識 #Django - Qiita,https://qiita.com/Leapcell/items/ecf4f3b668e176da01e2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2025/01/31 22:57:27
+15170,プログラミングを仕事にするための“完全ロードマップ” ──4つの開発分野と「自学自習」成功の秘訣を徹底解説── #ChatGPT - Qiita,https://qiita.com/POKARI0450/items/e13c7f9d263702b85f88?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2025/01/31 22:57:27
+15171,【SQLチューニング】パフォーマンス改善のポイントまとめ #SQL - Qiita,https://qiita.com/purojyu/items/9104fe1f846e32b4abe8 ,2025/01/31 22:57:27
+15172,非Nullアサーションと型アサーション #TypeScript - Qiita,https://qiita.com/makoto-ogata@github/items/095203711b8b1a5d7be8 ,2025/01/31 22:57:27
+15173,【TypeScript】enum を使わないほうがよい理由と代替手段 #TypeScript - Qiita,https://qiita.com/purojyu/items/d2f2d24dbdc3facf2012 ,2025/01/31 22:57:27
+15174,バックエンド API においてのユニットテスト #TypeScript - Qiita,https://qiita.com/hashi_nt/items/20df0de1db7154f384e1 ,2025/01/31 22:57:27
+15175,JavaScript / デバッグの基礎,https://zenn.dev/tsumugu2024/articles/8b7cdc79b6ed46 ,2025/01/31 22:57:27
+15176,5 Common Mistakes When Using useEffect Hook in React - DEV Community,https://dev.to/symplymuslimah12/5-common-mistakes-when-using-useeffect-hook-in-react-949 ,2025/01/31 22:57:27
+15177,"How to write clean, typed Firestore code - DEV Community",https://dev.to/0x80/how-to-write-clean-typed-firestore-code-37j2 ,2025/01/31 22:57:27
+15178,Securing APIs: Techniques and Best Practices for Security - DEV Community,https://dev.to/claranet/securing-apis-techniques-and-best-practices-for-security-14ik ,2025/01/31 22:57:27
+15179,Mastering TypeScript Utility and Advanced Types - DEV Community,https://dev.to/ahr_dev/mastering-typescript-utility-and-advanced-types-385c ,2025/01/31 22:57:27
+15180,🎯 Laravelの便利な仕組み：依存性注入を使いこなそう #PHP - Qiita,https://qiita.com/sho_fcafe/items/b81ed375dfe9766a804e ,2025/01/31 22:57:27
+15181,DeepSeek APIを使いこなす：Pythonで始める高度な自然言語処理 #AI - Qiita,https://qiita.com/automation2025/items/f86051bd5079a7c0a44e ,2025/01/31 22:57:27
+15182,Pythonの__init__.pyは省略せずに作成しよう #モジュール - Qiita,https://qiita.com/Tomato_otamoT/items/df01c754225aebc5a9da ,2025/01/31 22:57:27
+15183,「完璧な睡眠」を求めすぎて、逆に睡眠の質が低下した……。悪循環から抜け出す方法とは？  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2501-matome-orthosomnia-sleep-well/ ,2025/01/31 22:57:27
+15184,あの大切なメモ、どこだっけ……すべての情報を整えて効率化する「知識管理メソッド」決定版  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2501-knowledge-management-beginner-guide/ ,2025/01/31 22:57:27
+15185,「システム思考」で戦略を立てれば、仕事も人生もうまくいく｜黒崎 俊 / プレックス代表取締役,https://note.com/shunkurosaki/n/n7976517682ab ,2025/01/31 22:57:27
+15186,新人Webデザイナーが最初に磨くべき「時間管理力」｜NOBU inc,https://note.com/nobu_inc/n/ncf129a43f629 ,2025/01/31 22:57:27
+15187,【無料でChatGPT o1超え!?】中国発のAI「DeepSeek」が推論・検索・ファイル解析と何でも無料でできて半端ない件。《使い方、活用事例７選を徹底解説。》｜チャエン  重要AIニュースを毎日発信⚡️,https://note.com/chaen_channel/n/n6d8a2206c7b3 ,2025/01/31 22:57:27
+15188,"Web Application Architecture: Front-end, Middleware and Back-end - DEV Community",https://dev.to/techelopment/web-application-architecture-front-end-middleware-and-back-end-2ld7 ,2025/01/31 22:57:27
+15189,Unlocking the Power of DevOps: Transform Your Development Process for Success - DEV Community,https://dev.to/zopdev/unlocking-the-power-of-devops-transform-your-development-process-for-success-29me ,2025/01/31 22:57:27
+15190,Understanding Functions: From Basics to Better Coding Practices - DEV Community,https://dev.to/ayako_yk/understanding-functions-from-basics-to-better-coding-practices-1i36 ,2025/01/31 22:57:27
+15191,Here Are Some Productivity Tools That I Use Every Day - DEV Community,https://dev.to/devlawrence/here-are-some-productivity-tools-that-i-use-every-day-3p3b ,2025/01/31 22:57:27
+15192,A Complete Guide to Next.js Authentication - DEV Community,https://dev.to/buttercms/a-complete-guide-to-nextjs-authentication-4l57 ,2025/01/31 22:57:27
+15193,10 Common Mistakes Node.js Developers Make and How to Avoid Them - DEV Community,https://dev.to/fredabod/10-common-mistakes-nodejs-developers-make-and-how-to-avoid-them-276d ,2025/01/31 22:57:27
+15194,How Serverless is Killing the Traditional Backend Role 🔥 - DEV Community,https://dev.to/holasoymalva/how-serverless-is-killing-the-traditional-backend-role-2ff2 ,2025/01/31 22:57:27
+15195,Top 20 Python Projects for Beginners - DEV Community,https://dev.to/tarunfulera1/top-20-python-projects-for-beginners-1ka ,2025/01/31 22:57:27
+15196,"Python Day - 30 Types of Arguments, Types of variables - DEV Community",https://dev.to/guru_prasanna_01/python-day-30-types-of-arguments-types-of-variables-1791 ,2025/01/31 22:57:27
+15197,忙しさの中毒性 - Konifar's ZATSU,https://konifar-zatsu.hatenadiary.jp/entry/2024/12/21/125514 ,2025/01/31 22:57:27
+15198,TypeScriptで『関数型ドメインモデリング』をやってみよう #DDD - Qiita,https://qiita.com/hanaokatomoki/items/cf09dcfb69b1ae0c6e0a ,2025/01/31 22:57:27
+15199,非機能品質を作り込むための実践アーキテクチャ - Speaker Deck,https://speakerdeck.com/knih/practical-software-architecture-for-building-cross-functional-quality ,2025/01/31 22:57:27
+15200,クラウドアプリケーション 10の設計原則 「Azureアプリケーションアーキテクチャガイド」から学ぶ普遍的な原理原則[Book],https://www.oreilly.com/library/view/10-azure/9784295017882/ ,2025/01/31 22:57:27
+15201,作って学ぶFigma入門［完全版］ ステップ・バイ・ステップで身につくWeb/UIデザインの基本：書籍案内｜技術評論社,https://gihyo.jp/book/2025/978-4-297-14678-8 ,2025/01/31 22:57:27
+15202,Kubernetesで実践する Platform Engineering（Mauricio Salatino 株式会社スリーシェイク 元内 柊也 木曽 和則 戸澤 涼 長谷川 広樹）｜翔泳社の本,https://www.shoeisha.co.jp/book/detail/9784798188379 ,2025/01/31 22:57:27
+15203,ブラウザからDBに行き着くまでただまとめる,https://zenn.dev/moko_poi/articles/c2402f13a870a1 ,2025/01/31 22:57:27
+15204,プログラミングスクールに200万円課金してつよつよエンジニア(笑)になったお話 #ポエム - Qiita,https://qiita.com/torihazi/items/1ddf136a1d5800a814fe ,2025/01/31 22:57:27
+15205,今年読んでみてよかった本 #本の紹介 - Qiita,https://qiita.com/kwtc_/items/5cead0aa4edf352ef8e1 ,2025/01/31 22:57:27
+15206,2024年 お世話になったAIサービス,https://zenn.dev/t_kitamura/articles/dd2161bb4d3038 ,2025/01/31 22:57:27
+15207,新卒エンジニアが大規模リファクタリングの失敗から学んだ事業との向き合い方 - Speee DEVELOPER BLOG,https://tech.speee.jp/entry/failure-of-refactoring-project ,2025/01/31 22:57:27
+15208,「リファクタリングの時間」を確保する技術,https://zenn.dev/loglass/articles/961e283e6fbe71 ,2025/01/31 22:57:27
+15209,"【タスク処理のコツ】 ""難しそう"" ""終わらなそう""の対処法 #タスク管理 - Qiita",https://qiita.com/a-yama/items/83e46a4d71e0ae50ff1b ,2025/01/31 22:57:27
+15210,プログラミングスクールが情弱ビジネスとボロクソに言われている理由 #未経験エンジニア - Qiita,https://qiita.com/yudai_on_rails/items/028930ceb24624d3a5be ,2025/01/31 22:57:27
+15211,ソースコードのgrep可能性という視点,https://zenn.dev/kyoh86/articles/81db98528e3345 ,2025/01/31 22:57:27
+15212,不安とストレスから解放される見積りとスケジュール方法 #アジャイル - Qiita,https://qiita.com/hirokidaichi/items/5a204a57a200569f755d ,2025/01/31 22:57:27
