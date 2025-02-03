@@ -15288,3 +15288,49 @@ id,title,url,create_at
 15287,🚀Enhanced CI/CD Pipeline: Integrated CD with Docker and AWS - DEV Community,https://dev.to/parthib_banerjee/enhanced-cicd-pipeline-integrated-cd-with-docker-and-aws-2mgd ,2025/02/02 19:17:06
 15288,5 Docker Compose Tricks You Don't Know Yet - DEV Community,https://dev.to/code42cate/5-docker-compose-tricks-you-dont-know-yet-bfd ,2025/02/02 19:17:06
 15289,Creating Your First React Component (It's Easier Than You Think!) - DEV Community,https://dev.to/marveeeen/creating-your-first-react-component-its-easier-than-you-think-1k9a ,2025/02/02 19:17:06
+15290,E2Eテスト自動化ツール「Playwright」を試してみた - 革命のブログ,https://blog.frevo-works.co.jp/entry/2025/01/31/183805 ,2025/02/03 10:42:24
+15291,元アプリ志望が語る、インフラエンジニアの魅力 - NRIネットコムBlog,https://tech.nri-net.com/entry/attraction_of_infrastructure_engineers ,2025/02/03 10:42:24
+15292,転生 SRE マネージャー サバイバル・ガイド - LayerX エンジニアブログ,https://tech.layerx.co.jp/entry/2025/01/29/145635 ,2025/02/03 10:42:24
+15293,テスト駆動開発(TDD)入門,https://zenn.dev/headwaters/articles/3cff63406d9752 ,2025/02/03 10:42:24
+15294,キレイなコードを書くための基本 － 事例で学ぶクリーンコード ｜分析屋,https://note.com/bunsekiya_tech/n/n10a9c59b4ba3 ,2025/02/03 10:42:24
+15295,車輪の再発明のススメ！車輪を1から自作できる教材まとめ,https://zenn.dev/collabostyle/articles/142167965f1c29 ,2025/02/03 10:42:24
+15296,Amazon.co.jp: 理想の人生をつくる習慣化大全 eBook : 古川武士: Kindle Store,https://www.amazon.co.jp/%E5%8F%A4%E5%B7%9D%E6%AD%A6%E5%A3%AB-ebook/dp/B07S89B6PD/ref=books_kindle_desktop_mfs_kurebarv2_0?_encoding=UTF8&pd_rd_w=HpvZQ&content-id=amzn1.sym.81f21704-4430-4fc5-88a9-71a366427cde&pf_rd_p=81f21704-4430-4fc5-88a9-71a366427cde&pf_rd_r=NRQ07WSM0A9GRTANK861&pd_rd_wg=Wogcm&pd_rd_r=1340a89b-738d-46ed-83c5-c451f5b7bcb3 ,2025/02/03 10:42:24
+15297,Amazon.co.jp: 朝1分間、30の習慣。 ゆううつでムダな時間が減り、しあわせな時間が増えるコツ eBook : マツダ ミヒロ: Japanese Books,https://www.amazon.co.jp/-/en/%E3%83%9E%E3%83%84%E3%83%80-%E3%83%9F%E3%83%92%E3%83%AD-ebook/dp/B09WHJ7ZFJ/ref=zg_bs_g_571582_d_sccl_15/358-1419819-8803344?psc=1 ,2025/02/03 10:42:24
+15298,Amazon.co.jp: 一流の習慣: 心がけを変えるだけで頭が良くなる28の習慣 (ＪＳ出版) eBook : カルロ・クマ: Kindle Store,https://www.amazon.co.jp/-/en/%E3%82%AB%E3%83%AB%E3%83%AD%E3%83%BB%E3%82%AF%E3%83%9E-ebook/dp/B06XK9S23C/ref=zg_bs_g_571582_d_sccl_5/358-1419819-8803344?psc=1 ,2025/02/03 10:42:24
+15299,Amazon.co.jp: 自分をよろこばせる習慣 eBook : 田中 克成: Japanese Books,https://www.amazon.co.jp/-/en/%E7%94%B0%E4%B8%AD-%E5%85%8B%E6%88%90-ebook/dp/B0BNB3JH71/ref=zg_bs_g_562858_d_sccl_11/358-1419819-8803344?psc=1 ,2025/02/03 10:42:24
+15300,新入社員が思うGitコンフリクトを減らすポイント - NRIネットコムBlog,https://tech.nri-net.com/entry/points_to_reduce_git_conflicts ,2025/02/03 10:42:24
+15301,Amazon.co.jp: 「何回説明しても伝わらない」はなぜ起こるのか？　認知科学が教えるコミュニケーションの本質と解決策 : 今井 むつみ: Japanese Books,https://www.amazon.co.jp/%E3%80%8C%E4%BD%95%E5%9B%9E%E8%AA%AC%E6%98%8E%E3%81%97%E3%81%A6%E3%82%82%E4%BC%9D%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E3%80%8D%E3%81%AF%E3%81%AA%E3%81%9C%E8%B5%B7%E3%81%93%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F-%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%A6%E3%81%8C%E6%95%99%E3%81%88%E3%82%8B%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E6%9C%AC%E8%B3%AA%E3%81%A8%E8%A7%A3%E6%B1%BA%E7%AD%96-%E4%BB%8A%E4%BA%95-%E3%82%80%E3%81%A4%E3%81%BF/dp/4296000950/357-7648561-4948626?pd_rd_w=n4H4G&content-id=amzn1.sym.08e0735d-a04d-4c94-91eb-f40781388c6b&pf_rd_p=08e0735d-a04d-4c94-91eb-f40781388c6b&pf_rd_r=9335NSZV5NGDV5GBW6M3&pd_rd_wg=E6DOC&pd_rd_r=09324b6c-4ece-434b-94a3-55cc660c5d11&pd_rd_i=4296000950&psc=1&linkCode=sl1&tag=nwiizo-22&linkId=b1ed2ab681847dbc96304701d3d674c0&language=ja_JP&ref_=as_li_ss_tl ,2025/02/03 10:42:24
+15302,Amazon.co.jp: 学びとは何か――〈探究人〉になるために (岩波新書) : 今井 むつみ: Japanese Books,https://www.amazon.co.jp/%E5%AD%A6%E3%81%B3%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%E2%80%95%E2%80%95%E3%80%88%E6%8E%A2%E7%A9%B6%E4%BA%BA%E3%80%89%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB-%E5%B2%A9%E6%B3%A2%E6%96%B0%E6%9B%B8-%E4%BB%8A%E4%BA%95-%E3%82%80%E3%81%A4%E3%81%BF/dp/4004315964?_encoding=UTF8&qid=&sr=&linkCode=sl1&tag=nwiizo-22&linkId=a9626ff99b48b904209425cca9fe9dc5&language=ja_JP&ref_=as_li_ss_tl ,2025/02/03 10:42:24
+15303,Amazon.co.jp: 私たちはどう学んでいるのか: 創発から見る認知の変化 (ちくまプリマー新書 403) : 鈴木 宏昭: Japanese Books,https://www.amazon.co.jp/%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AF%E3%81%A9%E3%81%86%E5%AD%A6%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B-%E5%89%B5%E7%99%BA%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E8%AA%8D%E7%9F%A5%E3%81%AE%E5%A4%89%E5%8C%96-%E3%81%A1%E3%81%8F%E3%81%BE%E3%83%97%E3%83%AA%E3%83%9E%E3%83%BC%E6%96%B0%E6%9B%B8-%E9%88%B4%E6%9C%A8-%E5%AE%8F%E6%98%AD/dp/448068431X?_encoding=UTF8&qid=&sr=&linkCode=sl1&tag=nwiizo-22&linkId=eba94fdf7f4af4178fe3f3b34d1fa8f8&language=ja_JP&ref_=as_li_ss_tl ,2025/02/03 10:42:24
+15304,JavaScriptビルドツールの歴史と進化 #ミライトデザイン - Qiita,https://qiita.com/ucan-lab/items/db6c511f04c40c142d77?utm_campaign=post_article&utm_medium=twitter&utm_source=twitter_share ,2025/02/03 10:42:24
+15305,2024 年、はじめて本「開発論論」を書いてみた話 #出版 - Qiita,https://qiita.com/e99h2121/items/7323c2bcbfd22c8d89e3 ,2025/02/03 10:42:24
+15306,わたしがSNSを炎上させず、健やかに付き合うために意識していること｜辻田 弘基,https://note.com/hirokitsujita/n/nd19bf6509837 ,2025/02/03 10:42:24
+15307,何をしても文句を言うユーザーに開発がどう向き合うか、開発論 というものを語り継ぐ勉強会をした話 #デザインシステム - Qiita,https://qiita.com/e99h2121/items/e984de0c1e9b3c073baa ,2025/02/03 10:42:24
+15308,薬急便におけるフロントエンド・テストガイドライン  CyberAgent Developers Blog,https://developers.cyberagent.co.jp/blog/archives/51490/ ,2025/02/03 10:42:24
+15309,HTTPの仕組み(パケットキャプチャで学ぼう！),https://zenn.dev/masahiro_toba/books/3daf7dc0d5dfd7 ,2025/02/03 10:42:24
+15310,『データモデリングでドメインを駆動する ――分散／疎結合な基幹系システムに向けて』”基幹システム”とは何か、どう作るのか、ということへの道標を示してくれる1冊 - Magnolia Tech,https://blog.magnolia.tech/entry/2024/02/18/110537 ,2025/02/03 10:42:24
+15311,テストしやすいコードとは？tenntenn氏、渋川氏、zoncoen氏に聞くGoテスト設計最前線 - connpass,https://offers-jp.connpass.com/event/339166/ ,2025/02/03 10:42:24
+15312,走り続けて 1 年が経ったということと私のリモートワークは最近どうなのかということ 2024 冬 #ふりかえり - Qiita,https://qiita.com/e99h2121/items/a14e6e9da6dee22ac080 ,2025/02/03 10:42:24
+15313,Amazon.co.jp: エンジニアのためのマネジメント入門 : 佐藤 大典: Japanese Books,https://www.amazon.co.jp/dp/4297133342?ref=cm_sw_r_ffobk_mwn_dp_42CRBPPAB3YB9XEJ7HDK&ref_=cm_sw_r_ffobk_mwn_dp_42CRBPPAB3YB9XEJ7HDK&social_share=cm_sw_r_ffobk_mwn_dp_42CRBPPAB3YB9XEJ7HDK&language=ja-JP&skipTwisterOG=1&bestFormat=true ,2025/02/03 10:42:24
+15314,生成AIにTOEIC®リスニング問題を無限に生成してもらい、スコア900超え達成した話 #Python - Qiita,https://qiita.com/readiness_/items/3a03e525344aca6d58c2 ,2025/02/03 10:42:24
+15315,目の前の仕事と向き合うことで成長できる - そーだいなるらくがき帳,https://soudai.hatenablog.com/entry/2021/12/23/111510 ,2025/02/03 10:42:24
+15316,React - Speaker Deck,https://speakerdeck.com/recruitengineers/react-2023 ,2025/02/03 10:42:24
+15317,朝早く起きるためにやったらいいかもしれないこと - Konifar's ZATSU,https://konifar-zatsu.hatenadiary.jp/entry/2016/10/20/084009 ,2025/02/03 10:42:24
+15318,ソフトウェアエンジニアとしてキャリアの螺旋を駆け上がる方法 - 経験と出会いが人生を変える / Career-Anchor-Drive - Speaker Deck,https://speakerdeck.com/soudai/career-anchor-drive ,2025/02/03 10:42:24
+15319,スケールする要求を支える仕様の「意図」と「直交性」 #DDD - Qiita,https://qiita.com/hirokidaichi/items/61ad129eae43771d0fc3 ,2025/02/03 10:42:24
+15320,エンジニアなら知っておきたい障害報告&再発防止策の考え方 #テスト - Qiita,https://qiita.com/hirokidaichi/items/f9f4549c88aaf8b38bda ,2025/02/03 10:42:24
+15321,チーム開発を進めるために意識していること - BASEプロダクトチームブログ,https://devblog.thebase.in/entry/2024/12/08/110000 ,2025/02/03 10:42:24
+15322,なぜ、ソフトウェアプロジェクトは人数を増やしても上手くいかないのか #アジャイル - Qiita,https://qiita.com/hirokidaichi/items/7f7f7881acba9302301f ,2025/02/03 10:42:24
+15323,繁忙期の疲労を防ぐ「2つの効果的な対策」とは？ - GIGAZINE,https://gigazine.net/news/20250203-2-key-ways-reduce-work-fatigue/ ,2025/02/03 10:42:24
+15324,ChatGPTが性格カスタマイズできるようになったぞ。やってみてよかった「おすすめ性格レシピ」  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2502-how-assign-chatgpt-specific-personality-traits/ ,2025/02/03 10:42:24
+15325,「時間がない」健康志向の人こそ電動歯ブラシを！短時間でツルツルになるぞ  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2501-amazon-smile-sale-electric-toothbrush/ ,2025/02/03 10:42:24
+15326,10 JavaScript Tips for Beginners🚀 - DEV Community,https://dev.to/mahmud-r-farhan/10-javascript-tips-for-beginners-51mk ,2025/02/03 10:42:24
+15327,Micro-Frontend Architecture: Lessons from the Trenches - DEV Community,https://dev.to/adamgolan/micro-frontend-architecture-lessons-from-the-trenches-2ko6 ,2025/02/03 10:42:24
+15328,Breakdown useEffect in React: Why do many people hate useEffect - DEV Community,https://dev.to/break_it_down/breakdown-useeffect-in-react-why-do-many-people-hate-useeffect-2la4 ,2025/02/03 10:42:24
+15329,"【備忘録】Express環境を作る (Docker,TypeScript対応あり) #Node.js - Qiita",https://qiita.com/h_merak/items/fcad8bea703c9376d3ef ,2025/02/03 10:42:24
+15330,Pythonで始めるテストツール製作(6)NVDからcpeNameで脆弱性一覧を取得する #REST-API - Qiita,https://qiita.com/pbjpkas/items/2e81ce7dbefa3e0cf28c ,2025/02/03 10:42:24
+15331,最強のプログラミング勉強法【電脳少女プログラミング2088 ─壊レタ君を再構築─】 #Python - Qiita,https://qiita.com/nowf41/items/12ea260ab24c7fac113c ,2025/02/03 10:42:24
+15332,Next.js MiddlewareはNode.js runtimeでも使える！【誤解を解消＆今後の展望】,https://zenn.dev/jonghyo/articles/nextjs-middleware ,2025/02/03 10:42:24
+15333,【TypeScript】unknown と anyを比較してみる,https://zenn.dev/sanpi34/articles/fc700e04db4bc3 ,2025/02/03 10:42:24
+15334,施策の効果はKPI設計で決まる！ ゴールから逆算する行動デザイン - Speaker Deck,https://speakerdeck.com/satomino/shi-ce-noxiao-guo-hakpishe-ji-dejue-maru-gorukarani-suan-suruxing-dong-dezain ,2025/02/03 10:42:24
+15335,あらためて AWS の学習のために - Speaker Deck,https://speakerdeck.com/hiragahh/aratamete-aws-noxue-xi-notameni ,2025/02/03 10:42:24
