@@ -16475,3 +16475,35 @@ id,title,url,create_at
 16474,LLM時代に、それでもLayerXで働き続ける理由 #日めくりLayerX｜serima,https://note.com/serima/n/n99d613e23832?sub_rt=share_pb ,2025/03/11 10:29:19
 16475,009_03_00.pdf,https://www.meti.go.jp/shingikai/mono_info_service/digital_jinzai/pdf/009_03_00.pdf ,2025/03/11 10:29:19
 16476,"「とりあえず動く」コードはよい、「読みやすい」コードはもっとよい / Code that 'just works' is good, but code that is 'readable' is even better. - Speaker Deck",https://speakerdeck.com/mkmk884/code-that-just-works-is-good-but-code-that-is-readable-is-even-better ,2025/03/11 10:29:19
+16477,BDDの考え方を取り入れ、複雑な要件の開発に立ち向かおう,https://zenn.dev/hacobell_dev/articles/software-behavior ,2025/03/12 16:02:55
+16478,セキュリティ・バイ・デザインの考え方 - KENTEM TechBlog,https://tech.kentem.jp/entry/2025/03/12/090000 ,2025/03/12 16:02:55
+16479,A 10x Faster TypeScript - TypeScript,https://devblogs.microsoft.com/typescript/typescript-native-port/ ,2025/03/12 16:02:55
+16480,川上量生×GOROmanが語る「VRとAIがもたらす最適化された世界」とは？──仮想現実がディストピアになるほど人類は幸福になる！,https://news.denfaminicogamer.jp/interview/180806 ,2025/03/12 16:02:55
+16481,「弱さ考」が本になります。,https://newspicks.com/news/13828438/body/?ref=index ,2025/03/12 16:02:55
+16482,かつて天才だった起業家へ、神童になりたかった凡人へ,https://newspicks.com/news/13844735/body/?ref=index ,2025/03/12 16:02:55
+16483,エンジニアの１日｜仙台で叶える子育てとエンジニア育成の両立  DevelopersIO,https://dev.classmethod.jp/articles/saiyou-blog-202503/ ,2025/03/12 16:02:55
+16484,手段から目的に遡るケースと注意点  DevelopersIO,https://dev.classmethod.jp/articles/going-back-from-the-means-to-the-ends/ ,2025/03/12 16:02:55
+16485,Microsoftが2025年内にTypeScriptを10倍高速にするツールをリリース予定と発表 - GIGAZINE,https://gigazine.net/news/20250312-microsoft-faster-typescript/ ,2025/03/12 16:02:55
+16486,ガチガチのタスク・時間管理に疲れてはじめた「ゆるタイムブロッキング」実践テクニック  ライフハッカー・ジャパン,https://www.lifehacker.jp/article/2503-tiny-hack-yuru-time-blocking/ ,2025/03/12 16:02:55
+16487,Clean Architecture in Frontend Applications. Overview - DEV Community,https://dev.to/harunou/clean-architecture-in-frontend-applications-overview-4o89 ,2025/03/12 16:02:55
+16488,"A beginner-friendly guide to understanding React Hooks — what they are, why they exist, the rules you must follow, and how to use the most common ones like useState, useEffect, and more. - DEV Community",https://dev.to/joshi16/a-beginner-friendly-guide-to-understanding-react-hooks-what-they-are-why-they-exist-the-rules-3n7a ,2025/03/12 16:02:55
+16489,🧠 Understanding React Hooks – The Modern Way to Write React - DEV Community,https://dev.to/joshi16/understanding-react-hooks-the-modern-way-to-write-react-49b2 ,2025/03/12 16:02:55
+16490,webアプリをdocker化する方法 #初心者 - Qiita,https://qiita.com/an_engineer/items/cb8348256d15d874afb9 ,2025/03/12 16:02:55
+16491,emacsのライティング環境整備（無料APIを使った翻訳、辞書、llmクライアント） #LLM - Qiita,https://qiita.com/terzacommune/items/8be52f7ca26eec77cda3 ,2025/03/12 16:02:55
+16492,DDD(ドメイン駆動設計)をGoでやってみる：[初学者向け] #プログラミング - Qiita,https://qiita.com/urabexon/items/3092cbd85124ccb2c233 ,2025/03/12 16:02:55
+16493,Go言語での時間管理：Time.TickとTime.Afterを完全攻略！ #time - Qiita,https://qiita.com/jijimama/items/5ad78cf31fb5697e8f81 ,2025/03/12 16:02:55
+16494,~web開発入門者のためのおすすめ講義３選~ #JavaScript - Qiita,https://qiita.com/sana89/items/695cd4bb6bdb74350d4c ,2025/03/12 16:02:55
+16495,Reactのコンポーネント(部分テンプレート)の使い方その1 #JavaScript - Qiita,https://qiita.com/quesman011/items/927b9f2b9adae3767fbc ,2025/03/12 16:02:55
+16496,Reactの各ページのルーティング方法 #JavaScript - Qiita,https://qiita.com/quesman011/items/aacd2e0fb55028b211bb ,2025/03/12 16:02:55
+16497,Next.js App Router のフォルダ構成 ― 実践的なノウハウとちょっとした豆知識 #React - Qiita,https://qiita.com/sghr2020/items/efb28f7d9474731ab6c3 ,2025/03/12 16:02:55
+16498,🧩✨ React Component Library設計の新パラダイム - Claude 3.7を用いた自動生成・テスト・ドキュメント化システム #AI - Qiita,https://qiita.com/YushiYamamoto/items/1d2f5673bcb92ae8c76b ,2025/03/12 16:02:55
+16499,シェルスクリプト記事集：シェルスクリプトついての記事が増えすぎたので、このあたりで一度整理してみた #Linux - Qiita,https://qiita.com/free-honda/items/155b0fc83590d0176d30 ,2025/03/12 16:02:55
+16500,要領がよくない自分のためのタスク管理術 with neovim,https://zenn.dev/moneyforward/articles/e12037a09f436c ,2025/03/12 16:02:55
+16501,Datadogでフロントエンドのログを収集する,https://zenn.dev/rehabforjapan/articles/datadog_browser_log ,2025/03/12 16:02:55
+16502,フロントエンドのコンポーネント設計、なぜすぐカオスになるのか？〜サーバーサイドエンジニアが考えてみた〜,https://zenn.dev/hatamasa/articles/dd67d80736c850 ,2025/03/12 16:02:55
+16503,React×Vite×Tailwind CSSの環境構築,https://zenn.dev/ashunar0/articles/4279a7d38d882b ,2025/03/12 16:02:55
+16504,「質問しろ」「自分で考えろ」のダブルバインドのメカニズムと解消法,https://zenn.dev/339/articles/3894f473ceb4b0 ,2025/03/12 16:02:55
+16505,IIJのエンジニアは、生成AIを業務にこう役立てる　開発リーダーの活用術：トップ人材は、生成AIをこう使う - ITmedia AI＋,https://www.itmedia.co.jp/aiplus/articles/2503/10/news050.html ,2025/03/12 16:02:55
+16506,エンジニアの目標設定に対する考え方 #日めくりLayerX｜shnjtk,https://note.com/shnjtk/n/n086d6b7a22e3 ,2025/03/12 16:02:55
+16507,「頑張る」を「楽しむ」に変換する技術 - Speaker Deck,https://speakerdeck.com/tomoyakitaura/wan-zhang-ru-wo-le-simu-nibian-huan-suruji-shu ,2025/03/12 16:02:55
+16508,プロジェクトマネジメントのおすすめ本を４つの分類でご紹介｜コーヒー好きのPM,https://note.com/pgsepm/n/n25a19c8e5c17 ,2025/03/12 16:02:55
