@@ -17006,3 +17006,38 @@ id,title,url,create_at
 17005,【CSS】:is()を使ってCSSを見やすく,https://zenn.dev/928sekine/articles/7d9080a533da11 ,2025/03/27 10:45:03
 17006,Next.jsでブラウザのログをターミナルに表示させたい,https://zenn.dev/fatricepaddyy/articles/next-browser-log ,2025/03/27 10:45:03
 17007,MCPサーバーを利用することはセキュリティ的に安全か?,https://zenn.dev/arrowkato/articles/mcp_security ,2025/03/27 10:45:03
+17008,財布を気にしたくないのでローカルLLM(Gemma3)にコードを書かせてみた - MNTSQ Techブログ,https://tech.mntsq.co.jp/entry/2025/03/25/102902 ,2025/03/28 15:11:33
+17009,お届けチームがイベント駆動アーキテクチャを採用した理由 - 10X Product Blog,https://product.10x.co.jp/entry/2025/03/26/105353 ,2025/03/28 15:11:33
+17010,"""「生成AIこんなものか」と諦める前に"" 営業AIエージェント開発現場から学ぶLLM品質保証テクニック - Algomatic Tech Blog",https://tech.algomatic.jp/entry/2025/03/26/182954 ,2025/03/28 15:11:33
+17011,コード品質向上のテクニック：第64回 プライマリコンストラクタはシンプルにする,https://techblog.lycorp.co.jp/ja/20250327icq ,2025/03/28 15:11:33
+17012,エンジニアのためのコミュニケーションベストプラクティス｜urahiroshi,https://note.com/urahiroshi/n/ne1ddfb8329eb ,2025/03/28 15:11:33
+17013,4人のデザインエンジニアに聞く！ estieでの仕事とその面白さ - estie inside blog,https://www.estie.jp/blog/entry/2025/03/27/130000 ,2025/03/28 15:11:33
+17014,SchemaSpyを使って最新のER図を保つ - STORES Product Blog,https://product.st.inc/entry/2025/03/27/143600 ,2025/03/28 15:11:33
+17015,OpenAPI仕様を活用したFastAPIとTypeScript間の型共有  レコチョクのエンジニアブログ,https://techblog.recochoku.jp/11733 ,2025/03/28 15:11:33
+17016,実務で使えるログ設計入門以前,https://zenn.dev/ncdc/articles/practical-logging-design-fundamentals ,2025/03/28 15:11:33
+17017,Microsoft 製の ブラウザ操作 MCP が実用レベルだった件,https://zenn.dev/shiaf/articles/8327e38d75f25a ,2025/03/28 15:11:33
+17018,リスクが取りにくいシステム開発でのDevinとの付き合い方 - Speaker Deck,https://speakerdeck.com/monotaro/risukugaqu-rinikuisisutemukai-fa-denodevintonofu-kihe-ifang ,2025/03/28 15:11:33
+17019,データベースエンジニアの仕事を楽にする。PgAssistantの紹介 - Speaker Deck,https://speakerdeck.com/nnaka2992/tetahesuensinianoshi-shi-wole-nisuru-pgassistantnoshao-jie ,2025/03/28 15:11:33
+17020,Notion AI の最新活用事例まとめ デモ動画集,https://demo-jp.notion.site/Notion-AI-1c05ecbb92758019b3c1d84304952e03 ,2025/03/28 15:11:33
+17021,孤独との向き合い方には三種類あると思った（『ウィキッド ふたりの魔女』を観て）｜しろくま,https://note.com/shirokuma335/n/n60cc79f764db ,2025/03/28 15:11:33
+17022,"入社3年目までの教科書：ミスとの向き合い方｜WowCraft株式会社  人の""一歩前進""を支援する総合HRカンパニー",https://note.com/wowcraft_inc/n/n9d6977f448e4 ,2025/03/28 15:11:33
+17023,DevOps Made Simple: A Beginner’s Guide to Deploying a Scalable Web App on AWS with Terraform & Docker - DEV Community,https://dev.to/yash_sonawane25/devops-made-simple-a-beginners-guide-to-deploying-a-scalable-web-app-on-aws-with-terraform--1f7 ,2025/03/28 15:11:33
+17024,Understanding the React Concurrent Mode: A Deep Dive - DEV Community,https://dev.to/louay24/understanding-the-react-concurrent-mode-a-deep-dive-15le ,2025/03/28 15:11:33
+17025,⚡️5 Advanced TypeScript APIs You should know 🚀 - DEV Community,https://dev.to/arindam_1729/5-advanced-typescript-apis-you-should-know-5c9p ,2025/03/28 15:11:33
+17026,Goに入門して、ついでにクリーンアーキテクチャに入門した　ーその1 #初学者向け - Qiita,https://qiita.com/shimamoooon/items/04b2feed39876674ba8d ,2025/03/28 15:11:33
+17027,【備忘録】ファクトリ関数が役に立った事例 #Go - Qiita,https://qiita.com/koichi2426/items/ce739abfc8cf8a104351 ,2025/03/28 15:11:33
+17028,【備忘録】ファクトリ関数の本質：ソフトウェア開発における「工場」の役割 #Go - Qiita,https://qiita.com/koichi2426/items/d7ad1bdd33030b6e9767 ,2025/03/28 15:11:33
+17029,【React】タイマーアプリを作ってuseEffectのロジックに慣れよう #JavaScript - Qiita,https://qiita.com/arunbababa/items/f19c17d58c05fb9a0e6e ,2025/03/28 15:11:33
+17030,"すべての ""行の長さと値が不定"" な 2 次元配列の出力 #JavaScript - Qiita",https://qiita.com/Haru_K0720/items/d2e5af29aa3503c5dbf6 ,2025/03/28 15:11:33
+17031,外部プログラムを実行するプログラム＝>理想のプログラムテストにできるんじゃないか説　3 #Python - Qiita,https://qiita.com/kouzimiso/items/85caed84ebf65f439755 ,2025/03/28 15:11:33
+17032,【未経験からフルスタックエンジニアへ】成長のための5つのステップ #勉強法 - Qiita,https://qiita.com/ryoheiiwamoto/items/4eec9efe9c7d6878d4be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2025/03/28 15:11:33
+17033,Next.jsのサーバーコンポーネントでrenderToStaticMarkupを使用する方法 #React - Qiita,https://qiita.com/Asaminnn/items/838ce78bcacc1b6ad0cf ,2025/03/28 15:11:33
+17034,「Web開発 × AI」 もう難しくない！？シンプルに始めるAI開発入門 #TypeScript - Qiita,https://qiita.com/BNR-Long/items/28d911eae806ed4917dc ,2025/03/28 15:11:33
+17035,【TypeScript】try...catchに頼らない型安全なエラーハンドリング #Rust - Qiita,https://qiita.com/yonaka15/items/276d1ac3e42192037e81 ,2025/03/28 15:11:33
+17036,「壊れにくい」Goの単体テスト 〜モックを活用した保守性の高いテスト設計〜,https://zenn.dev/geniee/articles/207821e953a900 ,2025/03/28 15:11:33
+17037,GO言語アプリケーションのCI/CD環境構築,https://zenn.dev/goat_spike/articles/f2edd845cee0f3 ,2025/03/28 15:11:33
+17038,Neovim luaのテストを書こう。neotestで高速に修正🔁テストのサイクルを回す,https://zenn.dev/vim_jp/articles/nvim-test-with-neotest-plenary ,2025/03/28 15:11:33
+17039,markdown内の画像もnext/imageの最適化の恩恵にあずかりたい！,https://zenn.dev/nyankiti/articles/617c50a49e28ac ,2025/03/28 15:11:33
+17040,エンジニアのためのコミュニケーションベストプラクティス,https://zenn.dev/dinii/articles/d0a3a057b8f128 ,2025/03/28 15:11:33
+17041,企業戦略のアルゴリズム活用事例：データ駆動型の意思決定を強化する方法 #初心者 - Qiita,https://qiita.com/zoldof/items/d658cf765396abd2b303 ,2025/03/28 15:11:33
+17042,【駆け出し】新人エンジニアへ捧げる言葉 #新人プログラマ応援 - Qiita,https://qiita.com/satan_engineer/items/2284ea128193c7bce88c ,2025/03/28 15:11:33
