@@ -2,7 +2,7 @@ include .env
 export $(shell sed 's/=.*//' .env)
 
 USER_FLAG=--user ${USER_NAME}
-PROJECT_FLAG=--project-name read_later_devcontainer
+PROJECT_FLAG=--project-name ${PROJECT_NAME}_devcontainer
 
 up:
 	@echo vscodeからcontainerを立ててください。
@@ -24,7 +24,7 @@ ps:
 logs:
 	docker-compose $(PROJECT_FLAG) logs
 login:
-	docker compose $(PROJECT_FLAG) exec $(USER_FLAG) python bash
+	docker compose $(PROJECT_FLAG) exec $(USER_FLAG) workspace bash
 run:
 	@make up
 	@echo "Waiting for container to be ready..."

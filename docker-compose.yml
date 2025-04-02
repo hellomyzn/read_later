@@ -2,8 +2,8 @@ version: '3.9'
 
 services:
   workspace:
-    container_name: read_later
-    hostname: read_later
+    container_name: ${PROJECT_NAME:-default}
+    hostname: ${PROJECT_NAME:-default}
     build:
       context: .
       dockerfile: ./infra/docker/python/Dockerfile
@@ -12,7 +12,7 @@ services:
         GROUP_NAME: ${GROUP_NAME-myzn}
         UID: ${UID-1000}
         GID: ${GID-1000}
-        PROJECT_ROOT_DIR: ${PORJECT_ROOT_DIR-.}
+        PROJECT_DIR: ${PROJECT_DIR-./src}
         WORKDIR: ${WORKDIR-/opt/work}
     working_dir: ${WORKDIR-/opt/work}
     tty: true
@@ -23,5 +23,5 @@ services:
       - TZ=${TZ-Asia/Tokyo}
     volumes:
       - type: bind
-        source: ./src/
+        source: ${PROJECT_DIR-./src}/
         target: ${WORKDIR-/opt/work}

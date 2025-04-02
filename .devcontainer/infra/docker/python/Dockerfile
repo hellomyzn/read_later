@@ -3,13 +3,14 @@
 # ------------------------
 FROM python:3.11.9-slim-bullseye as builder
 
-ARG PROJECT_ROOT_DIR
+ARG PROJECT_DIR
+ARG PKG="libopencv-dev curl"
 
 WORKDIR /app
 
 # middleware
 RUN apt-get update -q && \
-    apt-get -y install --no-install-recommends libopencv-dev curl && \
+    apt-get -y install --no-install-recommends ${PKG} && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
 
@@ -20,7 +21,7 @@ RUN pip install poetry --no-cache-dir
 RUN poetry config virtualenvs.create false
 
 # コピーして依存関係だけインストール
-COPY ${PROJECT_ROOT_DIR}/src/pyproject.toml ${PROJECT_ROOT_DIR}/src/poetry.lock ./
+COPY ${PROJECT_DIR}/pyproject.toml ${PROJECT_DIR}/poetry.lock ./
 RUN if [ -f pyproject.toml ]; then poetry install --no-root; fi
 
 # ------------------------
