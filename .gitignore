@@ -19,4 +19,4 @@ __pycache__/
 !/src/src/**/.gitkeep
 src/common/config/config.ini
 
-infra/docker/ssh-stub/ssh/id*
+.devcontainer/infra/docker/ssh-stub/ssh/id*

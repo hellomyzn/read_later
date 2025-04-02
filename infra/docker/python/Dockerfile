@@ -54,3 +54,6 @@ RUN chmod 755 /docker-entrypoint.sh
 COPY --from=builder /usr/local/lib/python3.11/site-packages /usr/local/lib/python3.11/site-packages
 
 USER ${USER_NAME}
+
+# If you want to just run one command, use below
+# ENTRYPOINT [ "/docker-entrypoint.sh" ]_
