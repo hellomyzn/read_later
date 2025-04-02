@@ -1,0 +1,32 @@
+version: '3.9'
+
+services:
+  workspace-vscode:
+    container_name: read_later
+    hostname: read_later
+    build:
+      context: ..
+      dockerfile: .devcontainer/infra/docker/python/Dockerfile
+      args:
+        USER_NAME: ${USER_NAME-myzn}
+        GROUP_NAME: ${GROUP_NAME-myzn}
+        UID: ${UID-1000}
+        GID: ${GID-1000}
+        PROJECT_ROOT_DIR: ${PORJECT_ROOT_DIR-..}
+        WORKDIR: ${WORKDIR-/opt/work}
+        PYTHONPATH: ${PYTHONPATH-/opt/work}
+        POETRY_HOME: ${POETRY_HOME-/opt/poetry}
+        PIP_HOME: ${PIP_HOME-/opt/pip}
+        SSH_HOME: ${SSH_HOME-/opt/ssh}
+    working_dir: ${WORKDIR-/opt/work}
+    tty: true
+    restart: always
+    env_file:
+      - .env
+    environment:
+      - TZ=${TZ-Asia/Tokyo}
+      - PYTHONPATH=${PYTHONPATH-/opt/work}
+    volumes:
+      - type: bind
+        source: ../
+        target: ${WORKDIR-/opt/work}

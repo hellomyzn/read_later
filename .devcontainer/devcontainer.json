@@ -1,8 +1,9 @@
 {
     "name": "Python VScode",
-    "dockerComposeFile": "../docker-compose.yml",
-    "service": "vscode",
-    "workspaceFolder": "/home/myzn/repo",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "workspace-vscode",
+    "workspaceFolder": "/opt/work",
+    "shutdownAction": "stopCompose",
     "customizations": {
         "vscode": {
             "extensions": [
