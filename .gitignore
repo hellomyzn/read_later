@@ -1,7 +1,13 @@
-*.pyc
+# 環境ファイル
+.env
 *.DS_Store
 *poetry.lock
 *.bash_history
+
+# Python
+__pycache__/
+*.pyc
+
 
 /src/src/csv/*
 !/src/src/csv/read_laters.csv
@@ -12,3 +18,5 @@
 
 !/src/src/**/.gitkeep
 src/common/config/config.ini
+
+infra/docker/ssh-stub/ssh/id*
