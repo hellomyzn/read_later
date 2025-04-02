@@ -1,7 +1,7 @@
 {
     "name": "Python VScode",
     "dockerComposeFile": "docker-compose.yml",
-    "service": "workspace-vscode",
+    "service": "workspace",
     "workspaceFolder": "/opt/work",
     "shutdownAction": "stopCompose",
     "customizations": {

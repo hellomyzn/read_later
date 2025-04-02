@@ -3,13 +3,14 @@
 # ------------------------
 FROM python:3.11.9-slim-bullseye as builder
 
-ARG PROJECT_ROOT_DIR
+ARG PROJECT_DIR
+ARG PKG="libopencv-dev curl"
 
 WORKDIR /app
 
 # middleware
 RUN apt-get update -q && \
-    apt-get -y install --no-install-recommends libopencv-dev curl && \
+    apt-get -y install --no-install-recommends ${PKG} && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
 
@@ -20,7 +21,7 @@ RUN pip install poetry --no-cache-dir
 RUN poetry config virtualenvs.create false
 
 # コピーして依存関係だけインストール
-COPY ${PROJECT_ROOT_DIR}/src/pyproject.toml ${PROJECT_ROOT_DIR}/src/poetry.lock ./
+COPY ${PROJECT_DIR}/pyproject.toml ${PROJECT_DIR}/poetry.lock ./
 RUN if [ -f pyproject.toml ]; then poetry install --no-root; fi
 
 # ------------------------
@@ -32,7 +33,6 @@ ARG USER_NAME
 ARG GROUP_NAME
 ARG UID
 ARG GID
-ARG PROJECT_ROOT_DIR
 ARG WORKDIR
 
 RUN mkdir -p ${WORKDIR}
@@ -47,7 +47,7 @@ RUN groupadd -g ${GID} ${GROUP_NAME} && \
     echo "${USER_NAME}:password" | chpasswd && \
     echo "${USER_NAME} ALL=(ALL) NOPASSWD:ALL" >> /etc/sudoers
 
-COPY --chown=${UID}:${GID} ${PROJECT_ROOT_DIR}/infra/docker/python/docker-entrypoint.sh /docker-entrypoint.sh
+COPY --chown=${UID}:${GID} ./infra/docker/python/docker-entrypoint.sh /docker-entrypoint.sh
 RUN chmod 755 /docker-entrypoint.sh
 
 # copy site-packages only
