@@ -6,27 +6,22 @@ services:
     hostname: read_later
     build:
       context: .
-      dockerfile: ./infra/docker/python/Dockerfile
+      dockerfile: ${PROJECT_ROOT_DIR-.}/infra/docker/python/Dockerfile
       args:
         USER_NAME: ${USER_NAME-myzn}
         GROUP_NAME: ${GROUP_NAME-myzn}
         UID: ${UID-1000}
         GID: ${GID-1000}
+        PROJECT_ROOT_DIR: ${PORJECT_ROOT_DIR-.}
         WORKDIR: ${WORKDIR-/opt/work}
-        PYTHONPATH: ${PYTHONPATH-/opt/work}
-        DOCSPATH: ${DOCSPATH-/opt/docs}
-        POETRY_HOME: ${POETRY_HOME-/opt/poetry}
-        PIP_HOME: ${PIP_HOME-/opt/pip}
-        SSH_HOME: ${SSH_HOME-/opt/ssh}
-    working_dir: /opt/work
+    working_dir: ${WORKDIR-/opt/work}
     tty: true
     restart: always
     env_file:
       - .env
     environment:
       - TZ=${TZ-Asia/Tokyo}
-      - PYTHONPATH=${PYTHONPATH-/opt/work}
     volumes:
       - type: bind
-        source: ./src/
+        source: ${PROJECT_ROOT_DIR-.}/src/
         target: ${WORKDIR-/opt/work}
