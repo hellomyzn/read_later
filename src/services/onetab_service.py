@@ -25,7 +25,7 @@ from utils import get_now_jst
 class OnetabService(object):
     """onetab service"""
 
-    ONETAB_FILE_PATH = "/opt/work/src/text/onetabs.txt"
+    ONETAB_FILE_PATH = "./src/text/onetabs.txt"
     ERR_400 = ["400 Request Header Or Cookie Too Large"]
     ERR_404 = ["The page you were looking for doesn't exist",
                "404 Not Found - Qiita"]
