@@ -6,7 +6,7 @@ services:
     hostname: read_later
     build:
       context: .
-      dockerfile: ${PROJECT_ROOT_DIR-.}/infra/docker/python/Dockerfile
+      dockerfile: ./infra/docker/python/Dockerfile
       args:
         USER_NAME: ${USER_NAME-myzn}
         GROUP_NAME: ${GROUP_NAME-myzn}
@@ -23,5 +23,5 @@ services:
       - TZ=${TZ-Asia/Tokyo}
     volumes:
       - type: bind
-        source: ${PROJECT_ROOT_DIR-.}/src/
+        source: ./src/
         target: ${WORKDIR-/opt/work}
