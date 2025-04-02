@@ -1,27 +1,30 @@
 include .env
 export $(shell sed 's/=.*//' .env)
 
+USER_FLAG=--user ${USER_NAME}
+PROJECT_FLAG=--project-name read_later_devcontainer
+
 up:
-	docker-compose up -d --build
+	@echo vscodeからcontainerを立ててください。
 build:
-	docker-compose build --no-cache --force-rm
+	@echo vscodeからcontainerを立ててください。
 stop:
-	docker-compose stop
+	docker-compose $(PROJECT_FLAG) stop
 down:
-	docker-compose down
+	docker-compose $(PROJECT_FLAG) down
 restart:
 	@make down
 	@make up
 destroy:
-	docker-compose down --rmi all --volumes --remove-orphans
+	docker-compose $(PROJECT_FLAG) down --rmi all --volumes --remove-orphans
 destroy-volumes:
-	docker-compose down --volumes
+	docker-compose $(PROJECT_FLAG) down --volumes
 ps:
-	docker-compose ps
+	docker-compose $(PROJECT_FLAG) ps
 logs:
-	docker-compose logs
+	docker-compose $(PROJECT_FLAG) logs
 login:
-	docker compose --project-name read_later_devcontainer exec --user ${USER_NAME} python bash
+	docker compose $(PROJECT_FLAG) exec $(USER_FLAG) python bash
 run:
 	@make up
 	@echo "Waiting for container to be ready..."
