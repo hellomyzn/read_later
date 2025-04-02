@@ -1,30 +1,32 @@
-version: '3.6'
+version: '3.9'
+
 services:
   python:
-    restart: always
+    container_name: read_later
+    hostname: read_later
     build:
       context: .
       dockerfile: ./infra/docker/python/Dockerfile
-    container_name: 'read_later'
-    hostname: 'read_later'
-    working_dir: '/opt/work/'
+      args:
+        USER_NAME: ${USER_NAME-myzn}
+        GROUP_NAME: ${GROUP_NAME-myzn}
+        UID: ${UID-1000}
+        GID: ${GID-1000}
+        WORKDIR: ${WORKDIR-/opt/work}
+        PYTHONPATH: ${PYTHONPATH-/opt/work}
+        DOCSPATH: ${DOCSPATH-/opt/docs}
+        POETRY_HOME: ${POETRY_HOME-/opt/poetry}
+        PIP_HOME: ${PIP_HOME-/opt/pip}
+        SSH_HOME: ${SSH_HOME-/opt/ssh}
+    working_dir: /opt/work
     tty: true
-    volumes:
-      - ./src/:/opt/work
+    restart: always
+    env_file:
+      - .env
     environment:
-      - TZ=Asia/Tokyo
-  vscode:
-    restart: always
-    build:
-      context: .
-      dockerfile: ./infra/docker/python/Dockerfile
-    container_name: 'read_later_vscode'
-    hostname: 'read_later_vscode'
-    working_dir: '/home/myzn/repo'
-    tty: true
+      - TZ=${TZ-Asia/Tokyo}
+      - PYTHONPATH=${PYTHONPATH-/opt/work}
     volumes:
       - type: bind
-        source: ./
-        target: /home/myzn/repo
-    environment:
-      - TZ=Asia/Tokyo
+        source: ./src/
+        target: ${WORKDIR-/opt/work}

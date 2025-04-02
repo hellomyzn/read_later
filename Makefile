@@ -17,10 +17,10 @@ ps:
 	docker-compose ps
 logs:
 	docker-compose logs
-python:
+login:
 	docker-compose exec python bash
 vscode:
 	docker-compose exec vscode bash
 start:
 	@make up
-	@make python
+	@make login
