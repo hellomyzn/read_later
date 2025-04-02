@@ -3,6 +3,8 @@
 # ------------------------
 FROM python:3.11.9-slim-bullseye as builder
 
+ARG PROJECT_ROOT_DIR
+
 WORKDIR /app
 
 # middleware
@@ -18,7 +20,7 @@ RUN pip install poetry --no-cache-dir
 RUN poetry config virtualenvs.create false
 
 # コピーして依存関係だけインストール
-COPY ./src/pyproject.toml ./src/poetry.lock ./
+COPY ${PROJECT_ROOT_DIR}/src/pyproject.toml ${PROJECT_ROOT_DIR}/src/poetry.lock ./
 RUN if [ -f pyproject.toml ]; then poetry install --no-root; fi
 
 # ------------------------
@@ -30,22 +32,13 @@ ARG USER_NAME
 ARG GROUP_NAME
 ARG UID
 ARG GID
+ARG PROJECT_ROOT_DIR
 ARG WORKDIR
-ARG PYTHONPATH
-ARG DOCSPATH
-ARG POETRY_HOME
-ARG PIP_HOME
-ARG SSH_HOME
 
 RUN mkdir -p ${WORKDIR}
 WORKDIR ${WORKDIR}
 
 ENV TZ=${TZ}
-ENV PYTHONPATH=${PYTHONPATH}
-ENV DOCSPATH=${DOCSPATH}
-ENV POETRY_HOME=${POETRY_HOME}
-ENV PIP_HOME=${PIP_HOME}
-ENV SSH_HOME=${SSH_HOME}
 ENV PATH=/home/${USER_NAME}/.local/bin:$PATH
 
 # 任意: ユーザー作成
@@ -54,13 +47,7 @@ RUN groupadd -g ${GID} ${GROUP_NAME} && \
     echo "${USER_NAME}:password" | chpasswd && \
     echo "${USER_NAME} ALL=(ALL) NOPASSWD:ALL" >> /etc/sudoers
 
-# create necessary dirs
-RUN mkdir -p ${PYTHONPATH} ${DOCSPATH} ${POETRY_HOME} ${PIP_HOME} ${SSH_HOME} && \
-    chown -R ${USER_NAME}:${GROUP_NAME} ${PYTHONPATH} ${DOCSPATH} ${POETRY_HOME} ${PIP_HOME} ${SSH_HOME}
-
-COPY --chown=${UID}:${GID} ./infra/docker/python/docker-entrypoint.sh /docker-entrypoint.sh
-COPY --chown=${UID}:${GID} ./docs/ ${DOCSPATH}
-COPY --chown=${UID}:${GID} ./infra/docker/ssh-stub/ssh/id_rsa ${SSH_HOME}
+COPY --chown=${UID}:${GID} ${PROJECT_ROOT_DIR}/infra/docker/python/docker-entrypoint.sh /docker-entrypoint.sh
 RUN chmod 755 /docker-entrypoint.sh
 
 # copy site-packages only
