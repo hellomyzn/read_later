@@ -1,6 +1,8 @@
 # docker-python-handson
 Based on https://qiita.com/jhorikawa_err/items/fb9c03c0982c29c5b6d5
 
+1. `cp .env.template .env`
+2. `make run`
 
 ### Docker Command
 ```
@@ -14,7 +16,7 @@ $ make down
 ### Into to container
 ```
 # python3 server (docker-compose exec python3 bash)
-$ make python
+$ make login
 ```
 
 ### test

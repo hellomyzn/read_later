@@ -18,9 +18,12 @@ ps:
 logs:
 	docker-compose logs
 login:
-	docker-compose exec python bash
-vscode:
-	docker-compose exec vscode bash
+	docker-compose exec workspace bash
 start:
 	@make up
 	@make login
+run:
+	@make up
+	@echo "Waiting for container to be ready..."
+	@sleep 2  # 必要なら調整（健康チェック導入もあり）run:
+	docker-compose exec workspace bash -c "python main.py"
