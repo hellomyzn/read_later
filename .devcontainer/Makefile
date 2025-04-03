@@ -30,4 +30,4 @@ run:
 	@echo "Waiting for container to be ready..."
 # 必要なら調整（健康チェック導入もあり）run:
 	@sleep 2
-	docker-compose exec workspace bash -c "python main.py"
+	docker compose $(PROJECT_FLAG) exec $(USER_FLAG) workspace bash -c "python main.py"
