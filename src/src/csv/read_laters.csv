@@ -17339,3 +17339,97 @@ id,title,url,create_at
 17338,ハッシュ化だけではもう古い ソルト&ペッパーという技術,https://zenn.dev/kameoncloud/articles/acf36c112d737e ,2025/04/07 12:06:17
 17339,AIエディタCursorと共に進化する開発スタイル：理想のUIを短時間で実現する,https://zenn.dev/shigerufukada/articles/51e967d9a83415 ,2025/04/07 12:06:17
 17340,社会人大学生による、エンジニアが数学をちょっとだけ好きになる話,https://zenn.dev/loglass/articles/104e35f6d8394e ,2025/04/07 12:06:17
+17341,仕事で親切と言われ始めたら注意 - Konifar's ZATSU,https://konifar-zatsu.hatenadiary.jp/entry/2020/10/09/192919 ,2025/04/09 14:34:14
+17342,PMConf2023: シリコンバレーのプロダクトマネージャー達に見る、 覚悟を決めたPMは何が違うのか？ - Speaker Deck,https://speakerdeck.com/sonehara/pmconf2023-sirikonbarenopurodakutomaneziyada-nijian-ru-jue-wu-wojue-metapmhahe-gawei-unoka ,2025/04/09 14:34:14
+17343,【Atomic Designに懐疑的なあなたへ】改めて考えたい React / Next.js のデザインパターン,https://zenn.dev/mutex_inc/articles/beca85dd7fdcae ,2025/04/09 14:34:14
+17344,3年目までに身につけたい技術ブログの書き方 - じゃあ、おうちで学べる,https://syu-m-5151.hatenablog.com/entry/2025/03/31/034420 ,2025/04/09 14:34:14
+17345,チーム全員で品質課題の改善のために取り組んだことを振り返る / Quality improvement team reflection - Speaker Deck,https://speakerdeck.com/wooootack/quality-improvement-team-reflection ,2025/04/09 14:34:14
+17346,Cline(Roo Code)を暴走列車にしたら4日間で数ヶ月分のコードが生成できた,https://zenn.dev/erukiti/articles/2503-cline-express ,2025/04/09 14:34:14
+17347,ジュニアエンジニアからシニアエンジニアになるまでに自分がやっていたことまとめ - yasuhisa's blog,https://www.yasuhisay.info/entry/2025/03/31/230212 ,2025/04/09 14:34:14
+17348,TypeScript で MCP サーバーを実装し、Claude Desktop から利用する,https://azukiazusa.dev/blog/typescript-mcp-server/ ,2025/04/09 14:34:14
+17349,やさしいMCP入門 - Speaker Deck,https://speakerdeck.com/minorun365/yasasiimcpru-men ,2025/04/09 14:34:14
+17350,MCPサーバをつくって学ぶ  @bc_rikko,https://bcrikko.github.io/til/posts/2025-04-07/what-is-mcp/ ,2025/04/09 14:34:14
+17351,Next.jsでDIコンテナを導入する方法(inversify編)  SIOS Tech. Lab,https://tech-lab.sios.jp/archives/47224 ,2025/04/09 14:34:14
+17352,nginxでフォワード先を制限する際に気をつけるべきこと - 2025-04-08 - ククログ,https://www.clear-code.com/blog/2025/4/8/nginx-allow-list.html ,2025/04/09 14:34:14
+17353,DevSecOps文化を育てる：少しずつ、でも着実にチームと前進するために / 開発者向けブログ・イベント  GMO Developers,https://developers.gmo.jp/technology/62663/ ,2025/04/09 14:34:14
+17354,バックエンドエンジニアがフロントエンド開発に挑戦して学んだこと - エス・エム・エス エンジニア テックブログ,https://tech.bm-sms.co.jp/entry/2025/04/08/110000 ,2025/04/09 14:34:14
+17355,【海外記事紹介】Next.jsから離れる企業が増えている理由 - TechFeed,https://techfeed.io/entries/67f44137fe15614dc4cedae9 ,2025/04/09 14:34:14
+17356,スタートアップのゴール設定 🥅 モメンタムを死守する (3) - Speaker Deck,https://speakerdeck.com/tumada/sutatoatupufalsegorushe-ding-momentamuwosi-shou-suru-3 ,2025/04/09 14:34:14
+17357,Amazon.co.jp: &Premium(アンド プレミアム) 2025年5月号 [暮らしと装いの、スタイルサンプル。] [雑誌] eBook : アンドプレミアム編集部: Kindleストア,https://www.amazon.co.jp/Premium-%E3%82%A2%E3%83%B3%E3%83%89-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0-2025%E5%B9%B45%E6%9C%88%E5%8F%B7-%E6%9A%AE%E3%82%89%E3%81%97%E3%81%A8%E8%A3%85%E3%81%84%E3%81%AE%E3%80%81%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%80%82-ebook/dp/B0DX1ZGM8Z/ref=books_kindle_desktop_mfs_kucp_0?_encoding=UTF8&pd_rd_w=58z9C&content-id=amzn1.sym.9b93c960-83c4-49cd-9be9-4848d8f334bc&pf_rd_p=9b93c960-83c4-49cd-9be9-4848d8f334bc&pf_rd_r=HM1629VZQS7NDSGEYHF1&pd_rd_wg=MztfQ&pd_rd_r=3d484929-0035-4405-bdab-925f2dc05093 ,2025/04/09 14:34:14
+17358,Amazon.co.jp: Casa BRUTUS(カーサ ブルータス) 2025年 4月号 [名作住宅100] [雑誌] eBook : カーサブルータス編集部: Kindleストア,https://www.amazon.co.jp/Casa-BRUTUS-%E3%83%96%E3%83%AB%E3%83%BC%E3%82%BF%E3%82%B9-2025%E5%B9%B4-%E5%90%8D%E4%BD%9C%E4%BD%8F%E5%AE%85100-ebook/dp/B0DRCRW9C6/ref=books_kindle_desktop_mfs_kucp_1?_encoding=UTF8&pd_rd_w=58z9C&content-id=amzn1.sym.9b93c960-83c4-49cd-9be9-4848d8f334bc&pf_rd_p=9b93c960-83c4-49cd-9be9-4848d8f334bc&pf_rd_r=HM1629VZQS7NDSGEYHF1&pd_rd_wg=MztfQ&pd_rd_r=3d484929-0035-4405-bdab-925f2dc05093 ,2025/04/09 14:34:14
+17359,Amazon.co.jp: GINZA(ギンザ) 2025年 4月号 [私たちの好きな、東京！] [雑誌] eBook : ギンザ編集部: Kindleストア,https://www.amazon.co.jp/GINZA-%E3%82%AE%E3%83%B3%E3%82%B6-2025%E5%B9%B4-4%E6%9C%88%E5%8F%B7-%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AE%E5%A5%BD%E3%81%8D%E3%81%AA%E3%80%81%E6%9D%B1%E4%BA%AC%EF%BC%81-ebook/dp/B0DX1XT9YD/ref=books_kindle_desktop_mfs_kucp_4?_encoding=UTF8&pd_rd_w=58z9C&content-id=amzn1.sym.9b93c960-83c4-49cd-9be9-4848d8f334bc&pf_rd_p=9b93c960-83c4-49cd-9be9-4848d8f334bc&pf_rd_r=HM1629VZQS7NDSGEYHF1&pd_rd_wg=MztfQ&pd_rd_r=3d484929-0035-4405-bdab-925f2dc05093 ,2025/04/09 14:34:14
+17360,インターンと新卒2年目で話した、半年間のインターンで得た成長と、テレワークのインターンの良さと難しさの話 - ドワンゴ教育サービス開発者ブログ,https://blog.nnn.dev/entry/2025/04/07/110000 ,2025/04/09 14:34:14
+17361,FigmaデザインをHTMLコードへ自動変換する方法 - GMOインターネットグループ グループ研究開発本部,https://recruit.gmo.jp/engineer/jisedai/blog/figma-design-to-html-using-figma-mcp-and-roo-code/ ,2025/04/09 14:34:14
+17362,MCPサーバーを利用する前に理解しておくべきセキュリティリスク,https://zenn.dev/sun_asterisk/articles/mcp_security_risk ,2025/04/09 14:34:14
+17363,ユーザのための要件定義ガイド第２版２刷,https://www.ipa.go.jp/archive/publish/qv6pgp0000000wrt-att/000079352.pdf ,2025/04/09 14:34:14
+17364,Free Next.js Hosting Providers in 2025: Pros and Cons - DEV Community,https://dev.to/joodi/free-nextjs-hosting-providers-in-2025-pros-and-cons-2a0e ,2025/04/09 14:34:14
+17365,Spring Boot ＋Docker 環境改善 #初心者 - Qiita,https://qiita.com/2201009-kikukawa/items/73b883cc33d0ff64e354 ,2025/04/09 14:34:14
+17366,Python × Go：PythonからGoを呼び出して実行速度を改善する方法 #Django - Qiita,https://qiita.com/Leapcell/items/bfd02e4bed54bbcfe631 ,2025/04/09 14:34:14
+17367,Pythonで実装するFlyweightパターン：共有によってメモリ効率を最大化する #デザインパターン - Qiita,https://qiita.com/CRUD5th/items/499454bd5b675cf2ae46 ,2025/04/09 14:34:14
+17368,Pythonで実装するPrototypeパターン：複製によるオブジェクト生成の効率化 #デザインパターン - Qiita,https://qiita.com/CRUD5th/items/1786cc971c093190a433 ,2025/04/09 14:34:14
+17369,Pythonで実装するVisitorパターン：構造を壊さずに処理を追加する外部アルゴリズム #デザインパターン - Qiita,https://qiita.com/CRUD5th/items/83687ac53be279ba60b1 ,2025/04/09 14:34:14
+17370,Pythonで実装するCommandパターン：操作のリクエストをオブジェクト化して柔軟に実行 #デザインパターン - Qiita,https://qiita.com/CRUD5th/items/79792003823bb1f104df ,2025/04/09 14:34:14
+17371,Pythonで実装するCommandパターン：命令をオブジェクトとして抽象化する #デザインパターン - Qiita,https://qiita.com/CRUD5th/items/c438b917c8a1002c259d ,2025/04/09 14:34:14
+17372,Pythonで実装するPrototypeパターン：インスタンス生成の柔軟性を高めるコピー構造 #デザインパターン - Qiita,https://qiita.com/CRUD5th/items/9a6528e0d2b314200003 ,2025/04/09 14:34:14
+17373,Pythonで実装するMediatorパターン：複雑な相互依存をハブ構造で整理する #デザインパターン - Qiita,https://qiita.com/CRUD5th/items/2790763a5654591a56ad ,2025/04/09 14:34:14
+17374,Pythonで実装するMementoパターン：状態のスナップショットを安全に記録・復元する #デザインパターン - Qiita,https://qiita.com/CRUD5th/items/7d5b2a07885050726218 ,2025/04/09 14:34:14
+17375,Pythonで実装するMediatorパターン：オブジェクト間の複雑な通信を一元管理する #デザインパターン - Qiita,https://qiita.com/CRUD5th/items/2921602d379a16ca1f44 ,2025/04/09 14:34:14
+17376,Pythonで実装するPrototypeパターン：オブジェクトの複製による効率的生成 #デザインパターン - Qiita,https://qiita.com/CRUD5th/items/816f8ea5d05c12ad4cf2 ,2025/04/09 14:34:14
+17377,Pythonで実装するStateパターン：状態によって振る舞いを動的に切り替える #デザインパターン - Qiita,https://qiita.com/CRUD5th/items/7726412742fa48dcafb2 ,2025/04/09 14:34:14
+17378,Pythonで実装するVisitorパターン：構造と処理の分離による柔軟な拡張 #デザインパターン - Qiita,https://qiita.com/CRUD5th/items/0345b66158c1ab7363f4 ,2025/04/09 14:34:14
+17379,Pythonで実装するInterpreterパターン：ドメイン言語の構文解釈を実現する構造 #デザインパターン - Qiita,https://qiita.com/CRUD5th/items/5583041e3f1d251fd7c1 ,2025/04/09 14:34:14
+17380,Pythonで実装するDecoratorパターン：機能を包み込む拡張可能な設計 #デザインパターン - Qiita,https://qiita.com/CRUD5th/items/5f73fb9742b72ac24818 ,2025/04/09 14:34:14
+17381,Pythonで実装するFlyweightパターン：インスタンスの共有によるメモリ最適化 #デザインパターン - Qiita,https://qiita.com/CRUD5th/items/6cc17457d5828c657333 ,2025/04/09 14:34:14
+17382,Pythonで実装するAdapterパターン：既存インターフェースを変換して再利用性を高める #デザインパターン - Qiita,https://qiita.com/CRUD5th/items/3c1b5f50a075c1277d68 ,2025/04/09 14:34:14
+17383,Nova_Observer β - Web脆弱性スキャナをPythonで構築 #Security - Qiita,https://qiita.com/Alecto_Fsociety/items/d01c0c358745c43af165 ,2025/04/09 14:34:14
+17384,爆速でReactでChrome拡張機能を作る #JavaScript - Qiita,https://qiita.com/shigoto_dalmatian/items/1bf1918b5cc3b9df0a5a ,2025/04/09 14:34:14
+17385,【Next.js×Django】ユーザー登録画面を作る #React - Qiita,https://qiita.com/SKY-HaYaTo/items/6b34b0b38be2456b0c5d ,2025/04/09 14:34:14
+17386,note記事化システム詳細設計とDocker環境構築計画（開発日記 No.039）,https://zenn.dev/centervil/articles/2025-04-08_039_dev-diary ,2025/04/09 14:34:14
+17387,Pythonデコレーターで実現する効率的な共通処理のコード化,https://zenn.dev/ap_com/articles/efficient-python-decorators ,2025/04/09 14:34:14
+17388,Next.js個人備忘録②：TypeScript + Tailwindで構築するNext.jsプロジェクトの手順をまとめてみた #React - Qiita,https://qiita.com/free-honda/items/3336a9ac5887f61871d9 ,2025/04/09 14:34:14
+17389,#0098（2025/04/08） 依存性逆転の原則（Dependency Inversion Principle: DIP） #Python - Qiita,https://qiita.com/kodack/items/9f3a72624b9f1e1cdfc8 ,2025/04/09 14:34:14
+17390,Next.jsでデコレーターを使ってクリーンでスケーラブルなAPIを構築する #TypeScript - Qiita,https://qiita.com/cuongcam/items/dd8316aaa89a93900730 ,2025/04/09 14:34:14
+17391,#0097（2025/04/07） インターフェース分離の原則（Interface Segregation Principle: ISP #Python - Qiita,https://qiita.com/kodack/items/3f2f69c3bd2ac3bafb71 ,2025/04/09 14:34:14
+17392,TypeScriptをパターンマッチングでシンプルに：TS-Pattern入門 #TypeScript - Qiita,https://qiita.com/aaqiloo/items/56409b0bd21e02bf1436 ,2025/04/09 14:34:14
+17393,#0093（2025/04/05） 単一責任の原則 (Single Responsibility Principle: SRP) #Python - Qiita,https://qiita.com/kodack/items/75cce29eedf5daed8c29 ,2025/04/09 14:34:14
+17394,TDDとは何か：実装よりも先に「仕様」を書くという開発スタイル #TypeScript - Qiita,https://qiita.com/CRUD5th/items/2a25274e898969f3607b ,2025/04/09 14:34:14
+17395,GitHub のセキュリティ改善,https://zenn.dev/shunsuke_suzuki/articles/github-security-2025 ,2025/04/09 14:34:14
+17396,『技術の波に乗り遅れない！すべてのITエンジニアのための「一生モノの学び方」』を読みました,https://zenn.dev/takesoon/articles/9c0f31bebb4da9 ,2025/04/09 14:34:14
+17397,あまりに凄い「ChatGPT活用の勉強法」、教科書も塾も不要になりそうな「ある機能」 連載：野口悠紀雄のデジタルイノベーションの本質｜FinTech Journal,https://www.sbbit.jp/article/fj/160777 ,2025/04/09 14:34:14
+17398,HTMLとCSSで勉強すべきことがしっかりまとめられている、アクセシビリティやパフォーマンスを考慮した実装を学べる良書 -モダンHTML＆CSS 現場の新標準ガイド  コリス,https://coliss.com/articles/book-review/isbn-9784839986933.html ,2025/04/09 14:34:14
+17399,MCPについての私見と期待｜hidenorigoto,https://note.com/hidenorigoto/n/nc91075d1aa24 ,2025/04/09 14:34:14
+17400,目標の仮設定と準備タスク  DevelopersIO,https://dev.classmethod.jp/articles/setting-goals-and-research-tasks/ ,2025/04/09 14:34:14
+17401,【成長するための1on1完全攻略術】「事前準備」と「効果的な情報の伝え方」を解説 (1/3)CodeZine（コードジン）,https://codezine.jp/article/detail/21198 ,2025/04/09 14:34:14
+17402,Clean Architecture in Frontend Applications. Usecase - DEV Community,https://dev.to/harunou/-clean-architecture-in-frontend-applications-usecase-533p ,2025/04/09 14:34:14
+17403,Software Architecture for a CHILD - DEV Community,https://dev.to/silentcoder52626/software-architecture-for-a-child-5e20 ,2025/04/09 14:34:14
+17404,Simplifying Design Patterns: Abstract Factory - DEV Community,https://dev.to/bccaxias/simplifying-design-patterns-abstract-factory-1epn ,2025/04/09 14:34:14
+17405,Rendering Strategies in Modern Web Development - DEV Community,https://dev.to/austinwdigital/rendering-strategies-in-modern-web-development-2lpe ,2025/04/09 14:34:14
+17406,Simplifying Design Patterns : Factory Method - DEV Community,https://dev.to/bccaxias/simplifying-design-patterns-factory-method-16f6 ,2025/04/09 14:34:14
+17407,Mastering useCallback in React: When and Why to Use It - DEV Community,https://dev.to/onedev/mastering-usecallback-in-react-when-and-why-to-use-it-3cbp ,2025/04/09 14:34:14
+17408,React Performance: Small Fixes That Made a Big Impact - DEV Community,https://dev.to/_arpy/react-performance-small-fixes-that-made-a-big-impact-2o30 ,2025/04/09 14:34:14
+17409,実装で学ぶフルスタックWeb開発 #Python - Qiita,https://qiita.com/neet244/items/fa8e160082149f9c6c66 ,2025/04/09 14:34:14
+17410,タスク管理システム #1 （開発環境構築 Kotlin + React + TypeScript + Docker） #Docker - Qiita,https://qiita.com/syakesoba/items/73e90c14451104fb809a ,2025/04/09 14:34:14
+17411,Next.jsとReact Testing LibraryでContextを使用しているコンポーネントのテストコードを書く方法 #JavaScript - Qiita,https://qiita.com/shigoto_dalmatian/items/d06cec0951f80d3116ba ,2025/04/09 14:34:14
+17412,実践FP設計：命令型コードを関数型にリファクタしてみる #JavaScript - Qiita,https://qiita.com/CRUD5th/items/cea56d6f03cf28d3c59c ,2025/04/09 14:34:14
+17413,【Python】最低限の手順でMCPサーバーを構築するメモ #Python - Qiita,https://qiita.com/yonaka15/items/845ecab89c3c245fbb95 ,2025/04/09 14:34:14
+17414,Pythonで実装するCommandパターン：操作をオブジェクト化して履歴と再実行を設計する #デザインパターン - Qiita,https://qiita.com/CRUD5th/items/18bdc411c15ad18a140b ,2025/04/09 14:34:14
+17415,Pythonで実装するStateパターン：状態遷移を明示化する設計手法 #デザインパターン - Qiita,https://qiita.com/CRUD5th/items/7414b980c40598433520 ,2025/04/09 14:34:14
+17416,PythonにおけるProxyパターン：アクセス制御と遅延ロードをスマートに設計する #デザインパターン - Qiita,https://qiita.com/CRUD5th/items/10721c6f5151c7a68f52 ,2025/04/09 14:34:14
+17417,Pythonで実装するVisitorパターン：構造と振る舞いを分離して保守性を高める設計 #デザインパターン - Qiita,https://qiita.com/CRUD5th/items/865fd5bcb1137d58d373 ,2025/04/09 14:34:14
+17418,Pythonで実現するInterpreterパターン：独自言語・DSLの構文解析と評価 #デザインパターン - Qiita,https://qiita.com/CRUD5th/items/432812af0963225be73c ,2025/04/09 14:34:14
+17419,PythonにおけるMediatorパターン：オブジェクト間通信の調停役としての構造設計 #デザインパターン - Qiita,https://qiita.com/CRUD5th/items/3075565db8027b5d017c ,2025/04/09 14:34:14
+17420,PythonにおけるChain of Responsibilityパターン：動的責務分配の設計 #デザインパターン - Qiita,https://qiita.com/CRUD5th/items/eb99ee3dc9ec23e9ea94 ,2025/04/09 14:34:14
+17421,Pythonで実現するVisitorパターン：構造に依存しない振る舞いの追加 #デザインパターン - Qiita,https://qiita.com/CRUD5th/items/49b8e49b564e671694f0 ,2025/04/09 14:34:14
+17422,Pythonのasync/await構文による非同期設計：イベントループと並行処理の洗練 #非同期処理 - Qiita,https://qiita.com/CRUD5th/items/1790a1c9220d14e7bd94 ,2025/04/09 14:34:14
+17423,Pythonにおけるデコレータの全貌：構文・応用・関数設計の洗練 #関数型 - Qiita,https://qiita.com/CRUD5th/items/e6fae026ef9443cacbfc ,2025/04/09 14:34:14
+17424,Pythonのimport構文とモジュール設計：パッケージのスケーラビリティ戦略 #アーキテクチャ - Qiita,https://qiita.com/CRUD5th/items/a7414b78dca34b210eb8 ,2025/04/09 14:34:14
+17425,データクラス（dataclass）による構造定義のミニマリズム #Python - Qiita,https://qiita.com/CRUD5th/items/7e176a7578c6e3789565 ,2025/04/09 14:34:14
+17426,[初心者向け] Python のオーバーロード #Python3 - Qiita,https://qiita.com/gumichan/items/3e5004815afdac9fa7be ,2025/04/09 14:34:14
+17427,音で学ぶPython：MIDI・SMF・波形生成・WAV/MP3再生の完全チュートリアル #wav - Qiita,https://qiita.com/digital_amplifier_1/items/0c9ce44fc0a163e59f66 ,2025/04/09 14:34:14
+17428,なぜTDDは設計を改善するのか：関心の分離・依存の明示・責務の単純化 #Python - Qiita,https://qiita.com/CRUD5th/items/e9ab78a63a2c9074db2e ,2025/04/09 14:34:14
+17429,テストケースに必要な項目 #QA - Qiita,https://qiita.com/s-yoshina/items/6d9f59071b8f63e3ecfa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2025/04/09 14:34:14
+17430,新米リーダーが半年間で学び・実践したこと #マネジメント - Qiita,https://qiita.com/kikng0526/items/d59263e524c8af0dda8b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2025/04/09 14:34:14
+17431,💻孤独感ゼロ！エンジニアのための「リモートワーク環境×メンタルケア」実践術10選 #環境構築 - Qiita,https://qiita.com/mnoguchi/items/2cd6203ae0e55a973ba5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2025/04/09 14:34:14
+17432,Javaデザインパターン勉強におすすめGitHub #Java - Qiita,https://qiita.com/outdoor-tk/items/8da81768386b20d46f0a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items ,2025/04/09 14:34:14
+17433,CSR/SSR/SSGの違いを整理してみた #初心者 - Qiita,https://qiita.com/longhui515/items/f323cdc601ec8fb62706 ,2025/04/09 14:34:14
+17434,Next.js個人備忘録③：Next.jsでの開発に向けて、Tailwind CSSの基本を簡単にまとめてみた #React - Qiita,https://qiita.com/free-honda/items/f4ff3b6e02f03f9d7c0e ,2025/04/09 14:34:14
