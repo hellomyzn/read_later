@@ -25,3 +25,6 @@ services:
       - type: bind
         source: ${PROJECT_DIR-./src}/
         target: ${WORKDIR-/opt/work}
+      - type: bind
+        source: ${FOOTPRINTS_DIR}/read_laters.csv
+        target: /opt/csv/read_laters.csv

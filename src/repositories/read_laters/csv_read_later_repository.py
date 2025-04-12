@@ -17,7 +17,7 @@ from repositories import CsvBaseRepository
 
 class CsvReadLaterRepository(CsvBaseRepository):
     """csv read later repository"""
-    CSV_FILE_PATH = "./src/csv/read_laters.csv"
+    CSV_FILE_PATH = "/opt/csv/read_laters.csv"
 
     KEY_ID = "id"
     KEY_TITLE = "title"

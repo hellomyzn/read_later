@@ -10,7 +10,6 @@ __pycache__/
 
 
 /src/src/csv/*
-!/src/src/csv/read_laters.csv
 /src/src/json/*
 /src/src/logs/*
 /src/src/text/*
