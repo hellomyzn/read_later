@@ -18,6 +18,7 @@ services:
         POETRY_HOME: ${POETRY_HOME-/opt/poetry}
         PIP_HOME: ${PIP_HOME-/opt/pip}
         SSH_HOME: ${SSH_HOME-/opt/ssh}
+        CSV_DIR: ${CSV_DIR-/opt/work/src/src/csv}
     working_dir: ${WORKDIR-/opt/work}
     tty: true
     restart: always

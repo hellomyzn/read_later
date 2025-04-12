@@ -14,6 +14,7 @@ services:
         GID: ${GID-1000}
         PROJECT_DIR: ${PROJECT_DIR-./src}
         WORKDIR: ${WORKDIR-/opt/work}
+        CSV_DIR: ${CSV_DIR-/opt/csv}
     working_dir: ${WORKDIR-/opt/work}
     tty: true
     restart: always
@@ -27,4 +28,4 @@ services:
         target: ${WORKDIR-/opt/work}
       - type: bind
         source: ${FOOTPRINTS_DIR}/read_laters.csv
-        target: /opt/csv/read_laters.csv
+        target: ${CSV_DIR-/opt/csv}/read_later/read_laters.csv

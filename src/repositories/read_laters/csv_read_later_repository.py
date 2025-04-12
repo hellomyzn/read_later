@@ -13,11 +13,12 @@
 # Own packages
 #########################################################
 from repositories import CsvBaseRepository
+from common.config import CSV_DIR_PATH
 
 
 class CsvReadLaterRepository(CsvBaseRepository):
     """csv read later repository"""
-    CSV_FILE_PATH = "/opt/csv/read_laters.csv"
+    CSV_FILE_PATH = f"{CSV_DIR_PATH}/read_later/read_laters.csv"
 
     KEY_ID = "id"
     KEY_TITLE = "title"
