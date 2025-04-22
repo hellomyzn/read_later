@@ -27,5 +27,5 @@ class ReadLaterController(object):
         onetabs = service.get_new_data()
         if not onetabs:
             print("no new onetabe data")
-            sys.exit(1)
+            return
         service.add(onetabs)
